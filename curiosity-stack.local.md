@@ -5,7 +5,7 @@
 # ── Core Context ──────────────────────────────────────────
 
 context:
-geography:
+  geography:
 themes:
   -
 watchlist:
@@ -13,7 +13,7 @@ watchlist:
 deprioritise:
   -
 default_output:
-text_size: comfortable
+  text_size: comfortable
 notes: |
 
 # ── Decomposition Library ─────────────────────────────────
@@ -32,6 +32,25 @@ watchlist_email_enabled: false
 watchlist_cowork_summary: true
 
 watchlist_topics:
+  - name: Sasken Technologies
+    added: 2026-05-16
+    last_status: Tier 1 - Chip-to-Cognition (Semiconductor Design + Automotive Electronics + IoT/ODM)
+    signal_priorities:
+      - news
+      - earnings
+      - regulatory
+      - orders
+    triggers:
+      - layer: L5
+        condition: Major automotive Tier-1 design win OR strong Borqs integration synergy numbers in quarterly results
+        last_fired: null
+      - layer: L2
+        condition: Announcement of PLI 2.0 semiconductor design incentives or new government order
+        last_fired: null
+      - layer: L3
+        condition: Margin expansion above 35% or new high-value design contract
+        last_fired: null
+
   - name:
     added:
     last_status:
@@ -83,4 +102,4 @@ domain_knowledge:
   space:
     []
   general:
-    []
+    - Sasken Technologies: 35+ year Bengaluru-based product engineering services company (Chip-to-Cognition). Strong in automotive electronics, semiconductor design/verification, embedded systems. Acquired Borqs IoT/ODM business in Apr 2025. Key India semiconductor + auto theme play.
