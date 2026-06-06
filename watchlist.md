@@ -14,14 +14,16 @@
 | **C2C Advanced Systems** | Defence Electronics / C4I + AI Systems. Navy and C-UAS orders driving growth. | 2026-05-17 | High conviction on defence electronics theme. |
 | **IZMO**                 | Semiconductor Packaging + Silicon Photonics + Defence Electronics. National Silicon Photonics Mission beneficiary. | 2026-05-18 | Long-term semiconductor + defence play. Monitor MPW runs. |
 | **Jyoti Global Plast**   | Custom Plastic Packaging + Drone Components. Capacity expansion + drone revenue ramp expected. | 2026-05-18 | Watch drone order execution. Reasonable valuation. |
-| **CFF Fluid Controls**   | Defence Fluid Systems + Submarine + Aerospace. P75 submarine orders + TKMS ASW MoU. Strong defence synergy. | **2026-06-07** | High conviction. **Best entry on dips**. |
-| **Reliance Industries**  | O2C + Jio + Retail + New Energy. Diversified compounder with long-term Green Hydrogen optionality. Reasonable valuation post correction. | **2026-06-07** | Core long-term holding. Accumulate on dips below ₹1,250. |
+| **CFF Fluid Controls**   | Defence Fluid Systems + Submarine + Aerospace. P75 submarine orders + TKMS ASW MoU. Strong defence synergy. | 2026-06-07 | High conviction. **Best entry on dips**. |
+| **Reliance Industries**  | O2C + Jio + Retail + New Energy. Diversified compounder with long-term Green Hydrogen optionality. Reasonable valuation post correction. | 2026-06-07 | Core long-term holding. Accumulate on dips below ₹1,250. |
+| **SOTL (Savita Oil)**    | Transformer Oil + Ester Oil Technology. Strong position in specialty transformer oils. Beneficiary of power sector capex + data center demand. | **2026-06-07** | Watch crude sensitivity and ester oil ramp. Attractive on dips. |
+| **Admach Systems**       | Industrial Automation + NDT/Testing Equipment. Focus on ECO series and defence components. | **2026-06-07** | Early stage automation + defence play. Monitor order book conversion. |
+| **Techera Engineering**  | Defence Tooling + Aerospace (C295, HAL insourcing). Strong positioning in aircraft tooling and IAF GSE. | **2026-06-07** | High conviction on defence tooling theme. Watch C295 and IAF orders. |
 
-**Total Active Topics**: 10
+**Total Active Topics**: 13
 
 **Notes**:
-- Removed: Sasken Technologies, SEDEMAC, TAC Infosec, SMIORE, Transrail Lighting
-- Added: CFF Fluid Controls, Reliance Industries
-- All entries refreshed with latest order book, results, and valuation views.
+- Added: SOTL (Savita Oil), Admach Systems, Techera Engineering
+- All entries include latest thesis and entry guidance.
 
 Run `/curiosity-stack:watchlist` to refresh.
