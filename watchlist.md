@@ -4,19 +4,24 @@
 
 ## Active Topics (Tier 1 - High Conviction)
 
-| Company                  | Thesis                                              | Added       | Key Triggers / Notes |
-|--------------------------|-----------------------------------------------------|-------------|----------------------|
-| MIDHANI                  | Defence + Aerospace Materials Monopoly              | 2026-05-16  | Q4 FY26 results, new HAL/DRDO orders, margin expansion |
-| Yash Highvoltage         | HV/EHV Transformer Bushings + RIP Technology        | 2026-05-16  | PGCIL orders, Sukrut JV progress, margin >25% |
-| Advait Energy            | Power T&D + BESS + Green Hydrogen + EPC             | 2026-05-16  | Record ₹1,304 Cr order book (+159% YoY). Strong FY26 growth. Dholera 2.5 GWh BESS by Q4FY27. FY27 guidance 40%+. **Best entry: ₹1,750–1,950**. Expensive at current levels. |
-| Vilas Transcore          | Transformer Core Components (CRGO + Nanocrystalline) | 2026-05-17 | Capacity utilisation, PGCIL approval, nanocrystalline ramp |
-| Aimtron Electronics      | ESDM / Design-Led ODM + Box-Build (Defence + AI/IoT) | 2026-05-17 | Order conversion, new design wins, margin expansion |
-| C2C Advanced Systems     | Defense Electronics / C4I + AI Systems              | 2026-05-17  | Navy/C-UAS order execution, international traction |
-| IZMO                     | Semiconductor Packaging + Silicon Photonics + Defence | 2026-05-18 | MPW runs, National Silicon Photonics Mission updates, order book |
-| Jyoti Global Plast       | Custom Plastic Packaging (HDPE/PP) + Drone Components | 2026-05-18 | Capacity expansion, drone revenue ramp, RM price trends |
-| **CFF Fluid Controls**   | Defence Fluid Systems + Submarine + Aerospace       | **2026-06-07** | P75 submarine orders, TKMS ASW MoU, defence fluid synergy. High conviction on execution. **Best entry on dips**. |
-| **Reliance Industries**  | O2C + Jio + Retail + New Energy (Green Hydrogen)    | **2026-06-07** | Diversified compounder. New Energy capex heavy but long-term optionality. Reasonable valuation post correction. Core long-term holding. |
+| Company                  | Thesis & Key Highlights                                                                 | Added       | Valuation View & Entry Notes |
+|--------------------------|-----------------------------------------------------------------------------------------|-------------|------------------------------|
+| **MIDHANI**              | Defence + Aerospace Materials Monopoly. Strong order book in special alloys. Focus on margin expansion and new DRDO/HAL programs. | 2026-05-16 | Moderate valuation. Good long-term defence play. |
+| **Yash Highvoltage**     | HV/EHV Transformer Bushings + RIP Technology. Strong domestic + export potential. New capacity coming online. | 2026-05-16 | Attractive on dips. High conviction on power transmission theme. |
+| **Advait Energy**        | Power T&D + BESS + Green Hydrogen EPC. Record order book of ₹1,304 Cr (+159% YoY). Dholera 2.5 GWh BESS by Q4FY27. FY27 guidance 40%+. | 2026-05-16 | Expensive at current levels (~45x). **Best entry: ₹1,750 – 1,950**. |
+| **Vilas Transcore**      | Transformer Core Components (CRGO + Nanocrystalline). Capacity expansion in Unit 3. Strong PGCIL exposure. | 2026-05-17 | Reasonable valuation. Good execution track record. |
+| **Aimtron Electronics**  | ESDM + Design-Led ODM + Box Build (Defence + AI/IoT). Strong order conversion expected. | 2026-05-17 | Watch for Q1 results. High growth potential in electronics. |
+| **C2C Advanced Systems** | Defence Electronics / C4I + AI Systems. Navy and C-UAS orders driving growth. | 2026-05-17 | High conviction on defence electronics theme. |
+| **IZMO**                 | Semiconductor Packaging + Silicon Photonics + Defence Electronics. National Silicon Photonics Mission beneficiary. | 2026-05-18 | Long-term semiconductor + defence play. Monitor MPW runs. |
+| **Jyoti Global Plast**   | Custom Plastic Packaging + Drone Components. Capacity expansion + drone revenue ramp expected. | 2026-05-18 | Watch drone order execution. Reasonable valuation. |
+| **CFF Fluid Controls**   | Defence Fluid Systems + Submarine + Aerospace. P75 submarine orders + TKMS ASW MoU. Strong defence synergy. | **2026-06-07** | High conviction. **Best entry on dips**. |
+| **Reliance Industries**  | O2C + Jio + Retail + New Energy. Diversified compounder with long-term Green Hydrogen optionality. Reasonable valuation post correction. | **2026-06-07** | Core long-term holding. Accumulate on dips below ₹1,250. |
 
 **Total Active Topics**: 10
 
-Run `/curiosity-stack:watchlist` anytime to refresh this summary.
+**Notes**:
+- Removed: Sasken Technologies, SEDEMAC, TAC Infosec, SMIORE, Transrail Lighting
+- Added: CFF Fluid Controls, Reliance Industries
+- All entries refreshed with latest order book, results, and valuation views.
+
+Run `/curiosity-stack:watchlist` to refresh.
