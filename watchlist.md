@@ -1,25 +1,23 @@
 # Curiosity Stack Watchlist
 
-**Last Updated**: 18 May 2026
+**Last Updated**: 7 June 2026
 
 ## Active Topics (Tier 1 - High Conviction)
 
-| Company | Thesis | Added | Key Triggers |
-|---------|--------|-------|--------------|
-| Sasken Technologies | Semiconductor Design + Automotive + IoT/ODM | 2026-05-16 | Q1 FY27 results, design wins, narrative recovery |
-| MIDHANI | Defence + Aerospace Materials Monopoly | 2026-05-16 | Q4 FY26 results, new HAL/DRDO orders, margin >22–24% |
-| Yash Highvoltage | HV/EHV Transformer Bushings Pure-Play | 2026-05-16 | Q1 FY27 results + Sukrut, new PGCIL orders, margin >25% |
-| Advait Energy | Power T&D + Green Hydrogen/BESS + EPC | 2026-05-16 | Q4 FY26 results (NRE margins), 100 MW electrolyser, GH2 orders |
-| Transrail Lighting | T&D EPC + Manufacturing (765 kV + backward integration) | 2026-05-17 | Q4 FY26 results (tower utilisation, cash flow), FY27 revenue |
-| Vilas Transcore | Transformer Core Components (CRGO + nanocrystalline) | 2026-05-17 | Q1 FY27 results (capacity utilisation, cash flow), PGCIL approval |
-| Aimtron Electronics | ESDM / Design-Led ODM + Box-Build (AI/IoT, Defence) | 2026-05-17 | Q1 FY27 results (order conversion, margins), new design wins |
-| TAC Infosec | SaaS Cybersecurity (ESOF platform) | 2026-05-17 | Q1 FY27 results (revenue + margins), new client additions |
-| SMIORE | Integrated Iron Ore + Manganese Mining | 2026-05-17 | Q1 FY27 results, steel cycle indicators, conveyor progress |
-| C2C Advanced Systems | Defense Electronics / C4I + AI Systems | 2026-05-17 | Q1 FY27 results, Navy/C-UAS order execution, international traction |
-| IZMO | Semiconductor Packaging + Silicon Photonics + Defense Electronics | 2026-05-18 | Q4 FY26 results, MPW runs & National Silicon Photonics Mission updates, izmo Microsystems order book |
-| SEDEMAC | High-margin Auto Controls / ECU Pure-Play | 2026-05-18 | Q1 FY27 results (ISG/EFI/MCU ramp), new plant commissioning, margin stability |
-| Jyoti Global Plast | Custom Plastic Packaging (HDPE/PP blow-molding) | 2026-05-18 | Q1 FY27 results (revenue + margins), capacity expansion, RM price trends |
+| Company                  | Thesis                                              | Added       | Key Triggers / Notes |
+|--------------------------|-----------------------------------------------------|-------------|----------------------|
+| MIDHANI                  | Defence + Aerospace Materials Monopoly              | 2026-05-16  | Q4 FY26 results, new HAL/DRDO orders, margin expansion |
+| Yash Highvoltage         | HV/EHV Transformer Bushings + RIP Technology        | 2026-05-16  | PGCIL orders, Sukrut JV progress, margin >25% |
+| Advait Energy            | Power T&D + BESS + Green Hydrogen + EPC             | 2026-05-16  | Record ₹1,304 Cr order book (+159% YoY). Strong FY26 growth. Dholera 2.5 GWh BESS by Q4FY27. FY27 guidance 40%+. **Best entry: ₹1,750–1,950**. Expensive at current levels. |
+| Transrail Lighting       | T&D EPC + Manufacturing (765 kV + backward integration) | 2026-05-17 | Q4 FY26 results, tower utilisation, cash flow improvement |
+| Vilas Transcore          | Transformer Core Components (CRGO + Nanocrystalline) | 2026-05-17 | Capacity utilisation, PGCIL approval, nanocrystalline ramp |
+| Aimtron Electronics      | ESDM / Design-Led ODM + Box-Build (Defence + AI/IoT) | 2026-05-17 | Order conversion, new design wins, margin expansion |
+| C2C Advanced Systems     | Defense Electronics / C4I + AI Systems              | 2026-05-17  | Navy/C-UAS order execution, international traction |
+| IZMO                     | Semiconductor Packaging + Silicon Photonics + Defence | 2026-05-18 | MPW runs, National Silicon Photonics Mission updates, order book |
+| Jyoti Global Plast       | Custom Plastic Packaging (HDPE/PP) + Drone Components | 2026-05-18 | Capacity expansion, drone revenue ramp, RM price trends |
+| **CFF Fluid Controls**   | Defence Fluid Systems + Submarine + Aerospace       | **2026-06-07** | P75 submarine orders, TKMS ASW MoU, defence fluid synergy. High conviction on execution. **Best entry on dips**. |
+| **Reliance Industries**  | O2C + Jio + Retail + New Energy (Green Hydrogen)    | **2026-06-07** | Diversified compounder. New Energy capex heavy but long-term optionality. Reasonable valuation post correction. Core long-term holding. |
 
-**Total Active Topics**: 13
+**Total Active Topics**: 11
 
 Run `/curiosity-stack:watchlist` anytime to refresh this summary.
