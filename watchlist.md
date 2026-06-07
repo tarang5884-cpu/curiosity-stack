@@ -7,7 +7,7 @@
 **Core Thesis**: Multi-year transmission + renewables + industrialization capex in Gujarat & India. Focus on execution capability, GETCO relationship, 400 kV → 765 kV transition, and Dholera SIR growth (Tata Semiconductor anchor).
 
 ### OM Power Transmission (OMPOWER) — **High Conviction Satellite**
-**Market Cap**: ~₹600 Cr | Recently listed (Apr 2026)
+**Market Cap**: ~₹600 Cr | Recently listed (Apr 2026) | Current Price: ~₹170-180
 
 **Thesis**: Pure-play EHV transmission line + substation EPC with deep GETCO moat (AA Class, 14-yr track record). Record order book, strong ROCE (44%), positioning for 765 kV and new geographies. Dholera 400 kV project is landmark.
 
@@ -19,11 +19,16 @@
 
 **Latest (June 2026)**: Officially received ₹44.95 Cr GETCO order (220 kV Jantral). Dholera SIR accelerating (Tata Fab ~50% complete, Expressway inaugurated March 2026).
 
-**Risks**: Limited direct 765 kV experience (JV route possible), WC intensity during scale-up.
+**Price Targets** (as of June 2026):
+- **Base Case (12-18 months)**: ₹280 – 350 (1.6x – 2x) — Driven by Dholera revenue recognition + initial 765 kV order wins + steady order book execution.
+- **Bull Case (24-36 months)**: ₹450 – 550+ (2.5x – 3x+) — If OMPOWER wins meaningful 765 kV packages, successfully executes in new states, and sustains high growth with margin stability.
+- **Risk / Downside Zone**: ₹120 – 140 (strong support on major execution delays or WC pressure).
 
-**Lens Fit**: Excellent on small mcap, neglect factor, long-term hold, and big-picture vision. Start small (1–3%) to ignore drawdowns.
+**Risks**: Limited direct 765 kV experience (JV route possible initially), working capital intensity during scale-up, geographic concentration.
 
-**Entry / Add Zone**: On dips or post positive execution updates.
+**Lens Fit**: Excellent on small mcap, neglect factor, long-term hold, and big-picture vision. Start small (1–3%) to comfortably ignore drawdowns.
+
+**Entry / Add Zone**: On dips (8-15% correction) or after positive execution milestones (e.g., Dholera billing progress or 765 kV order wins).
 
 ---
 
