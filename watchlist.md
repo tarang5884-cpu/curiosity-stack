@@ -1,61 +1,53 @@
-# Curiosity Stack Watchlist
+# Curiosity Stack Watchlist - Final High-Conviction Portfolio
 
-**Last Updated**: 7 June 2026
+**Last Updated**: 9 June 2026  
+**Lens Applied**: "Beyond the Index" (SOIC) – Structural themes + Capability-driven businesses with multi-year visibility, moats, and capital discipline.
 
-## Power & Infrastructure Theme (High Priority Refresh)
+## Portfolio Philosophy (Aligned with Article)
+- Focus on **structural demand** themes (Energy Infrastructure, Defence/Aerospace, High-reliability EMS/Electronics).
+- Prioritize companies with **real capabilities** (certifications, technology depth, execution track record).
+- Emphasis on **order book quality**, **value-addition ladder** (moving up from assembly to design-led/complex products), and **balance sheet strength**.
+- Concentrated portfolio in highest-conviction names rather than broad indexing.
 
-**Core Thesis**: Multi-year transmission + renewables + industrialization capex in Gujarat & India. Focus on execution capability, GETCO relationship, 400 kV → 765 kV transition, and Dholera SIR growth (Tata Semiconductor anchor).
+## Tier 1: Core High-Conviction Compounders (Primary Allocation)
 
-### OM Power Transmission (OMPOWER) — **High Conviction Satellite**
-**Market Cap**: ~₹600 Cr | Recently listed (Apr 2026) | Current Price: ~₹170-180
+| Company                  | Theme                          | Key Strengths & Fit                                                                 | Best Entry / Add Zone     | Notes / Conviction |
+|--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|--------------------|
+| **Transrail Lighting**   | Power Transmission            | Large order book, strong execution, scale in EHV/765 kV                            | On dips (₹380-420)       | Highest conviction in power theme |
+| **Cyient DLM**           | Aerospace & Defence EMS       | AS9100D + NADCAP certifications, design-led model, strong moat                     | On dips (₹380-420)       | Excellent capability fit |
+| **Vilas Transcore**      | Transformer Components        | Nanocrystalline shift, Unit 3 expansion, power sector tailwind                     | ₹380-420                 | Good execution potential |
+| **Advait Energy**        | Power T&D + BESS              | Record order book, BESS expansion, Dholera exposure                                | On dips (₹1750-1950)     | Strong structural theme alignment |
+| **C2C Advanced Systems** | Defence Electronics / C4I     | System integration, Navy & C-UAS orders, capability building                       | ₹420-480                 | High conviction defence electronics |
+| **Yash Highvoltage**     | HV/EHV Bushings               | Niche technology (RIP), domestic + export potential                                | On dips                  | Strong niche moat |
+| **Techera Engineering**  | Defence Tooling + Aerospace   | C295, HAL insourcing, aircraft tooling positioning                                 | ₹320-360                 | Good defence tooling thesis |
+| **CFF Fluid Controls**   | Defence Fluid Systems         | Submarine (P75), TKMS ASW MoU, niche capability                                    | On dips (₹620-680)       | High conviction niche defence |
 
-**Thesis**: Pure-play EHV transmission line + substation EPC with deep GETCO moat (AA Class, 14-yr track record). Record order book, strong ROCE (44%), positioning for 765 kV and new geographies. Dholera 400 kV project is landmark.
+## Tier 2: Growth / Optionality Plays (Satellite Allocation)
 
-**Key Catalysts**:
-- Dholera 400 kV GIS + lines execution
-- 765 kV tender wins (Sompipaliya GIS ~₹763 Cr active)
-- GETCO ₹96k–1L Cr transmission plan + Dholera power demand ramp (200–500 MW near-term → 1 GW+ medium-term)
-- Order book conversion & margin resilience
+| Company                  | Theme                          | Key Strengths & Fit                                                                 | Best Entry / Add Zone     | Notes / Conviction |
+|--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|--------------------|
+| **IZMO Limited**         | Photonics + Defence Electronics | Silicon photonics + defence angle                                                  | ₹280-320                 | Long-term semiconductor + defence optionality |
+| **Jyoti Global Plast**   | Drone Components + Plastics   | Drone revenue ramp potential, capacity expansion                                   | ₹140-160                 | Early-stage defence theme play |
+| **Merritronix Limited**  | Defence / Industrial          | New addition – monitor order book and execution                                    | Watch closely            | Early stage – needs proof of traction |
+| **Adisoft Technologies** | Defence / Electronics         | New addition – watch for order conversion and margin profile                       | Watch closely            | Early stage – capability building phase |
 
-**Latest (June 2026)**: Officially received ₹44.95 Cr GETCO order (220 kV Jantral). Dholera SIR accelerating (Tata Fab ~50% complete, Expressway inaugurated March 2026).
+## Large Cap Anchor
 
-**Price Targets** (as of June 2026):
-- **Base Case (12-18 months)**: ₹280 – 350 (1.6x – 2x) — Driven by Dholera revenue recognition + initial 765 kV order wins + steady order book execution.
-- **Bull Case (24-36 months)**: ₹450 – 550+ (2.5x – 3x+) — If OMPOWER wins meaningful 765 kV packages, successfully executes in new states, and sustains high growth with margin stability.
-- **Risk / Downside Zone**: ₹120 – 140 (strong support on major execution delays or WC pressure).
+| Company                  | Theme                          | Key Strengths & Fit                                                                 | Best Entry / Add Zone     | Notes / Conviction |
+|--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|--------------------|
+| **Reliance Industries**  | Diversified (New Energy + Digital) | Massive capex in green hydrogen, data centres, electronics; long-term compounder   | Below ₹1250              | Core long-term holding for portfolio stability |
 
-**Risks**: Limited direct 765 kV experience (JV route possible initially), working capital intensity during scale-up, geographic concentration.
+## Power Theme Satellite (High Conviction Addition)
 
-**Lens Fit**: Excellent on small mcap, neglect factor, long-term hold, and big-picture vision. Start small (1–3%) to comfortably ignore drawdowns.
+**OM Power Transmission** – Pure-play EHV transmission with deep GETCO moat. Fits small-cap + structural power theme strongly. Monitor Dholera execution and 765 kV wins.
 
-**Entry / Add Zone**: On dips (8-15% correction) or after positive execution milestones (e.g., Dholera billing progress or 765 kV order wins).
+## Notes & Guidelines
+- **Core Portfolio Size**: Aim for 8-10 names in Tier 1 for concentration.
+- **Entry Rule**: Prefer dips of 8-15% or after positive milestones (order wins, margin expansion, execution updates).
+- **Review Frequency**: Quarterly or after major results/order updates.
+- **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
+- All prices are approximate – re-verify latest data before acting.
 
----
+**Total High-Conviction Names**: 13 (Tier 1 + Tier 2 + Reliance + OM Power)
 
-## Active Topics (Tier 1 - High Conviction)
-
-| Company                  | Thesis & Key Highlights                                                                 | Best Entry Zone          | Valuation View & Notes |
-|--------------------------|-----------------------------------------------------------------------------------------|--------------------------|------------------------|
-| **MIDHANI**              | Defence + Aerospace Materials Monopoly. Strong order book in special alloys. Focus on margin expansion. | ₹ 280 – 320         | Moderate valuation. Good long-term defence play. |
-| **Yash Highvoltage**     | HV/EHV Transformer Bushings + RIP Technology. Strong domestic + export potential. | ₹ 1,400 – 1,550     | Attractive on dips. High conviction on power transmission. |
-| **Advait Energy**        | Power T&D + BESS + Green Hydrogen EPC. Record ₹1,304 Cr order book. Dholera 2.5 GWh BESS expansion. | **₹ 1,750 – 1,950** | Expensive currently. Best risk-reward on correction. |
-| **Vilas Transcore**      | Transformer Core Components (CRGO + Nanocrystalline). Unit 3 expansion ongoing. | ₹ 380 – 420         | Reasonable valuation. Good execution. |
-| **Aimtron Electronics**  | ESDM + Design-Led ODM + Box Build (Defence + AI/IoT). | ₹ 580 – 650         | Watch Q1 results. High growth potential in electronics. |
-| **C2C Advanced Systems** | Defence Electronics / C4I + AI Systems. Navy & C-UAS orders. | ₹ 420 – 480         | High conviction on defence electronics theme. |
-| **IZMO**                 | Semiconductor Packaging + Silicon Photonics + Defence Electronics. | ₹ 280 – 320         | Long-term semiconductor + defence play. |
-| **Jyoti Global Plast**   | Custom Plastic Packaging + Drone Components. Capacity expansion ongoing. | ₹ 140 – 160         | Watch drone revenue ramp. Reasonable valuation. |
-| **CFF Fluid Controls**   | Defence Fluid Systems + Submarine + Aerospace. P75 submarine + TKMS ASW MoU. | **₹ 620 – 680**     | High conviction. Best entry on dips. |
-| **Reliance Industries**  | O2C + Jio + Retail + New Energy. Diversified compounder with long-term Green Hydrogen optionality. | **Below ₹ 1,250**       | Core long-term holding. Accumulate on dips. |
-| **SOTL (Savita Oil)**    | Transformer Oil + Ester Oil Technology. Power sector + data center beneficiary. | ₹ 380 – 420         | Watch crude sensitivity. Attractive on dips. |
-| **Admach Systems**       | Industrial Automation + NDT/Testing Equipment (ECO series). | ₹ 180 – 210         | Early stage automation + defence play. Monitor orders. |
-| **Techera Engineering**  | Defence Tooling + Aerospace (C295, HAL insourcing). Strong positioning in aircraft tooling. | ₹ 320 – 360         | High conviction on defence tooling. Watch C295 & IAF orders. |
-
-**Total Active Topics**: 13 + OMPOWER (Power Theme addition)
-
-**Notes**:
-- Entry zones are based on current valuation analysis and margin of safety.
-- "On dips" = Wait for 8–15% correction from current levels.
-- All prices are approximate and should be re-verified with latest data before acting.
-- OMPOWER added as high-conviction power theme satellite (fits small-cap + neglect + long-hold lens strongly).
-
-Run `/curiosity-stack:watchlist` to refresh.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection.
