@@ -13,10 +13,10 @@
 
 | Company                  | Theme                          | Key Strengths & Fit                                                                 | Best Entry / Add Zone     | Notes / Conviction |
 |--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|--------------------|
-| **Transrail Lighting**   | Power Transmission            | Large order book, strong execution, scale in EHV/765 kV                            | On dips (₹380-420)       | Highest conviction in power theme |
 | **Cyient DLM**           | Aerospace & Defence EMS       | AS9100D + NADCAP certifications, design-led model, strong moat                     | On dips (₹380-420)       | Excellent capability fit |
 | **Vilas Transcore**      | Transformer Components        | Nanocrystalline shift, Unit 3 expansion, power sector tailwind                     | ₹380-420                 | Good execution potential |
 | **Advait Energy**        | Power T&D + BESS              | Record order book, BESS expansion, Dholera exposure                                | On dips (₹1750-1950)     | Strong structural theme alignment |
+| **NCC Limited**          | Diversified Infrastructure + Power | Large diversified order book, improving balance sheet, strong governance           | ₹140-150                 | High conviction on execution recovery |
 | **C2C Advanced Systems** | Defence Electronics / C4I     | System integration, Navy & C-UAS orders, capability building                       | ₹420-480                 | High conviction defence electronics |
 | **Yash Highvoltage**     | HV/EHV Bushings               | Niche technology (RIP), domestic + export potential                                | On dips                  | Strong niche moat |
 | **Techera Engineering**  | Defence Tooling + Aerospace   | C295, HAL insourcing, aircraft tooling positioning                                 | ₹320-360                 | Good defence tooling thesis |
