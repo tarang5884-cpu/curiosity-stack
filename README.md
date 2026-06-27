@@ -48,6 +48,7 @@ From the second session onwards: just describe a topic. The plugin reads your sa
 | `/curiosity-stack:stress-test` | Thesis stress test — proponents, critics, core assumptions, failure modes |
 | `/curiosity-stack:library` | Browse, search, and manage your decomposition library |
 | `/curiosity-stack:watchlist` | Manage watchlist topics, triggers, cadence, and digest settings |
+| `/curiosity-stack:running-horse` | Volume Profile + momentum agent (quick/deep) — identifies "running horses" via HVN/LVN, volume behavior, QCE-IM & Darvas structure | 
 
 ---
 
@@ -109,7 +110,6 @@ After 5+ decompositions, the plugin suggests ratings based on your usage pattern
 `/curiosity-stack:india-proxy` is a fully autonomous research agent, not a prompt.
 
 You give it a global company or theme. It independently:
-
 1. Researches the actual business model of the global reference point
 2. Searches Tracxn, Inc42, Screener.in, NASSCOM, and general web sources
 3. Validates each candidate against red flag criteria (AI-washing, segment size, client verifiability)
@@ -161,7 +161,6 @@ source_rating_enabled:   # true / false
 ### Option 2 — Edit the skills
 
 The skills in `/skills/` are plain Markdown files. Customise:
-
 - **`curiosity-framework/SKILL.md`** — adjust layer definitions, add example decompositions
 - **`company-discovery/SKILL.md`** — add India proxy patterns specific to your focus areas
 - **`sebi-compliance/SKILL.md`** — adjust disclaimer language for your jurisdiction
@@ -170,7 +169,6 @@ The skills in `/skills/` are plain Markdown files. Customise:
 ### Option 3 — Add your own skills
 
 Drop a new folder into `/skills/` with a `SKILL.md` file. Useful for:
-
 - A sector-specific decomposition template
 - A custom output format for your note-taking system
 - A personal red flag list for company validation
@@ -200,14 +198,16 @@ curiosity-stack/
 ├── agents/
 │   ├── welcome.md                    # First-session welcome and orientation
 │   ├── india-proxy-agent.md          # Autonomous India proxy research agent
-│   └── watchlist-agent.md            # Autonomous watchlist monitoring agent
+│   ├── watchlist-agent.md            # Autonomous watchlist monitoring agent
+│   └── running-horse-agent.md        # Volume Profile / Running Horse technical agent (quick + deep modes)
 ├── commands/
 │   ├── setup.md
 │   ├── decompose.md
 │   ├── india-proxy.md
 │   ├── stress-test.md
 │   ├── library.md                    # Browse decomposition library
-│   └── watchlist.md                  # Manage watchlist and triggers
+│   ├── watchlist.md                  # Manage watchlist and triggers
+│   └── running-horse.md              # Trigger for running-horse-agent
 ├── hooks/
 │   └── hooks.json                    # SEBI disclaimer on every Stop event
 ├── skills/
