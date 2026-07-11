@@ -1,10 +1,10 @@
 # Curiosity Stack Watchlist - Final High-Conviction Portfolio
 
-**Last Updated**: 10 June 2026  
+**Last Updated**: 11 July 2026  
 **Lens Applied**: "Beyond the Index" (SOIC) – Structural themes + Capability-driven businesses with multi-year visibility, moats, and capital discipline.
 
 ## Portfolio Philosophy (Aligned with Article)
-- Focus on **structural demand** themes (Energy Infrastructure, Defence/Aerospace, High-reliability EMS/Electronics).
+- Focus on **structural demand** themes (Energy Infrastructure, Defence/Aerospace, High-reliability EMS/Electronics, Data Centres, Sustainability).
 - Prioritize companies with **real capabilities** (certifications, technology depth, execution track record).
 - Emphasis on **order book quality**, **value-addition ladder** (moving up from assembly to design-led/complex products), and **balance sheet strength**.
 - Concentrated portfolio in highest-conviction names rather than broad indexing.
@@ -19,7 +19,7 @@
 | **Vilas Transcore**      | Transformer Components        | Nanocrystalline shift, Unit 3 expansion, power sector tailwind                     | ₹380-420                 | 7.6             | Clear shift from standard lamination to higher-value nanocrystalline cores |
 | **Yash Highvoltage**     | HV/EHV Bushings               | Niche technology (RIP), domestic + export potential                                | On dips                  | 7.4             | Advancing in specialized RIP bushing technology with export push |
 | **C2C Advanced Systems** | Defence Electronics / C4I     | System integration, Navy & C-UAS orders, capability building                       | ₹420-480                 | 7.8             | Expanding from integration to simulation & training solutions via Kilo partnership |
-| **Techera Engineering**  | Defence Tooling + Aerospace   | C295, HAL insourcing, aircraft tooling positioning                                 | ₹320-360                 | 7.3             | Progressing from basic tooling to higher-level aircraft tooling and insourcing |
+| **Techera Engineering**  | Defence Tooling + Aerospace   | C295, HAL insourcing, aircraft tooling positioning                                 | ₹320-360                 | 7.3             | Progressing from basic defence tooling to higher-level aircraft tooling and insourcing |
 | **CFF Fluid Controls**   | Defence Fluid Systems         | Submarine (P75), TKMS ASW MoU, niche capability                                    | On dips (₹620-680)       | 7.5             | Strengthening position in specialized defence fluid systems |
 
 ## Tier 2: Growth / Optionality Plays (Satellite Allocation)
@@ -28,8 +28,14 @@
 |--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|------------------|-------------------------|
 | **IZMO Limited**         | Photonics + Defence Electronics | Silicon photonics + defence angle                                                  | ₹280-320                 | 6.8             | Early positioning in photonics with defence applications |
 | **Jyoti Global Plast**   | Drone Components + Plastics   | Drone revenue ramp potential, capacity expansion                                   | ₹140-160                 | 6.5             | Building capabilities in drone components |
-| **Merritronix Limited**  | Defence / Industrial          | New addition – monitor order book and execution                                    | Watch closely            | 6.2             | Early stage capability building in defence/industrial |
-| **Aimtron Limited**      | Defence / Electronics         | New addition – monitor order book and margin profile                               | Watch closely            | 6.3             | Early positioning in defence electronics |
+| **Merritronix Limited**  | Defence / Industrial          | Monitor order book and execution                                    | Watch closely            | 6.2             | Early stage capability building in defence/industrial |
+| **Aimtron Limited**      | Defence / Electronics         | Monitor order book and margin profile                               | Watch closely            | 6.3             | Early positioning in defence electronics |
+| **Gala Precision**       | Precision Engineering / Defence | High-precision components, defence exposure                                 | Watch closely            | 6.5             | Building capabilities in precision components |
+| **Ganesha Ecosphere**    | Recycling / Sustainability    | PET recycling, circular economy play                                        | Watch closely            | 6.4             | Strong in sustainability and recycling |
+| **Tinna Rubber**         | Rubber / Recycling            | Tyre recycling, rubber products                                             | Watch closely            | 6.3             | Focus on recycling and rubber solutions |
+| **Rajratan Wire**        | Steel Wire / Tyres            | Bead wire for tyres, auto ancillary                                         | Watch closely            | 6.5             | Auto ancillary with tyre sector exposure |
+| **Shree Refrigerations** | Cooling / Data Centres        | Data centre cooling solutions, partnership with Smardt                         | Watch closely            | 7.0             | Strong data centre cooling play |
+| **Ador Welding**         | Welding / Industrial          | Welding equipment and consumables                                           | Watch closely            | 6.4             | Industrial welding solutions |
 
 ## Large Cap Anchor
 
@@ -37,7 +43,7 @@
 |--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|------------------|
 | **Reliance Industries**  | Diversified (New Energy + Digital) | Massive capex in green hydrogen, data centres, electronics; long-term compounder   | Below ₹1250              | 7.0             | Core long-term holding for portfolio stability |
 
-## Capability Shift Assessment (Deep Refresh - June 2026)
+## Capability Shift Assessment (Deep Refresh - July 2026)
 
 This section tracks observable movements up the value chain for Tier 1 companies based on latest verified data:
 
@@ -57,6 +63,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 11
+**Total High-Conviction Names**: 17
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Excluded Kpel, Supreme Power, Obscp, Rishabh Instruments, Pradeep Metals, DCW. Added Gala Precision, Ganesha Ecosphere, Tinna Rubber, Rajratan Wire, Shree Refrigerations, Ador Welding to Tier 2.
