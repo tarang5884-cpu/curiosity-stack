@@ -36,6 +36,11 @@
 | **Satin Creditcare**     | Microfinance / NBFC           | Strong ROA/ROE improvement, AUM growth                                      | Watch closely            | 6.8             | Recovery + growth in microfinance |
 | **Premier Explosives**   | Defence Explosives            | Explosives & defence products                                               | Watch closely            | 6.6             | Defence sector exposure |
 | **Aurionpro Solutions**  | Technology / Infrastructure   | IT solutions, security & infrastructure software                            | Watch closely            | 6.5             | Data centre & digital infrastructure angle |
+| **Kilburn Engineering**  | Process Equipment / Nuclear   | Heat exchangers, process equipment, nuclear components                      | Watch closely            | 6.7             | Heavy engineering + nuclear exposure |
+| **Avantel**              | Defence Electronics / Telecom | Defence communication & electronics                                         | Watch closely            | 6.5             | Defence electronics play |
+| **Marine Electricals**   | Marine & Industrial Electrical| Marine electrical systems, data centre electrical solutions                 | Watch closely            | 6.6             | Marine + data centre electrical |
+| **SRM Contractors**      | Infrastructure / Construction | Civil & infrastructure contracting                                          | Watch closely            | 6.4             | Infra execution play |
+| **Moschip**              | Semiconductor Design          | Semiconductor design services                                               | Watch closely            | 6.5             | Semiconductor / design services |
 
 ## Large Cap Anchor
 
@@ -63,6 +68,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 16
+**Total High-Conviction Names**: 21
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Removed Ador Welding, Tinna Rubber, Ganesha Ecosphere, Rajratan Wire. Added Vivid Electromech, Satin Creditcare, Premier Explosives, Aurionpro Solutions to Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Added Kilburn Engineering, Avantel, Marine Electricals, SRM Contractors, Moschip to Tier 2.
