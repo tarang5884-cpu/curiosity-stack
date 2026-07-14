@@ -40,6 +40,9 @@
 | **Marine Electricals**   | Marine & Industrial Electrical| Marine electrical systems, data centre electrical solutions                 | Watch closely            | 6.6             | Marine + data centre electrical |
 | **SRM Contractors**      | Infrastructure / Construction | Civil & infrastructure contracting                                          | Watch closely            | 6.4             | Infra execution play |
 | **Moschip**              | Semiconductor Design          | Semiconductor design services                                               | Watch closely            | 6.5             | Semiconductor / design services |
+| **Digilogic Systems**    | Defence Electronics / Testing | Automatic test equipment & simulation systems                               | Watch closely            | 6.5             | Defence electronics & simulation play |
+| **Kitex Garments**       | Infant & Children’s Garments  | Export-oriented infant wear with domestic brand expansion                   | Watch closely            | 6.3             | Export + domestic brand optionality |
+| **Himatsingka Seide**    | Home Textiles                   | Integrated home textiles with strong US/Europe exports                      | Watch closely            | 6.2             | Export home textiles cyclical play |
 
 ## Large Cap Anchor
 
@@ -67,6 +70,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 17
+**Total High-Conviction Names**: 20
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Removed IZMO, Ganesha Ecosphere, Ador Welding, Rajratan Wire from Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Added Digilogic Systems, Kitex Garments, Himatsingka Seide to Tier 2.
