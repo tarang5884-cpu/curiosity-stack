@@ -26,7 +26,6 @@
 
 | Company                  | Theme                          | Key Strengths & Fit                                                                 | Best Entry / Add Zone     | Conviction (/10) | Capability Shift Status |
 |--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|------------------|-------------------------|
-| **IZMO Limited**         | Photonics + Defence Electronics | Silicon photonics + defence angle                                                  | ₹280-320                 | 6.8             | Early positioning in photonics with defence applications |
 | **Jyoti Global Plast**   | Drone Components + Plastics   | Drone revenue ramp potential, capacity expansion                                   | ₹140-160                 | 6.5             | Building capabilities in drone components |
 | **Merritronix Limited**  | Defence / Industrial          | Monitor order book and execution                                    | Watch closely            | 6.2             | Early stage capability building in defence/industrial |
 | **Aimtron Limited**      | Defence / Electronics         | Monitor order book and margin profile                               | Watch closely            | 6.3             | Early positioning in defence electronics |
@@ -68,6 +67,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 21
+**Total High-Conviction Names**: 17
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Added Kilburn Engineering, Avantel, Marine Electricals, SRM Contractors, Moschip to Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Removed IZMO, Ganesha Ecosphere, Ador Welding, Rajratan Wire from Tier 2.
