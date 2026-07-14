@@ -1,6 +1,6 @@
 # Curiosity Stack Watchlist - Final High-Conviction Portfolio
 
-**Last Updated**: 11 July 2026  
+**Last Updated**: 14 July 2026  
 **Lens Applied**: "Beyond the Index" (SOIC) – Structural themes + Capability-driven businesses with multi-year visibility, moats, and capital discipline.
 
 ## Portfolio Philosophy (Aligned with Article)
@@ -31,11 +31,11 @@
 | **Merritronix Limited**  | Defence / Industrial          | Monitor order book and execution                                    | Watch closely            | 6.2             | Early stage capability building in defence/industrial |
 | **Aimtron Limited**      | Defence / Electronics         | Monitor order book and margin profile                               | Watch closely            | 6.3             | Early positioning in defence electronics |
 | **Gala Precision**       | Precision Engineering / Defence | High-precision components, defence exposure                                 | Watch closely            | 6.5             | Building capabilities in precision components |
-| **Ganesha Ecosphere**    | Recycling / Sustainability    | PET recycling, circular economy play                                        | Watch closely            | 6.4             | Strong in sustainability and recycling |
-| **Tinna Rubber**         | Rubber / Recycling            | Tyre recycling, rubber products                                             | Watch closely            | 6.3             | Focus on recycling and rubber solutions |
-| **Rajratan Wire**        | Steel Wire / Tyres            | Bead wire for tyres, auto ancillary                                         | Watch closely            | 6.5             | Auto ancillary with tyre sector exposure |
 | **Shree Refrigerations** | Cooling / Data Centres        | Data centre cooling solutions, partnership with Smardt                         | Watch closely            | 7.0             | Strong data centre cooling play |
-| **Ador Welding**         | Welding / Industrial          | Welding equipment and consumables                                           | Watch closely            | 6.4             | Industrial welding solutions |
+| **Vivid Electromech**    | Electrical & Mechanical       | Power distribution & infrastructure solutions                               | Watch closely            | 6.5             | Data centre & industrial electrical play |
+| **Satin Creditcare**     | Microfinance / NBFC           | Strong ROA/ROE improvement, AUM growth                                      | Watch closely            | 6.8             | Recovery + growth in microfinance |
+| **Premier Explosives**   | Defence Explosives            | Explosives & defence products                                               | Watch closely            | 6.6             | Defence sector exposure |
+| **Aurionpro Solutions**  | Technology / Infrastructure   | IT solutions, security & infrastructure software                            | Watch closely            | 6.5             | Data centre & digital infrastructure angle |
 
 ## Large Cap Anchor
 
@@ -63,6 +63,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 17
+**Total High-Conviction Names**: 16
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Excluded Kpel, Supreme Power, Obscp, Rishabh Instruments, Pradeep Metals, DCW. Added Gala Precision, Ganesha Ecosphere, Tinna Rubber, Rajratan Wire, Shree Refrigerations, Ador Welding to Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Removed Ador Welding, Tinna Rubber, Ganesha Ecosphere, Rajratan Wire. Added Vivid Electromech, Satin Creditcare, Premier Explosives, Aurionpro Solutions to Tier 2.
