@@ -39,6 +39,7 @@
 | **Marine Electricals**   | Marine & Industrial Electrical| Marine electrical systems, data centre electrical solutions                 | Watch closely            | 6.6             | Marine + data centre electrical |
 | **SRM Contractors**      | Infrastructure / Construction | Civil & infrastructure contracting                                          | Watch closely            | 6.4             | Infra execution play |
 | **Moschip**              | Semiconductor Design          | Semiconductor design services                                               | Watch closely            | 6.5             | Semiconductor / design services |
+| **Sasken Technologies**  | Semiconductor Design Services | Deep expertise in semiconductor design, embedded systems, and automotive/telecom verticals. Long-standing global client relationships and improving order book momentum in complex chip design | On dips                  | 6.6             | Building scale in high-value semiconductor design services with focus on complex chip design and system integration |
 | **Digilogic Systems**    | Defence Electronics / Testing | Automatic test equipment & simulation systems                               | Watch closely            | 6.5             | Defence electronics & simulation play |
 | **Kitex Garments**       | Infant & Children’s Garments  | Export-oriented infant wear with domestic brand expansion                   | Watch closely            | 6.3             | Export + domestic brand optionality |
 | **Himatsingka Seide**    | Home Textiles                   | Integrated home textiles with strong US/Europe exports                      | Watch closely            | 6.2             | Export home textiles cyclical play |
@@ -69,6 +70,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 20
+**Total High-Conviction Names**: 21
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Removed Techera Engineering from Tier 1. Added Avana Electrosystems to Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Removed Techera Engineering from Tier 1. Added Avana Electrosystems to Tier 2. Added Sasken Technologies to Tier 2.
