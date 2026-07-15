@@ -1,6 +1,6 @@
 # Curiosity Stack Watchlist - Final High-Conviction Portfolio
 
-**Last Updated**: 14 July 2026  
+**Last Updated**: 15 July 2026  
 **Lens Applied**: "Beyond the Index" (SOIC) – Structural themes + Capability-driven businesses with multi-year visibility, moats, and capital discipline.
 
 ## Portfolio Philosophy (Aligned with Article)
@@ -35,7 +35,7 @@
 | **Satin Creditcare**     | Microfinance / NBFC           | Strong ROA/ROE improvement, AUM growth                                      | Watch closely            | 6.8             | Recovery + growth in microfinance |
 | **Premier Explosives**   | Defence Explosives            | Explosives & defence products                                               | Watch closely            | 6.6             | Defence sector exposure |
 | **Aurionpro Solutions**  | Technology / Infrastructure   | IT solutions, security & infrastructure software                            | Watch closely            | 6.5             | Data centre & digital infrastructure angle |
-| **Kilburn Engineering**  | Process Equipment / Nuclear   | Heat exchangers, process equipment, nuclear components                      | Watch closely            | 6.7             | Heavy engineering + nuclear exposure |
+| **Kilburn Engineering**  | Process Equipment / Nuclear   | Heat exchangers, process equipment, nuclear components; secured first ₹70.2 Cr order from Casale SA (Switzerland) and entered their qualified supplier base | Watch closely            | 6.9             | Heavy engineering + nuclear exposure; progressing in international fertilizer equipment capabilities |
 | **Avantel**              | Defence Electronics / Telecom | Defence communication & electronics                                         | Watch closely            | 6.5             | Defence electronics play |
 | **Marine Electricals**   | Marine & Industrial Electrical| Marine electrical systems, data centre electrical solutions                 | Watch closely            | 6.6             | Marine + data centre electrical |
 | **SRM Contractors**      | Infrastructure / Construction | Civil & infrastructure contracting                                          | Watch closely            | 6.4             | Infra execution play |
@@ -72,4 +72,4 @@ These shifts are expected to drive step-change improvements in margins and earni
 
 **Total High-Conviction Names**: 20
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Added Digilogic Systems, Kitex Garments, Himatsingka Seide to Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Added Digilogic Systems, Kitex Garments, Himatsingka Seide to Tier 2. Updated Kilburn Engineering conviction and notes for Casale SA order win.
