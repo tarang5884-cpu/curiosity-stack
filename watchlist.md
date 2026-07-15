@@ -19,7 +19,6 @@
 | **Vilas Transcore**      | Transformer Components        | Nanocrystalline shift, Unit 3 expansion, power sector tailwind                     | ₹380-420                 | 7.6             | Clear shift from standard lamination to higher-value nanocrystalline cores |
 | **Yash Highvoltage**     | HV/EHV Bushings               | Niche technology (RIP), domestic + export potential                                | On dips                  | 7.4             | Advancing in specialized RIP bushing technology with export push |
 | **C2C Advanced Systems** | Defence Electronics / C4I     | System integration, Navy & C-UAS orders, capability building                       | ₹420-480                 | 7.8             | Expanding from integration to simulation & training solutions via Kilo partnership |
-| **Techera Engineering**  | Defence Tooling + Aerospace   | C295, HAL insourcing, aircraft tooling positioning                                 | ₹320-360                 | 7.3             | Progressing from basic defence tooling to higher-level aircraft tooling and insourcing |
 | **CFF Fluid Controls**   | Defence Fluid Systems         | Submarine (P75), TKMS ASW MoU, niche capability                                    | On dips (₹620-680)       | 7.5             | Strengthening position in specialized defence fluid systems |
 
 ## Tier 2: Growth / Optionality Plays (Satellite Allocation)
@@ -43,6 +42,7 @@
 | **Digilogic Systems**    | Defence Electronics / Testing | Automatic test equipment & simulation systems                               | Watch closely            | 6.5             | Defence electronics & simulation play |
 | **Kitex Garments**       | Infant & Children’s Garments  | Export-oriented infant wear with domestic brand expansion                   | Watch closely            | 6.3             | Export + domestic brand optionality |
 | **Himatsingka Seide**    | Home Textiles                   | Integrated home textiles with strong US/Europe exports                      | Watch closely            | 6.2             | Export home textiles cyclical play |
+| **Avana Electrosystems** | Power T&D / Substation Automation | Technical moat in protection relays, substation automation & SCADA; strong utility approvals and higher-value specialty play | Watch closely            | 6.7             | Building capabilities in high-technical-barrier substation automation and protection systems |
 
 ## Large Cap Anchor
 
@@ -58,7 +58,6 @@ This section tracks observable movements up the value chain for Tier 1 companies
 - **Vilas Transcore**: Moving from standard transformer components to nanocrystalline cores and higher-specification lamination. Unit 3 expansion supports this upgrade.
 - **Yash Highvoltage**: Advancing from standard bushings to specialized RIP (Resin Impregnated Paper) technology with growing export focus.
 - **C2C Advanced Systems**: Expanding from traditional defence electronics integration to simulation, training, and VR solutions through the Kilo Solutions partnership and Offshore Development Centre.
-- **Techera Engineering**: Progressing from basic defence tooling to higher-complexity aircraft tooling and direct insourcing with HAL and C295 programs.
 - **CFF Fluid Controls**: Strengthening niche capabilities in defence fluid systems with submarine and ASW MoU-related work.
 
 These shifts are expected to drive step-change improvements in margins and earnings trajectory over the medium term.
@@ -72,4 +71,4 @@ These shifts are expected to drive step-change improvements in margins and earni
 
 **Total High-Conviction Names**: 20
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Updated watchlist: Added Digilogic Systems, Kitex Garments, Himatsingka Seide to Tier 2. Updated Kilburn Engineering conviction and notes for Casale SA order win.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Removed Techera Engineering from Tier 1. Added Avana Electrosystems to Tier 2.
