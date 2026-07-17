@@ -45,6 +45,8 @@
 | **Himatsingka Seide**    | Home Textiles                   | Integrated home textiles with strong US/Europe exports                      | Watch closely            | 5.9             | Export home textiles cyclical play |
 | **Avana Electrosystems** | Power T&D / Substation Automation | Technical moat in protection relays, substation automation & SCADA; strong utility approvals and higher-value specialty play | Watch closely            | 6.9             | Building capabilities in high-technical-barrier substation automation and protection systems (Niche Manufacturing / Precision) |
 | **Safety Controls & Devices** | Power T&D / Substation EPC | Substation automation, protection systems & electrical infrastructure EPC | Watch closely | 6.4 | Niche substation & protection systems player with improving order book and execution |
+| **FEDFINA**              | NBFC – Gold + LAP (Secured)   | Fully secured book strategy, strong AUM growth, improving ROA/ROE, gold franchise scaling | Watch closely        | 6.9             | Building efficient fully secured lending franchise |
+| **Modison**              | Power T&D / Electrical Contacts | Niche electrical contacts for switchgear & circuit breakers                         | Watch closely        | 6.5             | Specialized component player in electrical equipment value chain |
 
 ## Large Cap Anchor
 
@@ -71,6 +73,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 22
+**Total High-Conviction Names**: 24
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Re-ranked conviction scores with higher emphasis on AI/Data Centre, Cybersecurity, Semiconductor, Defence Electronics, Niche Manufacturing, and Precision Components themes. Added Safety Controls & Devices Limited to Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Re-ranked conviction scores with higher emphasis on AI/Data Centre, Cybersecurity, Semiconductor, Defence Electronics, Niche Manufacturing, and Precision Components themes. Added FEDFINA and Modison to Tier 2.
