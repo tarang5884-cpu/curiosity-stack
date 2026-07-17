@@ -1,6 +1,6 @@
 # Curiosity Stack Watchlist - Final High-Conviction Portfolio
 
-**Last Updated**: 15 July 2026  
+**Last Updated**: 17 July 2026  
 **Lens Applied**: "Beyond the Index" (SOIC) – Structural themes + Capability-driven businesses with multi-year visibility, moats, and capital discipline.
 
 ## Portfolio Philosophy (Aligned with Article)
@@ -44,6 +44,7 @@
 | **Kitex Garments**       | Infant & Children’s Garments  | Export-oriented infant wear with domestic brand expansion                   | Watch closely            | 6.0             | Export + domestic brand optionality |
 | **Himatsingka Seide**    | Home Textiles                   | Integrated home textiles with strong US/Europe exports                      | Watch closely            | 5.9             | Export home textiles cyclical play |
 | **Avana Electrosystems** | Power T&D / Substation Automation | Technical moat in protection relays, substation automation & SCADA; strong utility approvals and higher-value specialty play | Watch closely            | 6.9             | Building capabilities in high-technical-barrier substation automation and protection systems (Niche Manufacturing / Precision) |
+| **Safety Controls & Devices** | Power T&D / Substation EPC | Substation automation, protection systems & electrical infrastructure EPC | Watch closely | 6.4 | Niche substation & protection systems player with improving order book and execution |
 
 ## Large Cap Anchor
 
@@ -70,6 +71,6 @@ These shifts are expected to drive step-change improvements in margins and earni
 - **Exit / Reduce Rule**: Weakening order book, margin compression without recovery, or loss of competitive edge.
 - All prices are approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names**: 21
+**Total High-Conviction Names**: 22
 
-**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Re-ranked conviction scores with higher emphasis on AI/Data Centre, Cybersecurity, Semiconductor, Defence Electronics, Niche Manufacturing, and Precision Components themes. Added Sasken Technologies to Tier 2.
+**Last Review Lens**: "Beyond the Index" – Structural + Capability-driven selection with focus on measurable capability shifts. Re-ranked conviction scores with higher emphasis on AI/Data Centre, Cybersecurity, Semiconductor, Defence Electronics, Niche Manufacturing, and Precision Components themes. Added Safety Controls & Devices Limited to Tier 2.
