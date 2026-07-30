@@ -1,13 +1,15 @@
-# Curiosity Stack Watchlist - Final High-Conviction Portfolio
+# Curiosity Stack Watchlist - High-Conviction Portfolio
 
-**Last Updated**: 26 July 2026  
-**Lens Applied**: Atoms vs Bits + Structural Capex Cycle (Power T&D, Defence, Precision, Data Centre infra, Specialty Materials)
+**Last Updated**: 30 July 2026  
+**Lens Applied**: Atoms vs Bits + Structural Capex Cycle (Power T&D, Defence, Precision Engineering, Data Centre infra, Specialty Materials)
 
 ## Portfolio Philosophy
 - Prioritise **Atoms** (physical constraints, power equipment, defence components, precision manufacturing, specialty materials) over pure Bits.
 - Focus on businesses with real capacity ramps, order book visibility, qualification barriers, and multi-year structural demand.
 - Concentrated core in highest-conviction Atoms names.
 - Capability shift and execution still matter — we track both.
+
+---
 
 ## Tier 1: Core High-Conviction Atoms (Primary Allocation)
 
@@ -20,36 +22,40 @@
 | **Vivid Electromech**    | Defence Electromechanical     | Electromechanical systems with defence exposure; strong momentum                   | On dips                  | 7.4             | Expanding defence-linked electromechanical capabilities |
 | **Devson Catalyst**      | Specialty Catalysts           | Niche catalysts, export angle, capacity expansion                                  | On dips                  | 7.3             | New addition – capacity + export led growth |
 | **Marine Electricals**   | Marine + Industrial Electrical| Marine electrical systems + industrial/data centre exposure                        | On dips                  | 7.0             | Diversified electrical Atoms play |
+| **Genus Power**          | Smart Metering / Power Infra  | ₹25,173 Cr order book; RDSS beneficiary; multi-year visibility; marquee interest   | ₹290–330                 | 7.3             | **NEW** – Strong revenue ramp; cash conversion is key monitorable |
+
+---
 
 ## Tier 2: Secondary / Monitor (Satellite Allocation)
 
-| Company                        | Theme                          | Conviction (/10) | Notes |
-|--------------------------------|--------------------------------|------------------|-------|
-| **Susan Electricals**          | Electrical Equipment           | 6.9             | New addition – electricals, prior analysis done |
-| **Merritronix**                | Electronics / Components       | 6.8             | Strong gainer; electronics enabling |
-| **Digilogic Systems**          | Defence Electronics / Testing  | 6.7             | Automatic test & simulation systems |
-| **Kilburn Engineering**        | Process Equipment / Nuclear    | 7.3             | High margins, capacity expansion, Casale orders |
-| **Gala Precision**             | Precision Engineering          | 6.8             | Springs + fasteners; Chennai ramp key |
-| **Aimtron Electronics**        | EMS / Electronics              | 6.3             | Growth EMS; competitive space |
-| **Highness Microelectronics**  | Electronics / LED              | 6.2             | Niche import substitution |
-| **Premier Explosives**         | Defence Explosives             | 6.4             | Defence exposure; valuation watch |
-| **Moschip**                    | Semiconductor Design           | 6.5             | Design services (Hybrid) |
-| **Sasken Technologies**        | Semiconductor Design Services  | 6.8             | Complex chip design services |
-| **Avantel**                    | Defence Electronics / Telecom  | 6.6             | Defence communication |
-| **Shree Refrigerations**       | Data Centre Cooling            | 7.0             | Cooling solutions |
-| **Advait Energy**              | Power T&D + BESS               | 6.8             | Monitor execution on BESS / green hydrogen |
-| **C2C Advanced Systems**       | Defence Electronics / C4I      | 7.2             | System integration + simulation |
-| **FEDFINA**                    | NBFC – Gold + LAP              | 6.5             | Secured book; capital trajectory key |
-| **Modison**                    | Electrical Contacts            | 6.4             | Niche switchgear components |
-| **Safety Controls & Devices**  | Substation / Protection        | 6.3             | Substation automation |
-| **Aurionpro Solutions**        | Banking Software + AI          | 6.2             | More Bits than Atoms |
-| **Premier Energies**           | Solar Manufacturing            | 6.0             | Competitive solar space |
-| **QLine Biotech**              | IVD / Diagnostics              | 6.0             | Outside core Atoms thesis |
-| **Jyoti Global Plast**         | Plastics + early Defence       | 5.8             | Speculative / low liquidity |
-| **Kitex Garments**             | Infant Wear                    | 5.7             | Export cyclical |
-| **Himatsingka Seide**          | Home Textiles                   | 5.6             | Export cyclical |
-| **Satin Creditcare**           | Microfinance                   | 6.0             | Recovery story |
-| **SRM Contractors**            | Infrastructure                 | 5.9             | Execution play |
+| Company                        | Theme                          | Conviction (/10) | Best Entry / Add Zone | Notes |
+|--------------------------------|--------------------------------|------------------|-----------------------|-------|
+| **Kilburn Engineering**        | Process Equipment / Nuclear    | 7.3             | On dips              | High margins, capacity expansion, Casale orders |
+| **Shree Refrigerations**       | Data Centre Cooling            | 7.0             | On dips              | Cooling solutions |
+| **Susan Electricals**          | Electrical Equipment           | 6.9             | On dips              | Electricals |
+| **C2C Advanced Systems**       | Defence Electronics / C4I      | 7.2             | On dips              | System integration + simulation |
+| **Indo SMC**                   | Electrical Enclosures / SMC-FRP| 6.5             | ₹380–450             | **NEW** – Kacholia increased stake; strong momentum; prefer dips |
+| **Merritronix**                | Electronics / Components       | 6.8             | On dips              | Electronics enabling |
+| **Digilogic Systems**          | Defence Electronics / Testing  | 6.7             | On dips              | Automatic test & simulation systems |
+| **Gala Precision**             | Precision Engineering          | 6.8             | On dips              | Springs + fasteners; Chennai ramp key |
+| **Sasken Technologies**        | Semiconductor Design Services  | 6.8             | On dips              | Complex chip design services |
+| **Advait Energy**              | Power T&D + BESS               | 6.8             | On dips              | Monitor execution on BESS / green hydrogen |
+| **Avantel**                    | Defence Electronics / Telecom  | 6.6             | On dips              | Defence communication |
+| **Moschip**                    | Semiconductor Design           | 6.5             | On dips              | Design services (Hybrid) |
+| **FEDFINA**                    | NBFC – Gold + LAP              | 6.5             | On dips              | Secured book; capital trajectory key |
+| **Premier Explosives**         | Defence Explosives             | 6.4             | On dips              | Defence exposure; valuation watch |
+| **Modison**                    | Electrical Contacts            | 6.4             | On dips              | Niche switchgear components |
+| **Aimtron Electronics**        | EMS / Electronics              | 6.3             | On dips              | Growth EMS; competitive space |
+| **Safety Controls & Devices**  | Substation / Protection        | 6.3             | On dips              | Substation automation |
+| **Highness Microelectronics**  | Electronics / LED              | 6.2             | On dips              | Niche import substitution |
+| **Aurionpro Solutions**        | Banking Software + AI          | 6.2             | On dips              | More Bits than Atoms |
+| **Premier Energies**           | Solar Manufacturing            | 6.0             | On dips              | Competitive solar space |
+| **QLine Biotech**              | IVD / Diagnostics              | 6.0             | On dips              | Outside core Atoms thesis |
+| **Satin Creditcare**           | Microfinance                   | 6.0             | On dips              | Recovery story |
+| **SRM Contractors**            | Infrastructure                 | 5.9             | On dips              | Execution play |
+| **Jyoti Global Plast**         | Plastics + early Defence       | 5.8             | On dips              | Speculative / low liquidity |
+| **Kitex Garments**             | Infant Wear                    | 5.7             | On dips              | Export cyclical |
+| **Himatsingka Seide**          | Home Textiles                   | 5.6             | On dips              | Export cyclical |
 
 ## Large Cap Anchor
 
@@ -57,21 +63,79 @@
 |--------------------------|--------------------------------|------------------|-------|
 | **Reliance Industries**  | Diversified (New Energy + Digital) | 7.0           | Long-term portfolio anchor |
 
-## Key Changes in This Refresh (26 July 2026)
-- Re-ranked entire list on **Atoms vs Bits** framework + structural capex cycle.
-- **Promoted** Avana Electrosystems and Vivid Electromech to Tier 1.
-- **Added** Devson Catalyst and Susan Electricals.
-- Tightened Tier 1 around purest physical constraint / power / defence / precision names.
-- Moved pure Bits / weaker theme fits (Aurionpro, QLine, Jyoti, etc.) lower.
-- Retained high-quality secondary names (Kilburn, Gala, Digilogic, etc.) in Tier 2.
+---
+
+## Daily Digest Framework (To be updated each trading day)
+
+**Date**: 30 July 2026
+
+### Priority Monitor (Tier 1 + High-Conviction Tier 2)
+| Company | Price Action / Key Trigger | Status | Action Bias |
+|---------|---------------------------|--------|-------------|
+| Genus Power | Order book ₹25,173 Cr; cash conversion watch | Neutral–Positive | Accumulate on dips ₹290–330 |
+| Indo SMC | Kacholia increased stake; recent ₹66.6 Cr order | Momentum high | Prefer correction to ₹380–450 |
+| Vilas Transcore | Unit 3 + new product lines | Positive | Hold / add on dips |
+| Yash Highvoltage | Capacity + export | Positive | Hold / add on dips |
+| Avana Electrosystems | Capacity ramp | Positive | Hold / add on dips |
+| Kilburn Engineering | Casale orders + capacity | Positive | Hold / add on dips |
+| Vivid Electromech | Leadership transition watch | Neutral | Monitor governance |
+
+### Broader Market / Sector Notes
+- Power T&D / Smart Metering / Electrical Equipment remain in structural upcycle.
+- Precision Engineering and Defence components continue to see selective strength.
+- Prefer names with visible order books and improving utilisation over pure narrative plays.
+
+---
+
+## Weekly Update Framework (To be refreshed every weekend)
+
+**Week Ending**: 1 August 2026 (template)
+
+### 1. Order Book / Execution Updates
+- Genus Power: Track any new smart meter awards or collection commentary.
+- Indo SMC: Monitor follow-on orders and margin trajectory post Q1 strength.
+- Kilburn / Vilas / Yash: Capacity utilisation and new order commentary.
+
+### 2. Marquee Investor / Shareholding Moves
+- Genus Power: Bhansali + Kela presence noted.
+- Indo SMC: Kacholia stake increase to 3.03%.
+- Watch for any fresh accumulation in Power T&D / Precision names.
+
+### 3. Valuation & Levels Check
+| Company | Current Zone | Preferred Add Zone | Status |
+|---------|--------------|--------------------|--------|
+| Genus Power | Near preferred | ₹290–330 | Actionable |
+| Indo SMC | Extended | ₹380–450 | Wait for dip |
+| Vilas Transcore | — | On dips | Hold |
+| Yash Highvoltage | — | On dips | Hold |
+
+### 4. Risk Flags
+- Genus Power: Working capital / cash conversion.
+- Indo SMC: SME liquidity + sharp recent re-rating.
+- Vivid Electromech: KMP / governance transition.
+- Any name showing sustained margin compression or order book decline.
+
+### 5. Next Week Focus
+- Track Genus Power cash flow commentary.
+- Watch Indo SMC for any consolidation / correction.
+- Monitor Power T&D peer order announcements.
+- Review any new marquee investor filings in the electrical / precision space.
+
+---
+
+## Key Changes in This Refresh (30 July 2026)
+- **Added Genus Power** to Tier 1 (Conviction 7.3) – clearest large order-book story in smart metering / power infra with marquee investor presence.
+- **Added Indo SMC** to Tier 2 (Conviction 6.5) – electrical enclosures / SMC-FRP; Ashish Kacholia increased stake; prefer accumulation on dips.
+- Introduced **Daily Digest** and **Weekly Update** frameworks for systematic tracking of all watchlist names.
+- Reaffirmed Atoms-first lens (Power T&D, Defence, Precision, Specialty Materials).
 
 ## Notes & Guidelines
 - **Core Portfolio Size**: Aim for 7–9 names in Tier 1.
 - **Entry Rule**: Prefer dips of 8–15% or after positive order / capacity milestones.
-- **Review Frequency**: Quarterly or after major results / order updates.
+- **Review Frequency**: Daily digest for priority names; full weekly refresh every weekend.
 - **Exit / Reduce Rule**: Weakening order book, sustained margin compression, or loss of competitive edge.
 - All prices approximate – re-verify latest data before acting.
 
-**Total High-Conviction Names (Tier 1 + strong Tier 2)**: ~18–20 actively monitored.
+**Total Actively Monitored Names**: ~28 (Tier 1 + Tier 2 + Anchor)
 
 **Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra). Bits and pure software names deprioritised unless they sit on clear physical constraints.
