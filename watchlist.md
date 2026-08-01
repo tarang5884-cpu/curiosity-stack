@@ -1,6 +1,6 @@
 # Curiosity Stack Watchlist - High-Conviction Portfolio
 
-**Last Updated**: 30 July 2026  
+**Last Updated**: 01 August 2026  
 **Lens Applied**: Atoms vs Bits + Structural Capex Cycle (Power T&D, Defence, Precision Engineering, Data Centre infra, Specialty Materials)
 
 ## Portfolio Philosophy
@@ -22,7 +22,8 @@
 | **Vivid Electromech**    | Defence Electromechanical     | Electromechanical systems with defence exposure; strong momentum                   | On dips                  | 7.4             | Expanding defence-linked electromechanical capabilities |
 | **Devson Catalyst**      | Specialty Catalysts           | Niche catalysts, export angle, capacity expansion                                  | On dips                  | 7.3             | New addition – capacity + export led growth |
 | **Marine Electricals**   | Marine + Industrial Electrical| Marine electrical systems + industrial/data centre exposure                        | On dips                  | 7.0             | Diversified electrical Atoms play |
-| **Genus Power**          | Smart Metering / Power Infra  | ₹25,173 Cr order book; RDSS beneficiary; multi-year visibility; marquee interest   | ₹290–330                 | 7.3             | **NEW** – Strong revenue ramp; cash conversion is key monitorable |
+| **Genus Power**          | Smart Metering / Power Infra  | ₹25,173 Cr order book; RDSS beneficiary; multi-year visibility; marquee interest   | ₹290–330                 | 7.3             | Strong revenue ramp; cash conversion is key monitorable |
+| **Parth Electricals**    | MV Switchgear / RMU / GIS     | Schneider tech transfer (RMU/CSS); GIS expansion; strong T&D order book            | On dips                  | 7.2             | **NEW** – Building GIS capability + capacity expansion |
 
 ---
 
@@ -34,7 +35,9 @@
 | **Shree Refrigerations**       | Data Centre Cooling            | 7.0             | On dips              | Cooling solutions |
 | **Susan Electricals**          | Electrical Equipment           | 6.9             | On dips              | Electricals |
 | **C2C Advanced Systems**       | Defence Electronics / C4I      | 7.2             | On dips              | System integration + simulation |
-| **Indo SMC**                   | Electrical Enclosures / SMC-FRP| 6.5             | ₹380–450             | **NEW** – Kacholia increased stake; strong momentum; prefer dips |
+| **Indo SMC**                   | Electrical Enclosures / SMC-FRP| 6.5             | ₹380–450             | Kacholia increased stake; strong momentum; prefer dips |
+| **Sudeep Pharma**              | Specialty Excipients / Minerals| 6.8             | On dips              | **NEW** – High-purity mineral excipients + capacity expansion; global pharma/nutrition |
+| **Accent Microcell**           | Microcrystalline Cellulose     | 6.7             | On dips              | **NEW** – Leading MCC manufacturer; strong exports + premium mix shift |
 | **Merritronix**                | Electronics / Components       | 6.8             | On dips              | Electronics enabling |
 | **Digilogic Systems**          | Defence Electronics / Testing  | 6.7             | On dips              | Automatic test & simulation systems |
 | **Gala Precision**             | Precision Engineering          | 6.8             | On dips              | Springs + fasteners; Chennai ramp key |
@@ -67,7 +70,7 @@
 
 ## Daily Digest Framework (To be updated each trading day)
 
-**Date**: 30 July 2026
+**Date**: 01 August 2026
 
 ### Priority Monitor (Tier 1 + High-Conviction Tier 2)
 | Company | Price Action / Key Trigger | Status | Action Bias |
@@ -78,28 +81,31 @@
 | Yash Highvoltage | Capacity + export | Positive | Hold / add on dips |
 | Avana Electrosystems | Capacity ramp | Positive | Hold / add on dips |
 | Kilburn Engineering | Casale orders + capacity | Positive | Hold / add on dips |
+| Parth Electricals | GIS expansion + Schneider tech transfer | Positive | Watch / add on dips |
 | Vivid Electromech | Leadership transition watch | Neutral | Monitor governance |
 
 ### Broader Market / Sector Notes
 - Power T&D / Smart Metering / Electrical Equipment remain in structural upcycle.
 - Precision Engineering and Defence components continue to see selective strength.
+- Specialty Materials (Excipients) gaining traction as high-quality Atoms plays.
 - Prefer names with visible order books and improving utilisation over pure narrative plays.
 
 ---
 
 ## Weekly Update Framework (To be refreshed every weekend)
 
-**Week Ending**: 1 August 2026 (template)
+**Week Ending**: 1 August 2026
 
 ### 1. Order Book / Execution Updates
 - Genus Power: Track any new smart meter awards or collection commentary.
-- Indo SMC: Monitor follow-on orders and margin trajectory post Q1 strength.
-- Kilburn / Vilas / Yash: Capacity utilisation and new order commentary.
+- Indo SMC: Monitor follow-on orders and margin trajectory.
+- Kilburn / Vilas / Yash / Parth: Capacity utilisation and new order commentary.
+- Sudeep Pharma / Accent Microcell: Capacity ramp + export/order updates.
 
 ### 2. Marquee Investor / Shareholding Moves
 - Genus Power: Bhansali + Kela presence noted.
 - Indo SMC: Kacholia stake increase to 3.03%.
-- Watch for any fresh accumulation in Power T&D / Precision names.
+- Watch for any fresh accumulation in Power T&D / Specialty Materials names.
 
 ### 3. Valuation & Levels Check
 | Company | Current Zone | Preferred Add Zone | Status |
@@ -108,6 +114,7 @@
 | Indo SMC | Extended | ₹380–450 | Wait for dip |
 | Vilas Transcore | — | On dips | Hold |
 | Yash Highvoltage | — | On dips | Hold |
+| Parth Electricals | — | On dips | New addition |
 
 ### 4. Risk Flags
 - Genus Power: Working capital / cash conversion.
@@ -118,24 +125,25 @@
 ### 5. Next Week Focus
 - Track Genus Power cash flow commentary.
 - Watch Indo SMC for any consolidation / correction.
-- Monitor Power T&D peer order announcements.
-- Review any new marquee investor filings in the electrical / precision space.
+- Monitor Power T&D peer order announcements (including Parth Electricals).
+- Review any new marquee investor filings in the electrical / specialty materials space.
 
 ---
 
-## Key Changes in This Refresh (30 July 2026)
-- **Added Genus Power** to Tier 1 (Conviction 7.3) – clearest large order-book story in smart metering / power infra with marquee investor presence.
-- **Added Indo SMC** to Tier 2 (Conviction 6.5) – electrical enclosures / SMC-FRP; Ashish Kacholia increased stake; prefer accumulation on dips.
-- Introduced **Daily Digest** and **Weekly Update** frameworks for systematic tracking of all watchlist names.
+## Key Changes in This Refresh (01 August 2026)
+- **Added Parth Electricals** to Tier 1 (Conviction 7.2) – MV Switchgear / RMU / GIS play with Schneider tech transfer and clear capacity expansion roadmap.
+- **Added Sudeep Pharma** to Tier 2 (Conviction 6.8) – High-purity mineral-based specialty excipients with global pharma/nutrition exposure and capacity expansion.
+- **Added Accent Microcell** to Tier 2 (Conviction 6.7) – Leading Microcrystalline Cellulose (MCC) manufacturer with strong export base and premium product mix shift.
+- Updated Daily & Weekly frameworks to include the new names.
 - Reaffirmed Atoms-first lens (Power T&D, Defence, Precision, Specialty Materials).
 
 ## Notes & Guidelines
-- **Core Portfolio Size**: Aim for 7–9 names in Tier 1.
+- **Core Portfolio Size**: Aim for 7–10 names in Tier 1.
 - **Entry Rule**: Prefer dips of 8–15% or after positive order / capacity milestones.
 - **Review Frequency**: Daily digest for priority names; full weekly refresh every weekend.
 - **Exit / Reduce Rule**: Weakening order book, sustained margin compression, or loss of competitive edge.
 - All prices approximate – re-verify latest data before acting.
 
-**Total Actively Monitored Names**: ~28 (Tier 1 + Tier 2 + Anchor)
+**Total Actively Monitored Names**: ~31 (Tier 1 + Tier 2 + Anchor)
 
 **Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra). Bits and pure software names deprioritised unless they sit on clear physical constraints.
