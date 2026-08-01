@@ -20,10 +20,11 @@
 | **Avana Electrosystems** | Power Protection & Control    | Control & relay panels, protection relays; clean BS; capacity ramp                 | On dips                  | 7.6             | Building scale in high-barrier substation protection systems |
 | **CFF Fluid Controls**   | Defence Fluid Systems         | Submarine / aerospace fluid controls; high qualification barrier                   | On dips                  | 7.5             | Strengthening niche defence fluid systems |
 | **Vivid Electromech**    | Defence Electromechanical     | Electromechanical systems with defence exposure; strong momentum                   | On dips                  | 7.4             | Expanding defence-linked electromechanical capabilities |
-| **Devson Catalyst**      | Specialty Catalysts           | Niche catalysts, export angle, capacity expansion                                  | On dips                  | 7.3             | New addition – capacity + export led growth |
+| **Devson Catalyst**      | Specialty Catalysts           | Niche catalysts, export angle, capacity expansion                                  | On dips                  | 7.3             | Capacity + export led growth |
 | **Marine Electricals**   | Marine + Industrial Electrical| Marine electrical systems + industrial/data centre exposure                        | On dips                  | 7.0             | Diversified electrical Atoms play |
 | **Genus Power**          | Smart Metering / Power Infra  | ₹25,173 Cr order book; RDSS beneficiary; multi-year visibility; marquee interest   | ₹290–330                 | 7.3             | Strong revenue ramp; cash conversion is key monitorable |
-| **Parth Electricals**    | MV Switchgear / RMU / GIS     | Schneider tech transfer (RMU/CSS); GIS expansion; strong T&D order book            | On dips                  | 7.2             | **NEW** – Building GIS capability + capacity expansion |
+| **Parth Electricals**    | MV Switchgear / RMU / GIS     | Schneider tech transfer (RMU/CSS); GIS expansion; strong T&D order book            | On dips                  | 7.2             | Building GIS capability + capacity expansion |
+| **INDO-MIM**             | Metal Injection Molding       | World's largest MIM player; precision components for Defence, Aero, Auto, Medical  | On dips                  | 7.5             | **NEW** – Global leader in high-precision MIM with dual-shore manufacturing |
 
 ---
 
@@ -32,12 +33,12 @@
 | Company                        | Theme                          | Conviction (/10) | Best Entry / Add Zone | Notes |
 |--------------------------------|--------------------------------|------------------|-----------------------|-------|
 | **Kilburn Engineering**        | Process Equipment / Nuclear    | 7.3             | On dips              | High margins, capacity expansion, Casale orders |
-| **Shree Refrigerations**       | Data Centre Cooling            | 7.0             | On dips              | Cooling solutions |
+| **Shree Refrigerations**       | Marine HVAC + Data Centre Cooling | 7.1          | On dips              | Strong defence/marine HVAC order book + data centre cooling expansion |
 | **Susan Electricals**          | Electrical Equipment           | 6.9             | On dips              | Electricals |
 | **C2C Advanced Systems**       | Defence Electronics / C4I      | 7.2             | On dips              | System integration + simulation |
 | **Indo SMC**                   | Electrical Enclosures / SMC-FRP| 6.5             | ₹380–450             | Kacholia increased stake; strong momentum; prefer dips |
-| **Sudeep Pharma**              | Specialty Excipients / Minerals| 6.8             | On dips              | **NEW** – High-purity mineral excipients + capacity expansion; global pharma/nutrition |
-| **Accent Microcell**           | Microcrystalline Cellulose     | 6.7             | On dips              | **NEW** – Leading MCC manufacturer; strong exports + premium mix shift |
+| **Sudeep Pharma**              | Specialty Excipients / Minerals| 6.8             | On dips              | High-purity mineral excipients + capacity expansion; global pharma/nutrition |
+| **Accent Microcell**           | Microcrystalline Cellulose     | 6.7             | On dips              | Leading MCC manufacturer; strong exports + premium mix shift |
 | **Merritronix**                | Electronics / Components       | 6.8             | On dips              | Electronics enabling |
 | **Digilogic Systems**          | Defence Electronics / Testing  | 6.7             | On dips              | Automatic test & simulation systems |
 | **Gala Precision**             | Precision Engineering          | 6.8             | On dips              | Springs + fasteners; Chennai ramp key |
@@ -82,12 +83,14 @@
 | Avana Electrosystems | Capacity ramp | Positive | Hold / add on dips |
 | Kilburn Engineering | Casale orders + capacity | Positive | Hold / add on dips |
 | Parth Electricals | GIS expansion + Schneider tech transfer | Positive | Watch / add on dips |
+| INDO-MIM | Global MIM leadership + multi-sector exposure | Positive | New addition – aggressive tracking |
+| Shree Refrigerations | Defence marine HVAC + Data Centre cooling | Positive | Hold / add on dips |
 | Vivid Electromech | Leadership transition watch | Neutral | Monitor governance |
 
 ### Broader Market / Sector Notes
 - Power T&D / Smart Metering / Electrical Equipment remain in structural upcycle.
-- Precision Engineering and Defence components continue to see selective strength.
-- Specialty Materials (Excipients) gaining traction as high-quality Atoms plays.
+- Precision Engineering (especially MIM) and Defence components continue to see selective strength.
+- Specialty Materials (Excipients) and high-end cooling solutions gaining traction as Atoms plays.
 - Prefer names with visible order books and improving utilisation over pure narrative plays.
 
 ---
@@ -99,13 +102,14 @@
 ### 1. Order Book / Execution Updates
 - Genus Power: Track any new smart meter awards or collection commentary.
 - Indo SMC: Monitor follow-on orders and margin trajectory.
-- Kilburn / Vilas / Yash / Parth: Capacity utilisation and new order commentary.
+- Kilburn / Vilas / Yash / Parth / INDO-MIM: Capacity utilisation and new order commentary.
+- Shree Refrigerations: Defence order execution + data centre cooling traction.
 - Sudeep Pharma / Accent Microcell: Capacity ramp + export/order updates.
 
 ### 2. Marquee Investor / Shareholding Moves
 - Genus Power: Bhansali + Kela presence noted.
 - Indo SMC: Kacholia stake increase to 3.03%.
-- Watch for any fresh accumulation in Power T&D / Specialty Materials names.
+- Watch for any fresh accumulation in Power T&D / Precision Manufacturing / Specialty Materials names.
 
 ### 3. Valuation & Levels Check
 | Company | Current Zone | Preferred Add Zone | Status |
@@ -115,6 +119,7 @@
 | Vilas Transcore | — | On dips | Hold |
 | Yash Highvoltage | — | On dips | Hold |
 | Parth Electricals | — | On dips | New addition |
+| INDO-MIM | — | On dips | New addition |
 
 ### 4. Risk Flags
 - Genus Power: Working capital / cash conversion.
@@ -125,25 +130,25 @@
 ### 5. Next Week Focus
 - Track Genus Power cash flow commentary.
 - Watch Indo SMC for any consolidation / correction.
-- Monitor Power T&D peer order announcements (including Parth Electricals).
-- Review any new marquee investor filings in the electrical / specialty materials space.
+- Monitor Power T&D and Precision Manufacturing peer order announcements (including Parth Electricals and INDO-MIM).
+- Review any new marquee investor filings.
 
 ---
 
 ## Key Changes in This Refresh (01 August 2026)
-- **Added Parth Electricals** to Tier 1 (Conviction 7.2) – MV Switchgear / RMU / GIS play with Schneider tech transfer and clear capacity expansion roadmap.
-- **Added Sudeep Pharma** to Tier 2 (Conviction 6.8) – High-purity mineral-based specialty excipients with global pharma/nutrition exposure and capacity expansion.
-- **Added Accent Microcell** to Tier 2 (Conviction 6.7) – Leading Microcrystalline Cellulose (MCC) manufacturer with strong export base and premium product mix shift.
-- Updated Daily & Weekly frameworks to include the new names.
-- Reaffirmed Atoms-first lens (Power T&D, Defence, Precision, Specialty Materials).
+- **Added INDO-MIM** to Tier 1 (Conviction 7.5) – World’s largest Metal Injection Molding company with strong Defence, Aerospace, Medical and Automotive exposure; dual-shore manufacturing and high export orientation.
+- **Reinforced Shree Refrigerations** in Tier 2 (Conviction raised to 7.1) – Strong defence/marine HVAC order book + expanding data centre cooling opportunity.
+- Earlier today: Added Parth Electricals (Tier 1), Sudeep Pharma and Accent Microcell (Tier 2).
+- Updated Daily & Weekly frameworks to include the new high-priority names.
+- Reaffirmed Atoms-first lens (Power T&D, Defence, Precision Manufacturing, Specialty Materials).
 
 ## Notes & Guidelines
-- **Core Portfolio Size**: Aim for 7–10 names in Tier 1.
+- **Core Portfolio Size**: Aim for 8–11 names in Tier 1.
 - **Entry Rule**: Prefer dips of 8–15% or after positive order / capacity milestones.
 - **Review Frequency**: Daily digest for priority names; full weekly refresh every weekend.
 - **Exit / Reduce Rule**: Weakening order book, sustained margin compression, or loss of competitive edge.
 - All prices approximate – re-verify latest data before acting.
 
-**Total Actively Monitored Names**: ~31 (Tier 1 + Tier 2 + Anchor)
+**Total Actively Monitored Names**: ~32 (Tier 1 + Tier 2 + Anchor)
 
 **Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra). Bits and pure software names deprioritised unless they sit on clear physical constraints.
