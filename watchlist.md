@@ -32,6 +32,7 @@
 | Company                        | Theme                          | Conviction (/10) | Best Entry / Add Zone | Notes |
 |--------------------------------|--------------------------------|------------------|-----------------------|-------|
 | **Shree Refrigerations**       | Marine HVAC + Data Centre Cooling | 7.1          | On dips              | Strong defence/marine HVAC order book + data centre cooling expansion |
+| **Aurionpro Solutions**        | AI Data Centre Design + AI-Native Banking Software | 6.9 | On dips | **Elevated** – Hybrid AI play: Hyperscaler DC design/engineering wins (~₹350 Cr) + AI-native platforms (Fintra). Order book > ₹1,950 Cr |
 | **Susan Electricals**          | Electrical Equipment           | 6.9             | On dips              | Electricals |
 | **Indo SMC**                   | Electrical Enclosures / SMC-FRP| 6.5             | ₹380–450             | Kacholia increased stake; strong momentum; prefer dips |
 | **Sudeep Pharma**              | Specialty Excipients / Minerals| 6.8             | On dips              | High-purity mineral excipients + capacity expansion; global pharma/nutrition |
@@ -49,7 +50,6 @@
 | **Aimtron Electronics**        | EMS / Electronics              | 6.3             | On dips              | Growth EMS; competitive space |
 | **Safety Controls & Devices**  | Substation / Protection        | 6.3             | On dips              | Substation automation |
 | **Highness Microelectronics**  | Electronics / LED              | 6.2             | On dips              | Niche import substitution |
-| **Aurionpro Solutions**        | Banking Software + AI          | 6.2             | On dips              | More Bits than Atoms |
 | **Premier Energies**           | Solar Manufacturing            | 6.0             | On dips              | Competitive solar space |
 | **QLine Biotech**              | IVD / Diagnostics              | 6.0             | On dips              | Outside core Atoms thesis |
 | **Satin Creditcare**           | Microfinance                   | 6.0             | On dips              | Recovery story |
@@ -80,13 +80,14 @@
 | Parth Electricals | GIS expansion + Schneider tech transfer | Positive | Watch / add on dips |
 | INDO-MIM | Global MIM leadership + multi-sector exposure | Positive | Aggressive tracking |
 | Shree Refrigerations | Defence marine HVAC + Data Centre cooling | Positive | Hold / add on dips |
+| Aurionpro Solutions | Hyperscaler DC design wins + AI-native software | Positive | Selective tracking |
 | Vivid Electromech | Leadership transition watch | Neutral | Monitor governance |
 
 ### Broader Market / Sector Notes
 - Power T&D / Electrical Equipment remain in structural upcycle.
 - Precision Engineering (especially MIM) and Defence components continue to see selective strength.
 - Specialty Materials (Excipients) and high-end cooling solutions gaining traction as Atoms plays.
-- Prefer names with visible order books and improving utilisation over pure narrative plays.
+- Hybrid AI plays (Data Centre design + AI-native software) emerging as selective opportunities.
 
 ---
 
@@ -98,11 +99,12 @@
 - Indo SMC: Monitor follow-on orders and margin trajectory.
 - Vilas / Yash / Parth / INDO-MIM: Capacity utilisation and new order commentary.
 - Shree Refrigerations: Defence order execution + data centre cooling traction.
+- Aurionpro: Data Centre project execution milestones + AI-native platform adoption.
 - Sudeep Pharma / Accent Microcell: Capacity ramp + export/order updates.
 
 ### 2. Marquee Investor / Shareholding Moves
 - Indo SMC: Kacholia stake increase to 3.03%.
-- Watch for any fresh accumulation in Power T&D / Precision Manufacturing / Specialty Materials names.
+- Watch for any fresh accumulation in Power T&D / Precision Manufacturing / Specialty Materials / AI-hybrid names.
 
 ### 3. Valuation & Levels Check
 | Company | Current Zone | Preferred Add Zone | Status |
@@ -112,24 +114,26 @@
 | Yash Highvoltage | — | On dips | Hold |
 | Parth Electricals | — | On dips | Watch |
 | INDO-MIM | — | On dips | Aggressive tracking |
+| Aurionpro Solutions | — | On dips | Selective tracking |
 
 ### 4. Risk Flags
 - Indo SMC: SME liquidity + sharp recent re-rating.
 - Vivid Electromech: KMP / governance transition.
+- Aurionpro: Working capital intensity on large DC projects + execution timelines.
 - Any name showing sustained margin compression or order book decline.
 
 ### 5. Next Week Focus
 - Watch Indo SMC for any consolidation / correction.
-- Monitor Power T&D and Precision Manufacturing peer order announcements (including Parth Electricals and INDO-MIM).
-- Review any new marquee investor filings.
+- Monitor Power T&D and Precision Manufacturing peer order announcements.
+- Track Aurionpro data centre execution updates and AI platform commentary.
 
 ---
 
 ## Key Changes in This Refresh (01 August 2026)
-- **Removed** Genus Power, C2C Advanced Systems, and Kilburn Engineering from active tracking.
-- Confirmed presence of Aurionpro Solutions, Reliance Industries (Large Cap Anchor), and Jyoti Global Plast.
-- Cleaned Daily and Weekly frameworks accordingly.
-- Reaffirmed Atoms-first lens (Power T&D, Defence, Precision Manufacturing, Specialty Materials).
+- **Elevated Aurionpro Solutions** in Tier 2 (Conviction raised to 6.9).  
+  Theme updated to **AI Data Centre Design + AI-Native Banking Software**.  
+  Key strengths: Landmark ~₹350 Cr hyperscaler AI-ready data centre order, brownfield wins, order book > ₹1,950 Cr, Fintra AI-native trade finance platform, and dual positioning in physical AI infrastructure + enterprise AI software.
+- Reaffirmed Atoms-first lens while selectively tracking high-quality hybrid AI plays.
 
 ## Notes & Guidelines
 - **Core Portfolio Size**: Aim for 8–10 names in Tier 1.
@@ -140,4 +144,13 @@
 
 **Total Actively Monitored Names**: ~29 (Tier 1 + Tier 2 + Anchor)
 
-**Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra). Bits and pure software names deprioritised unless they sit on clear physical constraints.
+**Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra). Selective hybrid AI plays allowed when they combine physical infrastructure exposure with genuine AI-native software capability.
+
+---
+
+### Aurionpro Solutions – Key Monitorables
+1. Conversion of the ~₹350 Cr hyperscaler AI data centre order into revenue (timeline & margin profile).
+2. Additional large data centre design/engineering wins.
+3. Progress of Fintra and other AI-native banking platforms (client wins + adoption metrics).
+4. Working capital and cash conversion as large projects scale.
+5. Commentary on becoming a preferred full-stack partner for hyperscalers in India.
