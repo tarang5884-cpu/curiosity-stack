@@ -1,6 +1,6 @@
 # Curiosity Stack Watchlist - High-Conviction Portfolio
 
-**Last Updated**: 01 August 2026  
+**Last Updated**: 02 August 2026  
 **Lens Applied**: Atoms vs Bits + Structural Capex Cycle (Power T&D, Defence, Precision Engineering, Data Centre infra, Specialty Materials)
 
 ## Portfolio Philosophy
@@ -40,6 +40,7 @@
 | **Merritronix**                | Electronics / Components       | 6.8             | On dips              | Electronics enabling |
 | **Digilogic Systems**          | Defence Electronics / Testing  | 6.7             | On dips              | Automatic test & simulation systems |
 | **Gala Precision**             | Precision Engineering          | 6.8             | On dips              | Springs + fasteners; Chennai ramp key |
+| **Metalic Technoforge**        | Precision Forging & Machining  | 6.4             | On dips              | Closed-die forging + precision machining; ~35% exports; capacity expansion (6,800→8,800 MT); strong margins (~23% EBITDA) |
 | **Sasken Technologies**        | Semiconductor Design Services  | 6.8             | On dips              | Complex chip design services |
 | **Advait Energy**              | Power T&D + BESS               | 6.8             | On dips              | Monitor execution on BESS / green hydrogen |
 | **Avantel**                    | Defence Electronics / Telecom  | 6.6             | On dips              | Defence communication |
@@ -68,7 +69,7 @@
 
 ## Daily Digest Framework (To be updated each trading day)
 
-**Date**: 01 August 2026
+**Date**: 02 August 2026
 
 ### Priority Monitor (Tier 1 + High-Conviction Tier 2)
 | Company | Price Action / Key Trigger | Status | Action Bias |
@@ -82,10 +83,11 @@
 | Shree Refrigerations | Defence marine HVAC + Data Centre cooling | Positive | Hold / add on dips |
 | Aurionpro Solutions | Hyperscaler DC design wins + AI-native software | Positive | Selective tracking |
 | Vivid Electromech | Leadership transition watch | Neutral | Monitor governance |
+| Metalic Technoforge | Capacity expansion (IPO funded) + export traction | Positive | Monitor execution |
 
 ### Broader Market / Sector Notes
 - Power T&D / Electrical Equipment remain in structural upcycle.
-- Precision Engineering (especially MIM) and Defence components continue to see selective strength.
+- Precision Engineering (especially MIM + Forging) and Defence components continue to see selective strength.
 - Specialty Materials (Excipients) and high-end cooling solutions gaining traction as Atoms plays.
 - Hybrid AI plays (Data Centre design + AI-native software) emerging as selective opportunities.
 
@@ -93,13 +95,14 @@
 
 ## Weekly Update Framework (To be refreshed every weekend)
 
-**Week Ending**: 1 August 2026
+**Week Ending**: 2 August 2026
 
 ### 1. Order Book / Execution Updates
 - Indo SMC: Monitor follow-on orders and margin trajectory.
 - Vilas / Yash / Parth / INDO-MIM: Capacity utilisation and new order commentary.
 - Shree Refrigerations: Defence order execution + data centre cooling traction.
 - Aurionpro: Data Centre project execution milestones + AI-native platform adoption.
+- Metalic Technoforge: Track new Unit IV commissioning and export order conversion.
 - Sudeep Pharma / Accent Microcell: Capacity ramp + export/order updates.
 
 ### 2. Marquee Investor / Shareholding Moves
@@ -115,24 +118,27 @@
 | Parth Electricals | — | On dips | Watch |
 | INDO-MIM | — | On dips | Aggressive tracking |
 | Aurionpro Solutions | — | On dips | Selective tracking |
+| Metalic Technoforge | — | On dips | Monitor |
 
 ### 4. Risk Flags
 - Indo SMC: SME liquidity + sharp recent re-rating.
 - Vivid Electromech: KMP / governance transition.
 - Aurionpro: Working capital intensity on large DC projects + execution timelines.
+- Metalic Technoforge: Short order book visibility + SME liquidity.
 - Any name showing sustained margin compression or order book decline.
 
 ### 5. Next Week Focus
 - Watch Indo SMC for any consolidation / correction.
 - Monitor Power T&D and Precision Manufacturing peer order announcements.
 - Track Aurionpro data centre execution updates and AI platform commentary.
+- Track Metalic Technoforge capacity expansion progress.
 
 ---
 
-## Key Changes in This Refresh (01 August 2026)
-- **Elevated Aurionpro Solutions** in Tier 2 (Conviction raised to 6.9).  
-  Theme updated to **AI Data Centre Design + AI-Native Banking Software**.  
-  Key strengths: Landmark ~₹350 Cr hyperscaler AI-ready data centre order, brownfield wins, order book > ₹1,950 Cr, Fintra AI-native trade finance platform, and dual positioning in physical AI infrastructure + enterprise AI software.
+## Key Changes in This Refresh (02 August 2026)
+- **Added Metalic Technoforge** to Tier 2 (Conviction 6.4).  
+  Theme: **Precision Forging & Machining**.  
+  Key strengths: Closed-die forging + precision machining, ~35% exports (Germany largest market), capacity expansion from 6,800 → 8,800 MTPA via IPO proceeds, strong FY26 margins (EBITDA ~23%, PAT ~13%), high utilisation (~90%). Fits Precision Engineering Atoms basket alongside INDO-MIM and Gala Precision.
 - Reaffirmed Atoms-first lens while selectively tracking high-quality hybrid AI plays.
 
 ## Notes & Guidelines
@@ -142,7 +148,7 @@
 - **Exit / Reduce Rule**: Weakening order book, sustained margin compression, or loss of competitive edge.
 - All prices approximate – re-verify latest data before acting.
 
-**Total Actively Monitored Names**: ~29 (Tier 1 + Tier 2 + Anchor)
+**Total Actively Monitored Names**: ~30 (Tier 1 + Tier 2 + Anchor)
 
 **Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra). Selective hybrid AI plays allowed when they combine physical infrastructure exposure with genuine AI-native software capability.
 
@@ -154,3 +160,10 @@
 3. Progress of Fintra and other AI-native banking platforms (client wins + adoption metrics).
 4. Working capital and cash conversion as large projects scale.
 5. Commentary on becoming a preferred full-stack partner for hyperscalers in India.
+
+### Metalic Technoforge – Key Monitorables
+1. Timely commissioning of new Unit IV (forging capacity expansion to 8,800 MTPA).
+2. Export order conversion and share of revenue (target to sustain/grow ~35%).
+3. Margin trajectory post capacity expansion (ability to hold ~22–23% EBITDA).
+4. Order book build-up beyond short-term visibility.
+5. In-housing of higher-value processes (gear grinding, heat treatment) and impact on margins.
