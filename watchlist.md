@@ -1,192 +1,98 @@
-# Curiosity Stack Watchlist - High-Conviction Portfolio
+# Curiosity Stack Watchlist
 
 **Last Updated**: 03 August 2026  
-**Lens Applied**: Atoms vs Bits + Structural Capex Cycle (Power T&D, Defence, Precision Engineering, Data Centre infra, Specialty Materials, AI Factory Power)
-
-## Portfolio Philosophy
-- Prioritise **Atoms** (physical constraints, power equipment, defence components, precision manufacturing, specialty materials) over pure Bits.
-- Focus on businesses with real capacity ramps, order book visibility, qualification barriers, and multi-year structural demand.
-- Concentrated core in highest-conviction Atoms names.
-- Capability shift and execution still matter — we track both.
+**Format**: Single ranked table sorted by Conviction Score (Highest → Lowest)  
+**Scoring Source**: SuperGrok-Alpha Advanced Fundamental Module (v2.0) where audited + existing scores  
+**Lens**: Atoms-first + AI Factory Power / Data Centre exposure
 
 ---
 
-## Tier 1: Core High-Conviction Atoms (Primary Allocation)
+## Ranked Watchlist (by Conviction)
 
-| Company                  | Theme                          | Key Strengths & Fit                                                                 | Best Entry / Add Zone     | Conviction (/10) | Capability Shift Status |
-|--------------------------|--------------------------------|-------------------------------------------------------------------------------------|---------------------------|------------------|-------------------------|
-| **Vilas Transcore**      | Transformer Components        | CRGO + radiators + nanocrystalline; Unit 3 expansion; purest power-grid Atoms play | On dips                  | 8.0             | Clear shift to higher-value cores + new product lines |
-| **Yash Highvoltage**     | HV/EHV Bushings               | RIP/RIS technology, strong margins, domestic + export, capacity expansion          | On dips                  | 7.8             | Advancing specialised RIP bushings with export push |
-| **Avana Electrosystems** | Power Protection & Control    | Control & relay panels, protection relays; clean BS; capacity ramp                 | On dips                  | 7.6             | Building scale in high-barrier substation protection systems |
-| **CFF Fluid Controls**   | Defence Fluid Systems         | Submarine / aerospace fluid controls; high qualification barrier                   | On dips                  | 7.5             | Strengthening niche defence fluid systems |
-| **Vivid Electromech**    | Defence Electromechanical     | Electromechanical systems with defence exposure; strong momentum                   | On dips                  | 7.4             | Expanding defence-linked electromechanical capabilities |
-| **Devson Catalyst**      | Specialty Catalysts           | Niche catalysts, export angle, capacity expansion                                  | On dips                  | 7.3             | Capacity + export led growth |
-| **Marine Electricals**   | Marine + Industrial Electrical| Marine electrical systems + industrial/data centre exposure                        | On dips                  | 7.0             | Diversified electrical Atoms play |
-| **Parth Electricals**    | MV Switchgear / RMU / GIS     | Schneider tech transfer (RMU/CSS); GIS expansion; strong T&D order book            | On dips                  | 7.2             | Building GIS capability + capacity expansion |
-| **INDO-MIM**             | Metal Injection Molding       | World's largest MIM player; precision components for Defence, Aero, Auto, Medical  | On dips                  | 7.5             | Global leader in high-precision MIM with dual-shore manufacturing |
-
----
-
-## Tier 2: Secondary / Monitor (Satellite Allocation)
-
-| Company                        | Theme                          | Conviction (/10) | Best Entry / Add Zone | Notes |
-|--------------------------------|--------------------------------|------------------|-----------------------|-------|
-| **CleanMax Enviro**            | AI Factory Power + C&I Renewables | **7.1**       | ₹1,900 – 2,200       | **New – Verified Q1 FY27**. Pure-play Power layer for AI/Data Centres. Operational 3.5 GW, Contracted 6.0 GW. Data & AI = 42% of book. Run-rate EBITDA ₹1,870 Cr. FY28 guidance min ₹3,000 Cr EBITDA. Net Debt/Run-rate ~5.0–5.5x target. Strong ALM (23y PPA vs 19y loan). |
-| **Shree Refrigerations**       | Marine HVAC + Data Centre Cooling | 7.1          | On dips              | Strong defence/marine HVAC order book + data centre cooling expansion |
-| **Aurionpro Solutions**        | AI Data Centre Design + AI-Native Banking Software | 6.9 | On dips | Hybrid AI play: Hyperscaler DC design/engineering wins (~₹350 Cr) + AI-native platforms (Fintra). Order book > ₹1,950 Cr |
-| **Susan Electricals**          | Electrical Equipment           | 6.9             | On dips              | Electricals |
-| **Indo SMC**                   | Electrical Enclosures / SMC-FRP| 6.5             | ₹380–450             | Kacholia increased stake; strong momentum; prefer dips |
-| **Sudeep Pharma**              | Specialty Excipients / Minerals| 6.8             | On dips              | High-purity mineral excipients + capacity expansion; global pharma/nutrition |
-| **Accent Microcell**           | Microcrystalline Cellulose     | 6.7             | On dips              | Leading MCC manufacturer; strong exports + premium mix shift |
-| **Merritronix**                | Electronics / Components       | 6.8             | On dips              | Electronics enabling |
-| **Digilogic Systems**          | Defence Electronics / Testing  | 6.7             | On dips              | Automatic test & simulation systems |
-| **Gala Precision**             | Precision Engineering          | 6.8             | On dips              | Springs + fasteners; Chennai ramp key |
-| **Metalic Technoforge**        | Precision Forging & Machining  | 6.4             | On dips              | Closed-die forging + precision machining; ~35% exports; capacity expansion (6,800→8,800 MT); strong margins (~23% EBITDA) |
-| **Sasken Technologies**        | Semiconductor Design Services  | 6.8             | On dips              | Complex chip design services |
-| **Advait Energy**              | Power T&D + BESS               | 6.8             | On dips              | Monitor execution on BESS / green hydrogen |
-| **Avantel**                    | Defence Electronics / Telecom  | 6.6             | On dips              | Defence communication |
-| **Moschip**                    | Semiconductor Design           | 6.5             | On dips              | Design services (Hybrid) |
-| **FEDFINA**                    | NBFC – Gold + LAP              | 6.5             | On dips              | Secured book; capital trajectory key |
-| **Premier Explosives**         | Defence Explosives             | 6.4             | On dips              | Defence exposure; valuation watch |
-| **Modison**                    | Electrical Contacts            | 6.4             | On dips              | Niche switchgear components |
-| **Aimtron Electronics**        | EMS / Electronics              | 6.3             | On dips              | Growth EMS; competitive space |
-| **Safety Controls & Devices**  | Substation / Protection        | 6.3             | On dips              | Substation automation |
-| **Highness Microelectronics**  | Electronics / LED              | 6.2             | On dips              | Niche import substitution |
-| **Premier Energies**           | Solar Manufacturing            | 6.0             | On dips              | Competitive solar space |
-| **QLine Biotech**              | IVD / Diagnostics              | 6.0             | On dips              | Outside core Atoms thesis |
-| **Satin Creditcare**           | Microfinance                   | 6.0             | On dips              | Recovery story |
-| **SRM Contractors**            | Infrastructure                 | 5.9             | On dips              | Execution play |
-| **Jyoti Global Plast**         | Plastics + early Defence       | 5.8             | On dips              | Speculative / low liquidity |
-| **Kitex Garments**             | Infant Wear                    | 5.7             | On dips              | Export cyclical |
-| **Himatsingka Seide**          | Home Textiles                   | 5.6             | On dips              | Export cyclical |
-
-## Large Cap Anchor
-
-| Company                  | Theme                          | Conviction (/10) | Notes |
-|--------------------------|--------------------------------|------------------|-------|
-| **Reliance Industries**  | Diversified (New Energy + Digital) | 7.0           | Long-term portfolio anchor |
+| Rank | Company | Theme | Conviction (/10) | Key Monitorables / Latest Verified Data | Best Entry Zone |
+|------|---------|-------|------------------|-----------------------------------------|-----------------|
+| 1 | **Tenneco Clean Air** | Auto Ancillaries – Clean Air + DaVinci Suspension | **8.4** | Module Score 84. Record FY26 margins (EBITDA 18.8%), ROE 43%, ROCE 94%, Net Cash, Negative CCC, Order book ₹12,400 Cr. DaVinci DCx multi-OEM interest. | On meaningful dips |
+| 2 | **Vilas Transcore** | Transformer Components (CRGO + New Products) | **8.0** | Module Score ~68–70 (volume-led). FY26 Volume +65%, Capacity tripled. Net cash. Expanding into radiators, copper conductors, HV bushings. PGCIL approval key catalyst. | On dips |
+| 3 | **Yash Highvoltage** | HV/EHV Bushings (RIP/RIS) | **7.8** | Strong margins, domestic + export traction, capacity expansion. High-barrier specialised bushings. | On dips |
+| 4 | **Avana Electrosystems** | Power Protection & Control | **7.6** | Control & relay panels, protection systems. Clean balance sheet + capacity ramp. | On dips |
+| 5 | **INDO-MIM** | Metal Injection Molding (Precision) | **7.5** | World’s largest MIM player. Multi-sector (Defence, Aero, Auto, Medical). Dual-shore manufacturing. | On dips |
+| 6 | **CFF Fluid Controls** | Defence Fluid Systems | **7.5** | High qualification barrier (submarine / aerospace). Niche defence play. | On dips |
+| 7 | **Vivid Electromech** | Defence Electromechanical | **7.4** | Defence-linked electromechanical systems. Momentum strong. Governance transition watch. | On dips |
+| 8 | **Devson Catalyst** | Specialty Catalysts | **7.3** | Niche catalysts + export angle + capacity expansion. | On dips |
+| 9 | **Parth Electricals** | MV Switchgear / RMU / GIS | **7.2** | Schneider tech transfer (RMU/CSS) + GIS expansion. Strong T&D order book. | On dips |
+| 10 | **CleanMax Enviro** | **AI Factory Power + C&I Renewables** | **7.1** | **Verified Q1 FY27**. Operational 3,493 MW, Contracted 6,003 MW. Data & AI = **42%** of book. Run-rate EBITDA ₹1,870 Cr. FY28 guidance **min ₹3,000 Cr**. Cost of debt 8.4%. Net Debt/Run-rate target 5.0–5.5x. Strong ALM (23y PPA). | **₹1,900 – 2,200** |
+| 11 | **Shree Refrigerations** | Marine HVAC + Data Centre Cooling | **7.1** | Defence/marine HVAC order book + Data Centre cooling expansion. | On dips |
+| 12 | **Marine Electricals** | Marine + Industrial Electrical | **7.0** | Marine electrical systems + industrial / data centre exposure. | On dips |
+| 13 | **Reliance Industries** | Diversified (New Energy + Digital + Retail) | **7.0** | Long-term portfolio anchor. New Energy + Jio + Retail. | Core hold |
+| 14 | **Aurionpro Solutions** | AI Data Centre Design + AI-Native Banking Software | **6.9** | Module Score 64. Order book > ₹1,950 Cr. Hyperscaler DC design wins (~₹350 Cr) + Fintra AI platform. Working capital intensity watch. | On dips |
+| 15 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | High-purity mineral excipients + capacity expansion. Global pharma/nutrition. | On dips |
+| 16 | **Gala Precision** | Precision Engineering (Springs + Fasteners) | **6.8** | Chennai ramp key. Precision components. | On dips |
+| 17 | **Sasken Technologies** | Semiconductor Design Services | **6.8** | Complex chip design services. AI/DC related commentary monitor. | On dips |
+| 18 | **Advait Energy** | Power T&D + BESS | **6.8** | Monitor execution on BESS / green hydrogen. | On dips |
+| 19 | **Accent Microcell** | Microcrystalline Cellulose | **6.7** | Leading MCC manufacturer. Strong exports + premium mix shift. | On dips |
+| 20 | **Digilogic Systems** | Defence Electronics / Testing | **6.7** | Automatic test & simulation systems. | On dips |
+| 21 | **Avantel** | Defence Electronics / Telecom | **6.6** | Defence communication systems. | On dips |
+| 22 | **Indo SMC** | Electrical Enclosures / SMC-FRP | **6.5** | Kacholia stake increase. Strong momentum. Prefer deeper correction. | ₹380–450 |
+| 23 | **Moschip** | Semiconductor Design | **6.5** | Design services. Governance + revenue lumpiness watch. | On dips |
+| 24 | **Metalic Technoforge** | Precision Forging & Machining | **6.4** | Closed-die forging + machining. ~35% exports. Capacity expansion 6,800→8,800 MT. | On dips |
+| 25 | **FEDFINA** | NBFC – Gold + LAP | **6.5** | Secured book. Capital trajectory key. | On dips |
+| 26 | **Premier Explosives** | Defence Explosives | **6.4** | Defence exposure. Valuation watch. | On dips |
+| 27 | **Modison** | Electrical Contacts | **6.4** | Niche switchgear components. | On dips |
+| 28 | **Aimtron Electronics** | EMS / Electronics | **6.3** | Growth EMS. Competitive space. | On dips |
+| 29 | **Safety Controls & Devices** | Substation / Protection | **6.3** | Substation automation. | On dips |
+| 30 | **Highness Microelectronics** | Electronics / LED | **6.2** | Niche import substitution. | On dips |
+| 31 | **Premier Energies** | Solar Manufacturing | **6.0** | Competitive solar space. | On dips |
 
 ---
 
-## Daily Digest Framework (To be updated each trading day)
+## Latest Price Snapshot (as of early Aug 2026)
 
-**Date**: 03 August 2026
+| Company | Approx. Price | Market Cap (approx.) |
+|---------|---------------|----------------------|
+| CleanMax Enviro | ₹1,335 – 1,376 | ₹15,600 – 16,100 Cr |
+| Tenneco Clean Air | ₹538 | ₹21,700 Cr |
+| Vilas Transcore | ₹353 | ₹850 Cr |
+| Yash Highvoltage | ₹926 | ₹2,650 Cr |
+| Shree Refrigerations | ₹310 | ₹1,180 Cr |
 
-### Priority Monitor (Tier 1 + High-Conviction Tier 2)
-| Company | Price Action / Key Trigger | Status | Action Bias |
-|---------|---------------------------|--------|-------------|
-| **CleanMax Enviro** | Q1 FY27 strong; Data & AI 42% of book; FY28 guidance ₹3,000 Cr EBITDA | Positive | Accumulate ₹1,900–2,200 |
-| Indo SMC | Kacholia increased stake; recent ₹66.6 Cr order | Momentum high | Prefer correction to ₹380–450 |
-| Vilas Transcore | Unit 3 + new product lines | Positive | Hold / add on dips |
-| Yash Highvoltage | Capacity + export | Positive | Hold / add on dips |
-| Avana Electrosystems | Capacity ramp | Positive | Hold / add on dips |
-| Parth Electricals | GIS expansion + Schneider tech transfer | Positive | Watch / add on dips |
-| INDO-MIM | Global MIM leadership + multi-sector exposure | Positive | Aggressive tracking |
-| Shree Refrigerations | Defence marine HVAC + Data Centre cooling | Positive | Hold / add on dips |
-| Aurionpro Solutions | Hyperscaler DC design wins + AI-native software | Positive | Selective tracking |
-| Vivid Electromech | Leadership transition watch | Neutral | Monitor governance |
-| Metalic Technoforge | Capacity expansion (IPO funded) + export traction | Positive | Monitor execution |
-
-### Broader Market / Sector Notes
-- Power T&D / Electrical Equipment remain in structural upcycle.
-- **AI Factory Power layer** (CleanMax) gaining importance as Data Centre / AI demand scales.
-- Precision Engineering (especially MIM + Forging) and Defence components continue to see selective strength.
-- Specialty Materials (Excipients) and high-end cooling solutions gaining traction as Atoms plays.
-- Hybrid AI plays (Data Centre design + AI-native software) emerging as selective opportunities.
+*Prices are approximate and change daily. Re-verify before any action.*
 
 ---
 
-## Weekly Update Framework (To be refreshed every weekend)
+## Key Monitorables – Priority Names
 
-**Week Ending**: 3 August 2026
+### CleanMax Enviro (AI Factory Power)
+1. Data Centre / AI order wins and conversion to commissioned capacity
+2. FY27 minimum 1.5 GW addition delivery
+3. FY28 minimum ₹3,000 Cr EBITDA delivery
+4. Cost of debt trajectory + domestic bond issuance
+5. Net Debt / Run-rate EBITDA staying within 5.0–5.5x
 
-### 1. Order Book / Execution Updates
-- **CleanMax Enviro**: Verified Q1 FY27 data – Operational capacity now 3,493 MW, Contracted 6,003 MW. Data & AI = 42%. FY28 min ₹3,000 Cr EBITDA guidance reaffirmed. Strong repeat business (79%).
-- Indo SMC: Monitor follow-on orders and margin trajectory.
-- Vilas / Yash / Parth / INDO-MIM: Capacity utilisation and new order commentary.
-- Shree Refrigerations: Defence order execution + data centre cooling traction.
-- Aurionpro: Data Centre project execution milestones + AI-native platform adoption.
-- Metalic Technoforge: Track new Unit IV commissioning and export order conversion.
-- Sudeep Pharma / Accent Microcell: Capacity ramp + export/order updates.
+### Tenneco Clean Air
+1. DaVinci DCx multi-OEM program wins
+2. Export revenue ramp
+3. Margin sustainability above 18%
+4. New capacity (North + West) execution
 
-### 2. Marquee Investor / Shareholding Moves
-- Indo SMC: Kacholia stake increase to 3.03%.
-- Watch for any fresh accumulation in Power T&D / Precision Manufacturing / Specialty Materials / AI-hybrid names.
+### Vilas Transcore
+1. CRGO price stability / recovery
+2. New product lines (radiators, copper conductors, HV bushings) commercialisation
+3. PGCIL approval status
+4. Working capital normalisation post capacity ramp
 
-### 3. Valuation & Levels Check
-| Company | Current Zone | Preferred Add Zone | Status |
-|---------|--------------|--------------------|--------|
-| **CleanMax Enviro** | ~₹1,335 | ₹1,900 – 2,200 | Attractive vs FY28 Base Case |
-| Indo SMC | Extended | ₹380–450 | Wait for dip |
-| Vilas Transcore | — | On dips | Hold |
-| Yash Highvoltage | — | On dips | Hold |
-| Parth Electricals | — | On dips | Watch |
-| INDO-MIM | — | On dips | Aggressive tracking |
-| Aurionpro Solutions | — | On dips | Selective tracking |
-| Metalic Technoforge | — | On dips | Monitor |
-
-### 4. Risk Flags
-- CleanMax: High absolute debt (normal for platform), grid curtailment on new CTU projects, execution pace.
-- Indo SMC: SME liquidity + sharp recent re-rating.
-- Vivid Electromech: KMP / governance transition.
-- Aurionpro: Working capital intensity on large DC projects + execution timelines.
-- Metalic Technoforge: Short order book visibility + SME liquidity.
-- Any name showing sustained margin compression or order book decline.
-
-### 5. Next Week Focus
-- Monitor CleanMax for any further Data Centre / AI order wins and cost of debt trajectory.
-- Watch Indo SMC for any consolidation / correction.
-- Monitor Power T&D and Precision Manufacturing peer order announcements.
-- Track Aurionpro data centre execution updates and AI platform commentary.
-- Track Metalic Technoforge capacity expansion progress.
+### Aurionpro Solutions
+1. Hyperscaler DC design order conversion (~₹350 Cr)
+2. Additional large DC wins
+3. Fintra / AI-native platform adoption metrics
+4. Working capital intensity on large projects
 
 ---
 
-## Key Changes in This Refresh (03 August 2026)
-- **Added CleanMax Enviro Energy Solutions** to Tier 2 (Conviction **7.1**).  
-  Theme: **AI Factory Power Layer + C&I Renewables**.  
-  Verified from official Q1 FY27 Investor Presentation (31 July 2026):
-  - Operational RE Power Sales capacity: **3,493 MW**
-  - Total Contracted RE Power Sales: **6,003 MW**
-  - Data & AI customers: **42%** of contracted capacity
-  - Run-rate EBITDA (Mar’26): **₹1,870 Cr**
-  - FY28 Guidance: **Minimum ₹3,000 Cr EBITDA**
-  - Cost of Project Debt: **8.4%**
-  - Net Debt / Run-rate target: 5.0–5.5x
-  - Strong ALM (23-year PPA vs ~19-year loan tenor)
-  - Fits directly into the **Power Infrastructure Layer** of the AI Factory Value Chain module.
+## Notes & Rules
+- Sorted strictly by **Conviction Score** (highest first).
+- AI / Data Centre related names (CleanMax, Shree Refrigerations, Aurionpro, Marine Electricals) sit higher due to thematic relevance + scores.
+- Entry preference remains “on dips” for most names unless a specific zone is mentioned.
+- Review frequency: Daily for top 10–12 names; full refresh weekly.
+- All conviction scores will be progressively refreshed using the SuperGrok-Alpha module as deeper audits are completed.
 
-## Notes & Guidelines
-- **Core Portfolio Size**: Aim for 8–10 names in Tier 1.
-- **Entry Rule**: Prefer dips of 8–15% or after positive order / capacity milestones.
-- **Review Frequency**: Daily digest for priority names; full weekly refresh every weekend.
-- **Exit / Reduce Rule**: Weakening order book, sustained margin compression, or loss of competitive edge.
-- All prices approximate – re-verify latest data before acting.
-
-**Total Actively Monitored Names**: ~31 (Tier 1 + Tier 2 + Anchor)
-
-**Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra, **AI Factory Power**). Selective hybrid AI plays allowed when they combine physical infrastructure exposure with genuine AI-native software capability.
-
----
-
-### CleanMax Enviro – Key Monitorables (Verified)
-1. Conversion of Data Centre / AI pipeline into commissioned capacity and EBITDA.
-2. Achievement of minimum 1.5 GW addition in FY27.
-3. Delivery of minimum ₹3,000 Cr EBITDA in FY28.
-4. Cost of debt trajectory and successful domestic bond issuance.
-5. Grid performance / curtailment on CTU projects (especially Rajasthan).
-6. Maintenance of Net Debt / Run-rate EBITDA within 5.0–5.5x.
-
-### Aurionpro Solutions – Key Monitorables
-1. Conversion of the ~₹350 Cr hyperscaler AI data centre order into revenue (timeline & margin profile).
-2. Additional large data centre design/engineering wins.
-3. Progress of Fintra and other AI-native banking platforms (client wins + adoption metrics).
-4. Working capital and cash conversion as large projects scale.
-5. Commentary on becoming a preferred full-stack partner for hyperscalers in India.
-
-### Metalic Technoforge – Key Monitorables
-1. Timely commissioning of new Unit IV (forging capacity expansion to 8,800 MTPA).
-2. Export order conversion and share of revenue (target to sustain/grow ~35%).
-3. Margin trajectory post capacity expansion (ability to hold ~22–23% EBITDA).
-4. Order book build-up beyond short-term visibility.
-5. In-housing of higher-value processes (gear grinding, heat treatment) and impact on margins.
+**Total Actively Monitored Names**: 31
