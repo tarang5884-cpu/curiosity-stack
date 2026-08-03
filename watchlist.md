@@ -34,20 +34,10 @@
 | 7 | **Devson Catalyst** | Specialty Catalysts | **7.3** | — | — | Niche catalysts + export angle + capacity expansion. | On dips |
 | 8 | **Parth Electricals** | MV Switchgear / RMU / GIS | **7.2** | — | — | Schneider tech transfer (RMU/CSS) + GIS expansion. Strong T&D order book. | On dips |
 | 9 | **Reliance Industries** | Diversified (New Energy + Digital + Retail) | **7.0** | — | Large Cap | Long-term portfolio anchor. New Energy + Jio + Retail. | Core hold |
-| 10 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | ₹881 | ~9,950 | High-purity mineral excipients + capacity expansion. Global pharma/nutrition. | On dips |
-| 11 | **Gala Precision** | Precision Engineering (Springs + Fasteners) | **6.8** | — | — | Chennai ramp key. Precision components. | On dips |
-| 12 | **Advait Energy** | Power T&D + BESS | **6.8** | — | — | Monitor execution on BESS / green hydrogen. | On dips |
-| 13 | **Accent Microcell** | Microcrystalline Cellulose | **6.7** | — | — | Leading MCC manufacturer. Strong exports + premium mix shift. | On dips |
-| 14 | **Digilogic Systems** | Defence Electronics / Testing | **6.7** | — | — | Automatic test & simulation systems. | On dips |
-| 15 | **Avantel** | Defence Electronics / Telecom | **6.6** | — | — | Defence communication systems. | On dips |
-| 16 | **Indo SMC** | Electrical Enclosures / SMC-FRP | **6.5** | — | — | Kacholia stake increase. Strong momentum. Prefer deeper correction. | ₹380–450 |
-| 17 | **Metalic Technoforge** | Precision Forging & Machining | **6.4** | — | — | Closed-die forging + machining. ~35% exports. Capacity expansion 6,800→8,800 MT. | On dips |
-| 18 | **FEDFINA** | NBFC – Gold + LAP | **6.5** | — | — | Secured book. Capital trajectory key. | On dips |
-| 19 | **Premier Explosives** | Defence Explosives | **6.4** | — | — | Defence exposure. Valuation watch. | On dips |
-| 20 | **Modison** | Electrical Contacts | **6.4** | — | — | Niche switchgear components. | On dips |
-| 21 | **Safety Controls & Devices** | Substation / Protection | **6.3** | — | — | Substation automation. | On dips |
-| 22 | **Highness Microelectronics** | Electronics / LED | **6.2** | — | — | Niche import substitution. | On dips |
-| 23 | **Premier Energies** | Solar Manufacturing | **6.0** | — | — | Competitive solar space. | On dips |
+| 10 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | ₹881 | ~9,950 | High-purity mineral expipents + capacity expansion. Global pharma/nutrition. | On dips |
+| 11 | **Advait Energy** | Power T&D + BESS | **6.8** | — | — | Monitor execution on BESS / green hydrogen. | On dips |
+| 12 | **Accent Microcell** | Microcrystalline Cellulose | **6.7** | — | — | Leading MCC manufacturer. Strong exports + premium mix shift. | On dips |
+| 13 | **Metalic Technoforge** | Precision Forging & Machining | **6.4** | — | — | Closed-die forging + machining. ~35% exports. Capacity expansion 6,800→8,800 MT. | On dips |
 
 ---
 
@@ -96,4 +86,4 @@
 - Entry preference remains “on dips” for most names unless a specific zone is mentioned.
 - Review frequency: Daily for top names in both sections; full refresh weekly.
 
-**Total Actively Monitored Names**: 30 (7 AI/DC + 23 Non-AI/DC)
+**Total Actively Monitored Names**: 20 (7 AI/DC + 13 Non-AI/DC)
