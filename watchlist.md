@@ -1,31 +1,17 @@
 # Curiosity Stack Watchlist
 
 **Last Updated**: 03 August 2026  
-**Format**: Two clear sections — AI/Data Centre focused names and Non-AI/Data Centre names  
+**Format**: Single ranked table sorted by Conviction Score (Highest → Lowest)  
 **Scoring Source**: SuperGrok-Alpha Advanced Fundamental Module (v2.0) where audited + existing scores  
 **Lens**: Atoms-first + AI Factory Power / Data Centre exposure
 
 ---
 
-## Section 1: AI / Data Centre Focus
+## Ranked Watchlist
 
 | Rank | Company | Theme | Conviction (/10) | Price (approx) | Market Cap (Cr) | Key Monitorables / Latest Verified Data | Best Entry Zone |
 |------|---------|-------|------------------|----------------|-----------------|-----------------------------------------|-----------------|
-| 1 | **CleanMax Enviro** | **AI Factory Power + C&I Renewables** | **7.1** | ₹1,376 | ~16,100 | **Verified Q1 FY27**. Operational 3,493 MW, Contracted 6,003 MW. Data & AI = **42%** of book. Run-rate EBITDA ₹1,870 Cr. FY28 guidance **min ₹3,000 Cr**. Cost of debt 8.4%. Net Debt/Run-rate target 5.0–5.5x. Strong ALM (23y PPA). | **₹1,900 – 2,200** |
-| 2 | **Shree Refrigerations** | Marine HVAC + Data Centre Cooling | **7.1** | ₹310 | ~1,180 | Defence/marine HVAC order book + Data Centre cooling expansion. | On dips |
-| 3 | **Marine Electricals** | Marine + Industrial Electrical | **7.0** | — | — | Marine electrical systems + industrial / data centre exposure. | On dips |
-| 4 | **Aurionpro Solutions** | AI Data Centre Design + AI-Native Banking Software | **6.9** | — | — | Module Score 64. Order book > ₹1,950 Cr. Hyperscaler DC design wins (~₹350 Cr) + Fintra AI platform. Working capital intensity watch. | On dips |
-| 5 | **Sasken Technologies** | Semiconductor Design Services | **6.8** | — | — | Complex chip design services. AI/DC related commentary monitor. | On dips |
-| 6 | **Moschip** | Semiconductor Design | **6.5** | — | — | Design services. Governance + revenue lumpiness watch. | On dips |
-| 7 | **Aimtron Electronics** | EMS / Electronics | **6.3** | — | — | Growth EMS. Competitive space. Potential DC/electronics exposure. | On dips |
-
----
-
-## Section 2: Non-AI / Data Centre (Core Atoms)
-
-| Rank | Company | Theme | Conviction (/10) | Price (approx) | Market Cap (Cr) | Key Monitorables / Latest Verified Data | Best Entry Zone |
-|------|---------|-------|------------------|----------------|-----------------|-----------------------------------------|-----------------|
-| 1 | **Vilas Transcore** | Transformer Components (CRGO + New Products) | **8.0** | ₹353 | ~850 | Module Score ~68–70 (volume-led). FY26 Volume +65%, Capacity tripled. Net cash. Expanding into radiators, copper conductors, HV bushings. PGCIL approval key catalyst. | On dips |
+| 1 | **Vilas Transcore** | Transformer Components (CRGO + New Products) | **8.0** | ₹353 | ~850 | Module Score ~68–70. FY26 Volume +65%, Capacity tripled. Net cash. Expanding into radiators, copper conductors, HV bushings. PGCIL approval key catalyst. | On dips |
 | 2 | **Yash Highvoltage** | HV/EHV Bushings (RIP/RIS) | **7.8** | ₹926 | ~2,650 | Strong margins, domestic + export traction, capacity expansion. High-barrier specialised bushings. | On dips |
 | 3 | **Avana Electrosystems** | Power Protection & Control | **7.6** | — | — | Control & relay panels, protection systems. Clean balance sheet + capacity ramp. | On dips |
 | 4 | **INDO-MIM** | Metal Injection Molding (Precision) | **7.5** | — | — | World’s largest MIM player. Multi-sector (Defence, Aero, Auto, Medical). Dual-shore manufacturing. | On dips |
@@ -33,15 +19,21 @@
 | 6 | **Vivid Electromech** | Defence Electromechanical | **7.4** | — | — | Defence-linked electromechanical systems. Momentum strong. Governance transition watch. | On dips |
 | 7 | **Devson Catalyst** | Specialty Catalysts | **7.3** | — | — | Niche catalysts + export angle + capacity expansion. | On dips |
 | 8 | **Parth Electricals** | MV Switchgear / RMU / GIS | **7.2** | — | — | Schneider tech transfer (RMU/CSS) + GIS expansion. Strong T&D order book. | On dips |
-| 9 | **Reliance Industries** | Diversified (New Energy + Digital + Retail) | **7.0** | — | Large Cap | Long-term portfolio anchor. New Energy + Jio + Retail. | Core hold |
-| 10 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | ₹881 | ~9,950 | High-purity mineral expipents + capacity expansion. Global pharma/nutrition. | On dips |
-| 11 | **Advait Energy** | Power T&D + BESS | **6.8** | — | — | Monitor execution on BESS / green hydrogen. | On dips |
-| 12 | **Accent Microcell** | Microcrystalline Cellulose | **6.7** | — | — | Leading MCC manufacturer. Strong exports + premium mix shift. | On dips |
-| 13 | **Metalic Technoforge** | Precision Forging & Machining | **6.4** | — | — | Closed-die forging + machining. ~35% exports. Capacity expansion 6,800→8,800 MT. | On dips |
+| 9 | **CleanMax Enviro** | AI Factory Power + C&I Renewables | **7.1** | ₹1,376 | ~16,100 | **Verified Q1 FY27**. Operational 3,493 MW, Contracted 6,003 MW. Data & AI = 42% of book. Run-rate EBITDA ₹1,870 Cr. FY28 guidance min ₹3,000 Cr. Cost of debt 8.4%. Strong ALM (23y PPA). | **₹1,900 – 2,200** |
+| 10 | **Shree Refrigerations** | Marine HVAC + Data Centre Cooling | **7.1** | ₹310 | ~1,180 | Defence/marine HVAC order book + Data Centre cooling expansion. | On dips |
+| 11 | **Marine Electricals** | Marine + Industrial Electrical | **7.0** | — | — | Marine electrical systems + industrial / data centre exposure. | On dips |
+| 12 | **Reliance Industries** | Diversified (New Energy + Digital + Retail) | **7.0** | — | Large Cap | Long-term portfolio anchor. New Energy + Jio + Retail. | Core hold |
+| 13 | **Aurionpro Solutions** | AI Data Centre Design + AI-Native Banking Software | **6.9** | — | — | Module Score 64. Order book > ₹1,950 Cr. Hyperscaler DC design wins (~₹350 Cr) + Fintra AI platform. Working capital intensity watch. | On dips |
+| 14 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | ₹881 | ~9,950 | High-purity mineral expipents + capacity expansion. Global pharma/nutrition. | On dips |
+| 15 | **Sasken Technologies** | Semiconductor Design Services | **6.8** | — | — | Complex chip design services. AI/DC related commentary monitor. | On dips |
+| 16 | **Advait Energy** | Power T&D + BESS | **6.8** | — | — | Monitor execution on BESS / green hydrogen. | On dips |
+| 17 | **Accent Microcell** | Microcrystalline Cellulose | **6.7** | — | — | Leading MCC manufacturer. Strong exports + premium mix shift. | On dips |
+| 18 | **Metalic Technoforge** | Precision Forging & Machining | **6.4** | — | — | Closed-die forging + machining. ~35% exports. Capacity expansion 6,800→8,800 MT. | On dips |
+| 19 | **Aimtron Electronics** | EMS / Electronics | **6.3** | — | — | Growth EMS. Competitive space. | On dips |
 
 ---
 
-## Price Snapshot Notes (as of 03 August 2026)
+## Price Snapshot (as of 03 August 2026)
 
 | Company | Price | Market Cap |
 |---------|-------|------------|
@@ -80,10 +72,9 @@
 ---
 
 ## Notes & Rules
-- Section 1 contains pure or meaningful **AI / Data Centre** exposure names.
-- Section 2 contains the core **Atoms** names (Power T&D, Defence, Precision Engineering, Specialty Materials, etc.).
-- Within each section, names are ranked by Conviction Score (highest first).
+- Single ranked list sorted by **Conviction Score** (highest first).
 - Entry preference remains “on dips” for most names unless a specific zone is mentioned.
-- Review frequency: Daily for top names in both sections; full refresh weekly.
+- Review frequency: Daily for top names; full refresh weekly.
+- All conviction scores will be progressively refreshed using the SuperGrok-Alpha module as deeper audits are completed.
 
-**Total Actively Monitored Names**: 20 (7 AI/DC + 13 Non-AI/DC)
+**Total Actively Monitored Names**: 19
