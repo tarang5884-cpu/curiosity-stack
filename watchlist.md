@@ -11,37 +11,36 @@
 
 | Rank | Company | Theme | Conviction (/10) | Price (approx) | Market Cap (Cr) | Key Monitorables / Latest Verified Data | Best Entry Zone |
 |------|---------|-------|------------------|----------------|-----------------|-----------------------------------------|-----------------|
-| 1 | **Tenneco Clean Air** | Auto Ancillaries – Clean Air + DaVinci Suspension | **8.4** | ₹546 | ~22,060 | Module Score 84. Record FY26 margins (EBITDA 18.8%), ROE 43%, ROCE 94%, Net Cash, Negative CCC, Order book ₹12,400 Cr. DaVinci DCx multi-OEM interest. | On meaningful dips |
-| 2 | **Vilas Transcore** | Transformer Components (CRGO + New Products) | **8.0** | ₹353 | ~850 | Module Score ~68–70 (volume-led). FY26 Volume +65%, Capacity tripled. Net cash. Expanding into radiators, copper conductors, HV bushings. PGCIL approval key catalyst. | On dips |
-| 3 | **Yash Highvoltage** | HV/EHV Bushings (RIP/RIS) | **7.8** | ₹926 | ~2,650 | Strong margins, domestic + export traction, capacity expansion. High-barrier specialised bushings. | On dips |
-| 4 | **Avana Electrosystems** | Power Protection & Control | **7.6** | — | — | Control & relay panels, protection systems. Clean balance sheet + capacity ramp. | On dips |
-| 5 | **INDO-MIM** | Metal Injection Molding (Precision) | **7.5** | — | — | World’s largest MIM player. Multi-sector (Defence, Aero, Auto, Medical). Dual-shore manufacturing. | On dips |
-| 6 | **CFF Fluid Controls** | Defence Fluid Systems | **7.5** | ₹946 | ~1,985 | High qualification barrier (submarine / aerospace). Niche defence play. | On dips |
-| 7 | **Vivid Electromech** | Defence Electromechanical | **7.4** | — | — | Defence-linked electromechanical systems. Momentum strong. Governance transition watch. | On dips |
-| 8 | **Devson Catalyst** | Specialty Catalysts | **7.3** | — | — | Niche catalysts + export angle + capacity expansion. | On dips |
-| 9 | **Parth Electricals** | MV Switchgear / RMU / GIS | **7.2** | — | — | Schneider tech transfer (RMU/CSS) + GIS expansion. Strong T&D order book. | On dips |
-| 10 | **CleanMax Enviro** | **AI Factory Power + C&I Renewables** | **7.1** | ₹1,376 | ~16,100 | **Verified Q1 FY27**. Operational 3,493 MW, Contracted 6,003 MW. Data & AI = **42%** of book. Run-rate EBITDA ₹1,870 Cr. FY28 guidance **min ₹3,000 Cr**. Cost of debt 8.4%. Net Debt/Run-rate target 5.0–5.5x. Strong ALM (23y PPA). | **₹1,900 – 2,200** |
-| 11 | **Shree Refrigerations** | Marine HVAC + Data Centre Cooling | **7.1** | ₹310 | ~1,180 | Defence/marine HVAC order book + Data Centre cooling expansion. | On dips |
-| 12 | **Marine Electricals** | Marine + Industrial Electrical | **7.0** | — | — | Marine electrical systems + industrial / data centre exposure. | On dips |
-| 13 | **Reliance Industries** | Diversified (New Energy + Digital + Retail) | **7.0** | — | Large Cap | Long-term portfolio anchor. New Energy + Jio + Retail. | Core hold |
-| 14 | **Aurionpro Solutions** | AI Data Centre Design + AI-Native Banking Software | **6.9** | — | — | Module Score 64. Order book > ₹1,950 Cr. Hyperscaler DC design wins (~₹350 Cr) + Fintra AI platform. Working capital intensity watch. | On dips |
-| 15 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | ₹881 | ~9,950 | High-purity mineral excipients + capacity expansion. Global pharma/nutrition. | On dips |
-| 16 | **Gala Precision** | Precision Engineering (Springs + Fasteners) | **6.8** | — | — | Chennai ramp key. Precision components. | On dips |
-| 17 | **Sasken Technologies** | Semiconductor Design Services | **6.8** | — | — | Complex chip design services. AI/DC related commentary monitor. | On dips |
-| 18 | **Advait Energy** | Power T&D + BESS | **6.8** | — | — | Monitor execution on BESS / green hydrogen. | On dips |
-| 19 | **Accent Microcell** | Microcrystalline Cellulose | **6.7** | — | — | Leading MCC manufacturer. Strong exports + premium mix shift. | On dips |
-| 20 | **Digilogic Systems** | Defence Electronics / Testing | **6.7** | — | — | Automatic test & simulation systems. | On dips |
-| 21 | **Avantel** | Defence Electronics / Telecom | **6.6** | — | — | Defence communication systems. | On dips |
-| 22 | **Indo SMC** | Electrical Enclosures / SMC-FRP | **6.5** | — | — | Kacholia stake increase. Strong momentum. Prefer deeper correction. | ₹380–450 |
-| 23 | **Moschip** | Semiconductor Design | **6.5** | — | — | Design services. Governance + revenue lumpiness watch. | On dips |
-| 24 | **Metalic Technoforge** | Precision Forging & Machining | **6.4** | — | — | Closed-die forging + machining. ~35% exports. Capacity expansion 6,800→8,800 MT. | On dips |
-| 25 | **FEDFINA** | NBFC – Gold + LAP | **6.5** | — | — | Secured book. Capital trajectory key. | On dips |
-| 26 | **Premier Explosives** | Defence Explosives | **6.4** | — | — | Defence exposure. Valuation watch. | On dips |
-| 27 | **Modison** | Electrical Contacts | **6.4** | — | — | Niche switchgear components. | On dips |
-| 28 | **Aimtron Electronics** | EMS / Electronics | **6.3** | — | — | Growth EMS. Competitive space. | On dips |
-| 29 | **Safety Controls & Devices** | Substation / Protection | **6.3** | — | — | Substation automation. | On dips |
-| 30 | **Highness Microelectronics** | Electronics / LED | **6.2** | — | — | Niche import substitution. | On dips |
-| 31 | **Premier Energies** | Solar Manufacturing | **6.0** | — | — | Competitive solar space. | On dips |
+| 1 | **Vilas Transcore** | Transformer Components (CRGO + New Products) | **8.0** | ₹353 | ~850 | Module Score ~68–70 (volume-led). FY26 Volume +65%, Capacity tripled. Net cash. Expanding into radiators, copper conductors, HV bushings. PGCIL approval key catalyst. | On dips |
+| 2 | **Yash Highvoltage** | HV/EHV Bushings (RIP/RIS) | **7.8** | ₹926 | ~2,650 | Strong margins, domestic + export traction, capacity expansion. High-barrier specialised bushings. | On dips |
+| 3 | **Avana Electrosystems** | Power Protection & Control | **7.6** | — | — | Control & relay panels, protection systems. Clean balance sheet + capacity ramp. | On dips |
+| 4 | **INDO-MIM** | Metal Injection Molding (Precision) | **7.5** | — | — | World’s largest MIM player. Multi-sector (Defence, Aero, Auto, Medical). Dual-shore manufacturing. | On dips |
+| 5 | **CFF Fluid Controls** | Defence Fluid Systems | **7.5** | ₹946 | ~1,985 | High qualification barrier (submarine / aerospace). Niche defence play. | On dips |
+| 6 | **Vivid Electromech** | Defence Electromechanical | **7.4** | — | — | Defence-linked electromechanical systems. Momentum strong. Governance transition watch. | On dips |
+| 7 | **Devson Catalyst** | Specialty Catalysts | **7.3** | — | — | Niche catalysts + export angle + capacity expansion. | On dips |
+| 8 | **Parth Electricals** | MV Switchgear / RMU / GIS | **7.2** | — | — | Schneider tech transfer (RMU/CSS) + GIS expansion. Strong T&D order book. | On dips |
+| 9 | **CleanMax Enviro** | **AI Factory Power + C&I Renewables** | **7.1** | ₹1,376 | ~16,100 | **Verified Q1 FY27**. Operational 3,493 MW, Contracted 6,003 MW. Data & AI = **42%** of book. Run-rate EBITDA ₹1,870 Cr. FY28 guidance **min ₹3,000 Cr**. Cost of debt 8.4%. Net Debt/Run-rate target 5.0–5.5x. Strong ALM (23y PPA). | **₹1,900 – 2,200** |
+| 10 | **Shree Refrigerations** | Marine HVAC + Data Centre Cooling | **7.1** | ₹310 | ~1,180 | Defence/marine HVAC order book + Data Centre cooling expansion. | On dips |
+| 11 | **Marine Electricals** | Marine + Industrial Electrical | **7.0** | — | — | Marine electrical systems + industrial / data centre exposure. | On dips |
+| 12 | **Reliance Industries** | Diversified (New Energy + Digital + Retail) | **7.0** | — | Large Cap | Long-term portfolio anchor. New Energy + Jio + Retail. | Core hold |
+| 13 | **Aurionpro Solutions** | AI Data Centre Design + AI-Native Banking Software | **6.9** | — | — | Module Score 64. Order book > ₹1,950 Cr. Hyperscaler DC design wins (~₹350 Cr) + Fintra AI platform. Working capital intensity watch. | On dips |
+| 14 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | ₹881 | ~9,950 | High-purity mineral excipients + capacity expansion. Global pharma/nutrition. | On dips |
+| 15 | **Gala Precision** | Precision Engineering (Springs + Fasteners) | **6.8** | — | — | Chennai ramp key. Precision components. | On dips |
+| 16 | **Sasken Technologies** | Semiconductor Design Services | **6.8** | — | — | Complex chip design services. AI/DC related commentary monitor. | On dips |
+| 17 | **Advait Energy** | Power T&D + BESS | **6.8** | — | — | Monitor execution on BESS / green hydrogen. | On dips |
+| 18 | **Accent Microcell** | Microcrystalline Cellulose | **6.7** | — | — | Leading MCC manufacturer. Strong exports + premium mix shift. | On dips |
+| 19 | **Digilogic Systems** | Defence Electronics / Testing | **6.7** | — | — | Automatic test & simulation systems. | On dips |
+| 20 | **Avantel** | Defence Electronics / Telecom | **6.6** | — | — | Defence communication systems. | On dips |
+| 21 | **Indo SMC** | Electrical Enclosures / SMC-FRP | **6.5** | — | — | Kacholia stake increase. Strong momentum. Prefer deeper correction. | ₹380–450 |
+| 22 | **Moschip** | Semiconductor Design | **6.5** | — | — | Design services. Governance + revenue lumpiness watch. | On dips |
+| 23 | **Metalic Technoforge** | Precision Forging & Machining | **6.4** | — | — | Closed-die forging + machining. ~35% exports. Capacity expansion 6,800→8,800 MT. | On dips |
+| 24 | **FEDFINA** | NBFC – Gold + LAP | **6.5** | — | — | Secured book. Capital trajectory key. | On dips |
+| 25 | **Premier Explosives** | Defence Explosives | **6.4** | — | — | Defence exposure. Valuation watch. | On dips |
+| 26 | **Modison** | Electrical Contacts | **6.4** | — | — | Niche switchgear components. | On dips |
+| 27 | **Aimtron Electronics** | EMS / Electronics | **6.3** | — | — | Growth EMS. Competitive space. | On dips |
+| 28 | **Safety Controls & Devices** | Substation / Protection | **6.3** | — | — | Substation automation. | On dips |
+| 29 | **Highness Microelectronics** | Electronics / LED | **6.2** | — | — | Niche import substitution. | On dips |
+| 30 | **Premier Energies** | Solar Manufacturing | **6.0** | — | — | Competitive solar space. | On dips |
 
 ---
 
@@ -49,7 +48,6 @@
 
 | Company | Price | Market Cap | Source Note |
 |---------|-------|------------|-------------|
-| Tenneco Clean Air | ₹546 | ~₹22,060 Cr | Live / early session |
 | CleanMax Enviro | ₹1,376 | ~₹16,100 Cr | Live / early session |
 | CFF Fluid Controls | ₹946 | ~₹1,985 Cr | Live |
 | Yash Highvoltage | ₹926 | ~₹2,650 Cr | Recent close |
@@ -69,12 +67,6 @@
 3. FY28 minimum ₹3,000 Cr EBITDA delivery
 4. Cost of debt trajectory + domestic bond issuance
 5. Net Debt / Run-rate EBITDA staying within 5.0–5.5x
-
-### Tenneco Clean Air
-1. DaVinci DCx multi-OEM program wins
-2. Export revenue ramp
-3. Margin sustainability above 18%
-4. New capacity (North + West) execution
 
 ### Vilas Transcore
 1. CRGO price stability / recovery
@@ -97,4 +89,4 @@
 - Review frequency: Daily for top 10–12 names; full refresh weekly.
 - All conviction scores will be progressively refreshed using the SuperGrok-Alpha module as deeper audits are completed.
 
-**Total Actively Monitored Names**: 31
+**Total Actively Monitored Names**: 30
