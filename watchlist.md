@@ -1,7 +1,7 @@
 # Curiosity Stack Watchlist - High-Conviction Portfolio
 
-**Last Updated**: 02 August 2026  
-**Lens Applied**: Atoms vs Bits + Structural Capex Cycle (Power T&D, Defence, Precision Engineering, Data Centre infra, Specialty Materials)
+**Last Updated**: 03 August 2026  
+**Lens Applied**: Atoms vs Bits + Structural Capex Cycle (Power T&D, Defence, Precision Engineering, Data Centre infra, Specialty Materials, AI Factory Power)
 
 ## Portfolio Philosophy
 - Prioritise **Atoms** (physical constraints, power equipment, defence components, precision manufacturing, specialty materials) over pure Bits.
@@ -31,8 +31,9 @@
 
 | Company                        | Theme                          | Conviction (/10) | Best Entry / Add Zone | Notes |
 |--------------------------------|--------------------------------|------------------|-----------------------|-------|
+| **CleanMax Enviro**            | AI Factory Power + C&I Renewables | **7.1**       | ₹1,900 – 2,200       | **New – Verified Q1 FY27**. Pure-play Power layer for AI/Data Centres. Operational 3.5 GW, Contracted 6.0 GW. Data & AI = 42% of book. Run-rate EBITDA ₹1,870 Cr. FY28 guidance min ₹3,000 Cr EBITDA. Net Debt/Run-rate ~5.0–5.5x target. Strong ALM (23y PPA vs 19y loan). |
 | **Shree Refrigerations**       | Marine HVAC + Data Centre Cooling | 7.1          | On dips              | Strong defence/marine HVAC order book + data centre cooling expansion |
-| **Aurionpro Solutions**        | AI Data Centre Design + AI-Native Banking Software | 6.9 | On dips | **Elevated** – Hybrid AI play: Hyperscaler DC design/engineering wins (~₹350 Cr) + AI-native platforms (Fintra). Order book > ₹1,950 Cr |
+| **Aurionpro Solutions**        | AI Data Centre Design + AI-Native Banking Software | 6.9 | On dips | Hybrid AI play: Hyperscaler DC design/engineering wins (~₹350 Cr) + AI-native platforms (Fintra). Order book > ₹1,950 Cr |
 | **Susan Electricals**          | Electrical Equipment           | 6.9             | On dips              | Electricals |
 | **Indo SMC**                   | Electrical Enclosures / SMC-FRP| 6.5             | ₹380–450             | Kacholia increased stake; strong momentum; prefer dips |
 | **Sudeep Pharma**              | Specialty Excipients / Minerals| 6.8             | On dips              | High-purity mineral excipients + capacity expansion; global pharma/nutrition |
@@ -69,11 +70,12 @@
 
 ## Daily Digest Framework (To be updated each trading day)
 
-**Date**: 02 August 2026
+**Date**: 03 August 2026
 
 ### Priority Monitor (Tier 1 + High-Conviction Tier 2)
 | Company | Price Action / Key Trigger | Status | Action Bias |
 |---------|---------------------------|--------|-------------|
+| **CleanMax Enviro** | Q1 FY27 strong; Data & AI 42% of book; FY28 guidance ₹3,000 Cr EBITDA | Positive | Accumulate ₹1,900–2,200 |
 | Indo SMC | Kacholia increased stake; recent ₹66.6 Cr order | Momentum high | Prefer correction to ₹380–450 |
 | Vilas Transcore | Unit 3 + new product lines | Positive | Hold / add on dips |
 | Yash Highvoltage | Capacity + export | Positive | Hold / add on dips |
@@ -87,6 +89,7 @@
 
 ### Broader Market / Sector Notes
 - Power T&D / Electrical Equipment remain in structural upcycle.
+- **AI Factory Power layer** (CleanMax) gaining importance as Data Centre / AI demand scales.
 - Precision Engineering (especially MIM + Forging) and Defence components continue to see selective strength.
 - Specialty Materials (Excipients) and high-end cooling solutions gaining traction as Atoms plays.
 - Hybrid AI plays (Data Centre design + AI-native software) emerging as selective opportunities.
@@ -95,9 +98,10 @@
 
 ## Weekly Update Framework (To be refreshed every weekend)
 
-**Week Ending**: 2 August 2026
+**Week Ending**: 3 August 2026
 
 ### 1. Order Book / Execution Updates
+- **CleanMax Enviro**: Verified Q1 FY27 data – Operational capacity now 3,493 MW, Contracted 6,003 MW. Data & AI = 42%. FY28 min ₹3,000 Cr EBITDA guidance reaffirmed. Strong repeat business (79%).
 - Indo SMC: Monitor follow-on orders and margin trajectory.
 - Vilas / Yash / Parth / INDO-MIM: Capacity utilisation and new order commentary.
 - Shree Refrigerations: Defence order execution + data centre cooling traction.
@@ -112,6 +116,7 @@
 ### 3. Valuation & Levels Check
 | Company | Current Zone | Preferred Add Zone | Status |
 |---------|--------------|--------------------|--------|
+| **CleanMax Enviro** | ~₹1,335 | ₹1,900 – 2,200 | Attractive vs FY28 Base Case |
 | Indo SMC | Extended | ₹380–450 | Wait for dip |
 | Vilas Transcore | — | On dips | Hold |
 | Yash Highvoltage | — | On dips | Hold |
@@ -121,6 +126,7 @@
 | Metalic Technoforge | — | On dips | Monitor |
 
 ### 4. Risk Flags
+- CleanMax: High absolute debt (normal for platform), grid curtailment on new CTU projects, execution pace.
 - Indo SMC: SME liquidity + sharp recent re-rating.
 - Vivid Electromech: KMP / governance transition.
 - Aurionpro: Working capital intensity on large DC projects + execution timelines.
@@ -128,6 +134,7 @@
 - Any name showing sustained margin compression or order book decline.
 
 ### 5. Next Week Focus
+- Monitor CleanMax for any further Data Centre / AI order wins and cost of debt trajectory.
 - Watch Indo SMC for any consolidation / correction.
 - Monitor Power T&D and Precision Manufacturing peer order announcements.
 - Track Aurionpro data centre execution updates and AI platform commentary.
@@ -135,11 +142,19 @@
 
 ---
 
-## Key Changes in This Refresh (02 August 2026)
-- **Added Metalic Technoforge** to Tier 2 (Conviction 6.4).  
-  Theme: **Precision Forging & Machining**.  
-  Key strengths: Closed-die forging + precision machining, ~35% exports (Germany largest market), capacity expansion from 6,800 → 8,800 MTPA via IPO proceeds, strong FY26 margins (EBITDA ~23%, PAT ~13%), high utilisation (~90%). Fits Precision Engineering Atoms basket alongside INDO-MIM and Gala Precision.
-- Reaffirmed Atoms-first lens while selectively tracking high-quality hybrid AI plays.
+## Key Changes in This Refresh (03 August 2026)
+- **Added CleanMax Enviro Energy Solutions** to Tier 2 (Conviction **7.1**).  
+  Theme: **AI Factory Power Layer + C&I Renewables**.  
+  Verified from official Q1 FY27 Investor Presentation (31 July 2026):
+  - Operational RE Power Sales capacity: **3,493 MW**
+  - Total Contracted RE Power Sales: **6,003 MW**
+  - Data & AI customers: **42%** of contracted capacity
+  - Run-rate EBITDA (Mar’26): **₹1,870 Cr**
+  - FY28 Guidance: **Minimum ₹3,000 Cr EBITDA**
+  - Cost of Project Debt: **8.4%**
+  - Net Debt / Run-rate target: 5.0–5.5x
+  - Strong ALM (23-year PPA vs ~19-year loan tenor)
+  - Fits directly into the **Power Infrastructure Layer** of the AI Factory Value Chain module.
 
 ## Notes & Guidelines
 - **Core Portfolio Size**: Aim for 8–10 names in Tier 1.
@@ -148,11 +163,19 @@
 - **Exit / Reduce Rule**: Weakening order book, sustained margin compression, or loss of competitive edge.
 - All prices approximate – re-verify latest data before acting.
 
-**Total Actively Monitored Names**: ~30 (Tier 1 + Tier 2 + Anchor)
+**Total Actively Monitored Names**: ~31 (Tier 1 + Tier 2 + Anchor)
 
-**Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra). Selective hybrid AI plays allowed when they combine physical infrastructure exposure with genuine AI-native software capability.
+**Current Lens**: Atoms-first (Power T&D, Defence, Precision Components, Specialty Materials, Data Centre infra, **AI Factory Power**). Selective hybrid AI plays allowed when they combine physical infrastructure exposure with genuine AI-native software capability.
 
 ---
+
+### CleanMax Enviro – Key Monitorables (Verified)
+1. Conversion of Data Centre / AI pipeline into commissioned capacity and EBITDA.
+2. Achievement of minimum 1.5 GW addition in FY27.
+3. Delivery of minimum ₹3,000 Cr EBITDA in FY28.
+4. Cost of debt trajectory and successful domestic bond issuance.
+5. Grid performance / curtailment on CTU projects (especially Rajasthan).
+6. Maintenance of Net Debt / Run-rate EBITDA within 5.0–5.5x.
 
 ### Aurionpro Solutions – Key Monitorables
 1. Conversion of the ~₹350 Cr hyperscaler AI data centre order into revenue (timeline & margin profile).
