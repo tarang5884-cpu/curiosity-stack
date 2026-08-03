@@ -1,8 +1,8 @@
 # Advanced Fundamental Audit Module
 
-**Version**: 1.0  
+**Version**: 1.1  
 **Last Updated**: 03 August 2026  
-**Purpose**: Lean, high-signal fundamental analysis framework for Curiosity Stack stock analysis. Designed for rapid audit + deep dive.
+**Purpose**: Lean, high-signal fundamental analysis framework for Curiosity Stack stock analysis. Includes automated scoring algorithm for consistent conviction tagging.
 
 ---
 
@@ -138,22 +138,120 @@ Must-read sections in order of priority:
 
 ---
 
-## 7. Quick Audit Scorecard (Use for every stock)
+## 7. Automated Scoring Algorithm (v1.1)
 
-| Category                    | Score (1–5) | Notes |
-|----------------------------|-------------|-------|
-| Balance Sheet Strength     |             |       |
-| Earnings Quality           |             |       |
-| Cash Conversion            |             |       |
-| Governance & Transparency  |             |       |
-| Growth Visibility          |             |       |
-| Valuation Margin of Safety |             |       |
-| **Overall Conviction**     |             |       |
+### Scoring Categories & Weights
 
-**Scoring Guide**:
-- 5 = Excellent / Clean
-- 3 = Acceptable with monitoring
-- 1 = Major red flags present
+| Category                      | Weight | Max Score |
+|-------------------------------|--------|-----------|
+| 1. Balance Sheet Strength     | 20%    | 20        |
+| 2. Earnings Quality           | 25%    | 25        |
+| 3. Cash Conversion            | 15%    | 15        |
+| 4. Governance & Transparency  | 15%    | 15        |
+| 5. Growth Visibility          | 15%    | 15        |
+| 6. Valuation Margin of Safety | 10%    | 10        |
+| **Total**                     | 100%   | **100**   |
+
+---
+
+### Detailed Scoring Rules
+
+#### 1. Balance Sheet Strength (Max 20)
+
+| Criterion                              | Score | Condition |
+|----------------------------------------|-------|-----------|
+| Capex + Asset Turnover strong          | +5    | High Capex with rising asset turnover |
+| Capex ≥ 2× Plant & Machinery           | +3    | Significant expansion (Must-Read flag) |
+| Deleveraging + Rising Equity           | +4    | Clear reduction in debt / equity growth |
+| Receivables + Inventory < 35% of Assets| +4    | Clean working capital |
+| Receivables + Inventory 35–50%         | +1    | Acceptable |
+| Receivables + Inventory ≥ 50%          | –5    | Red flag (possible fictitious sales) |
+| Excess idle cash (no interest income)  | –3    | Capital inefficiency |
+| Contingent Liabilities > 25% of NW     | –3    | Material risk |
+
+#### 2. Earnings Quality (Max 25)
+
+| Criterion                              | Score | Condition |
+|----------------------------------------|-------|-----------|
+| ROE ≥ 18% (consistent 3 yrs)           | +6    | High quality |
+| ROE 15–18%                             | +4    | Acceptable |
+| ROE < 12%                              | –3    | Weak |
+| Stable / Rising Gross Margin           | +5    | Pricing power |
+| Highly volatile margins                | –4    | Cyclicality / manipulation risk |
+| Interest Coverage ≥ 10x                | +4    | Strong |
+| Interest Coverage 7–10x                | +2    | Acceptable |
+| Interest Coverage < 7x                 | –5    | Fragile |
+| No repeated exceptional losses         | +3    | Clean |
+| Repeated exceptional items / write-offs| –6    | Major red flag |
+| Volatile Depreciation policy           | –4    | Earnings management risk |
+
+#### 3. Cash Conversion (Max 15)
+
+| Criterion                              | Score | Condition |
+|----------------------------------------|-------|-----------|
+| CFO / EBITDA ≥ 80%                     | +6    | Excellent conversion |
+| CFO / EBITDA 70–80%                    | +4    | Healthy |
+| CFO / EBITDA 50–70%                    | +2    | Average |
+| CFO / EBITDA < 50%                     | –4    | Poor quality of earnings |
+| Declining Debtor + Inventory Days      | +4    | Improving cash cycle |
+| Rising Payable Days (reasonable)       | +2    | Positive |
+| Negative Working Capital (B2C style)   | +3    | Strong |
+
+#### 4. Governance & Transparency (Max 15)
+
+| Criterion                              | Score | Condition |
+|----------------------------------------|-------|-----------|
+| Consistent auditor + clean report      | +4    | Good |
+| Auditor resignation mid-term           | –8    | Severe red flag |
+| Regular concalls even after weak results| +3   | Transparent |
+| Stopped concalls after bad results     | –5    | Governance concern |
+| Promoter buying                        | +3    | Alignment |
+| First-time promoter selling            | –4    | Peak signal risk |
+| Warrants converting to promoter equity | –3    | Monitor closely |
+| Capex rising but employee cost flat    | –6    | Possible misreporting |
+
+#### 5. Growth Visibility (Max 15)
+
+| Criterion                              | Score | Condition |
+|----------------------------------------|-------|-----------|
+| Revenue / PAT growth > 20% sustained   | +6    | Fast growth |
+| Growth 15–20%                          | +4    | Solid |
+| Growth 10–15%                          | +2    | Moderate |
+| Growth < 10% or declining              | –3    | Weak |
+| Clear volume-led growth                | +3    | Higher quality |
+| Only value-led growth                  | +1    | Lower quality |
+| Visible order book / capacity ramp     | +4    | Forward visibility |
+| Peak margins + Peak valuation          | –5    | Danger zone |
+
+#### 6. Valuation Margin of Safety (Max 10)
+
+| Criterion                              | Score | Condition |
+|----------------------------------------|-------|-----------|
+| Trading at significant discount to intrinsic| +5 | Strong MOS |
+| Reasonable valuation vs growth         | +3    | Fair |
+| Expensive but growth supports          | +1    | Limited MOS |
+| Peak margins + Peak PE                 | –4    | High risk |
+| Clear over-earning due to temporary factors| –3 | Margin of safety low |
+
+---
+
+### Final Score Interpretation
+
+| Total Score | Conviction Tag | Action Guidance |
+|-------------|----------------|-----------------|
+| **85 – 100** | 8.5 – 9.5     | High Conviction – Core / Aggressive tracking |
+| **70 – 84**  | 7.0 – 8.4     | Strong – Suitable for Tier 1 / high allocation |
+| **55 – 69**  | 6.0 – 6.9     | Acceptable – Tier 2 / Monitor |
+| **40 – 54**  | 5.0 – 5.9     | Weak – Speculative / Low allocation |
+| **Below 40** | < 5.0         | Avoid or Deep stress-test required |
+
+### Hard Disqualification Rules (Override Score)
+Any of the following automatically caps maximum score at **45** (or forces Avoid):
+- Auditor resignation before term completion
+- Receivables + Inventory ≥ 50% of Total Assets with no credible explanation
+- Repeated exceptional losses / inventory write-offs across years
+- Capex rising sharply while employee cost remains flat (suspected misreporting)
+- Interest Coverage consistently < 5x
 
 ---
 
@@ -162,9 +260,12 @@ Must-read sections in order of priority:
 When analysing any stock:
 
 1. Run this module first (Balance Sheet → P&L → Cash Flow → Governance).
-2. Flag all red items immediately.
-3. Only then proceed to sector, order book, and valuation work.
-4. Update conviction tag in `watchlist.md` based on audit score.
+2. Apply the **Automated Scoring Algorithm** and calculate total score.
+3. Flag all red items immediately.
+4. Apply Hard Disqualification Rules if triggered.
+5. Map final score to Conviction Tag (see table above).
+6. Update `watchlist.md` with the new conviction score and key monitorables.
+7. Only then proceed to sector, order book, and qualitative thesis work.
 
 **File Location**: `library/advanced-fundamental-audit.md`  
 **Callable via**: Library reference or direct audit request on any ticker.
