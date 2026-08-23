@@ -15,20 +15,20 @@
 | 2 | **Vilas Transcore** | Transformer Components (CRGO + New Products) | **8.0** | FY26 Volume +65%, Capacity tripled. Net cash. Expanding into radiators, copper conductors, HV bushings. PGCIL approval key catalyst. | On dips |
 | 3 | **Yash Highvoltage** | HV/EHV Bushings (RIP/RIS) | **7.8** | Strong margins, domestic + export traction, capacity expansion. High-barrier specialised bushings. | On dips |
 | 4 | **Apollo Micro Systems** | Defence Electronics | **7.7** | Large order book (~₹1,400+ Cr), expanding into armament electronics, fire control, counter-drone. Order conversion critical. | On dips |
-| 5 | **Paras Defence** | Defence Optics & Electronics | **7.6** | Unique IR optics capability, strong order book, space + defence exposure. Execution on optics/space orders. | On dips |
-| 6 | **Avana Electrosystems** | Power Protection & Control | **7.6** | Control & relay panels, protection systems. Clean balance sheet + capacity ramp. | On dips |
-| 7 | **INDO-MIM** | Metal Injection Molding (Precision) | **7.5** | World’s largest MIM player. Multi-sector (Defence, Aero, Auto, Medical). Dual-shore manufacturing. | On dips |
-| 8 | **CFF Fluid Controls** | Defence Fluid Systems | **7.5** | High qualification barrier (submarine / aerospace). Niche defence play. | On dips |
-| 9 | **Sika Interplant** | Aerospace & Defence Systems | **7.4** | High ROCE, near-zero debt, engineered systems + interconnect focus. Order inflow consistency. | On dips |
-| 10 | **Shaily Engineering Plastics** | Pharma Devices / Drug Delivery | **7.4** | Qualification moat in precision drug delivery devices. New product ramp & margin expansion. | On dips |
-| 11 | **Vivid Electromech** | Defence Electromechanical | **7.3** | Defence-linked electromechanical systems. Momentum strong. Governance transition watch. | On dips |
-| 12 | **Devson Catalyst** | Specialty Catalysts | **7.3** | Niche catalysts + export angle + capacity expansion. | On dips |
-| 13 | **Parth Electricals** | MV Switchgear / RMU / GIS | **7.2** | Schneider tech transfer (RMU/CSS) + GIS expansion. Strong T&D order book. | On dips |
-| 14 | **CleanMax Enviro** | AI Factory Power + C&I Renewables | **7.1** | Operational capacity strong, Data & AI exposure high. FY28 EBITDA guidance key. | On dips |
-| 15 | **Shree Refrigerations** | Marine HVAC + Data Centre Cooling | **7.1** | Defence/marine HVAC order book + Data Centre cooling expansion. | On dips |
-| 16 | **Acutaas Chemicals** | Specialty Chemicals / CDMO | **7.0** | Strong CDMO growth + emerging high-value chemistries. Pipeline conversion. | On dips |
-| 17 | **Marine Electricals** | Marine + Industrial Electrical | **7.0** | Marine electrical systems + industrial / data centre exposure. | On dips |
-| 18 | **OBSC Perfection** | Precision Components → Defence/Aerospace | **6.9** | Microcap optionality. Pivot into defence, aerospace, exports. New vertical order wins & capacity ramp. Higher risk. | On dips |
+| 5 | **OBSC Perfection** | Precision Components → Defence/Aerospace | **7.5** | Microcap optionality. Pivot into defence, aerospace, exports + new capacity. High upside if execution lands. | On dips |
+| 6 | **Paras Defence** | Defence Optics & Electronics | **7.5** | Unique IR optics capability, strong order book, space + defence exposure. Execution on optics/space orders. | On dips |
+| 7 | **Avana Electrosystems** | Power Protection & Control | **7.5** | Control & relay panels, protection systems. Clean balance sheet + capacity ramp. | On dips |
+| 8 | **INDO-MIM** | Metal Injection Molding (Precision) | **7.5** | World’s largest MIM player. Multi-sector (Defence, Aero, Auto, Medical). Dual-shore manufacturing. | On dips |
+| 9 | **CFF Fluid Controls** | Defence Fluid Systems | **7.5** | High qualification barrier (submarine / aerospace). Niche defence play. | On dips |
+| 10 | **Sika Interplant** | Aerospace & Defence Systems | **7.4** | High ROCE, near-zero debt, engineered systems + interconnect focus. Order inflow consistency. | On dips |
+| 11 | **Shaily Engineering Plastics** | Pharma Devices / Drug Delivery | **7.4** | Qualification moat in precision drug delivery devices. New product ramp & margin expansion. | On dips |
+| 12 | **Vivid Electromech** | Defence Electromechanical | **7.3** | Defence-linked electromechanical systems. Momentum strong. Governance transition watch. | On dips |
+| 13 | **Devson Catalyst** | Specialty Catalysts | **7.3** | Niche catalysts + export angle + capacity expansion. | On dips |
+| 14 | **Parth Electricals** | MV Switchgear / RMU / GIS | **7.2** | Schneider tech transfer (RMU/CSS) + GIS expansion. Strong T&D order book. | On dips |
+| 15 | **CleanMax Enviro** | AI Factory Power + C&I Renewables | **7.1** | Operational capacity strong, Data & AI exposure high. FY28 EBITDA guidance key. | On dips |
+| 16 | **Shree Refrigerations** | Marine HVAC + Data Centre Cooling | **7.1** | Defence/marine HVAC order book + Data Centre cooling expansion. | On dips |
+| 17 | **Acutaas Chemicals** | Specialty Chemicals / CDMO | **7.0** | Strong CDMO growth + emerging high-value chemistries. Pipeline conversion. | On dips |
+| 18 | **Marine Electricals** | Marine + Industrial Electrical | **7.0** | Marine electrical systems + industrial / data centre exposure. | On dips |
 | 19 | **Aurionpro Solutions** | AI Data Centre Design + AI-Native Banking Software | **6.9** | Order book > ₹1,950 Cr. Hyperscaler DC design wins. Working capital intensity watch. | On dips |
 | 20 | **Sudeep Pharma** | Specialty Excipients / Minerals | **6.8** | High-purity mineral expipients + capacity expansion. Global pharma/nutrition. | On dips |
 | 21 | **Sasken Technologies** | Semiconductor Design Services | **6.8** | Complex chip design services. AI/DC related commentary monitor. | On dips |
@@ -48,10 +48,10 @@
 |---------|-----------|---------------|
 | Azad Engineering | Highest capability moat + order visibility in precision + aerospace | Tier 1 |
 | Apollo Micro Systems | Large order book + expanding platform exposure | Tier 1 |
+| OBSC Perfection | Microcap optionality into defence/aerospace + new capacity | Tier 1 (Elevated) |
 | Paras Defence | Differentiated optics/electronics + locked-in orders | Tier 1 |
 | Sika Interplant | Clean balance sheet + high ROCE + engineered systems | Tier 2 |
 | Shaily Engineering | Qualification-driven drug delivery devices | Tier 2 |
-| OBSC Perfection | Microcap optionality into defence/aerospace | Tier 3 |
 | Acutaas Chemicals | CDMO + high-value specialty chemicals growth | Tier 2 |
 
 ---
@@ -68,6 +68,12 @@
 1. Order book conversion rate
 2. Entry into armament electronics / fire control / counter-drone systems
 3. Margin sustainability at higher scale
+
+### OBSC Perfection
+1. Defence / aerospace / export order wins
+2. New capacity (Supa mega factory) ramp timeline and utilisation
+3. Pivot progress beyond auto components
+4. Margin sustainability during diversification
 
 ### Paras Defence
 1. Optics and space order execution
@@ -87,5 +93,6 @@
 - Review frequency: Daily for top names; full refresh weekly.
 - All conviction scores will be progressively refreshed using the SuperGrok-Alpha module + J-Curve v1.2 as deeper audits are completed.
 - New names from the Aug 2026 manufacturing/precision/defence scan have been integrated and ranked according to current visibility and capability strength.
+- **OBSC Perfection elevated into Top 5** on 23 Aug 2026 based on microcap optionality + defence/aerospace pivot potential.
 
 **Total Actively Monitored Names**: 25
