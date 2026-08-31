@@ -1,13 +1,13 @@
 # Thesis: India is building the supply chain
 
-**As of**: 31 August 2026  
+**As of**: 31 August 2026 (rev 2 — six-name overlay + RIL audit)  
 **Desk**: Curiosity Stack (internal)  
 **Modules**: 6-layer audit + J-Curve v1.2 + Fair Value v2.1 (60/30/10)
 
 The opportunity is not always the finished missile, aircraft, EV, or semiconductor.  
 It is the shop that sells the **part the OEM cannot skip**.
 
-Layers: precision engineering · specialty materials · electronics & sensors · forgings & castings · connectors & cables · batteries · tooling · testing & MRO · advanced T&D / motion components.
+Layers: precision engineering · specialty materials · electronics & sensors · forgings & castings · connectors & cables · batteries · tooling · testing & MRO · advanced T&D / motion components · **O2C + digital + new energy holding (RIL)**.
 
 **Rule**: layer first, cash and multiple last. Narrative forges with no double-digit sales CAGR are out. Low-float SMEs without an exit are sized as options or skipped.
 
@@ -16,131 +16,152 @@ Layers: precision engineering · specialty materials · electronics & sensors ·
 ## Filters (do not break)
 
 1. Printed growth or a mid-cycle multiple — not a 100× aero slide.
-2. Cash / WC / debt must pass. INOX-style 353-day WC is a lottery, not a core.
-3. Liquidity: if typical tape is 6k–10k shares, you cannot add size.
-4. MOS = gap under the **working FV band**, not distance from 52W high.
-5. Nuclear / humanoid / CERN / LFP is **option value = ₹0** until a print.
+2. Cash / WC / debt must pass.
+3. Liquidity: 6k–10k share days are not add-size.
+4. MOS = gap under the **working FV band**.
+5. Nuclear / humanoid / CERN / LFP / Jio-IPO premium = **₹0** until billed.
 
 ---
 
-## Layer map (listed India)
+## Correction frame (atoms vs bits)
 
-| Layer | Fit names | Desk filter |
-|-------|-----------|-------------|
-| Precision | Pitti, Omnitech, Azad, MTAR, PTC, Dynamatic, Unimech, Aequs, Sika, Rossell, CFF, DEE, ISGEC, Kilburn, Harsha, Goodluck, Gala, Ratnaveer | Pitti / Kilburn / ISGEC (on dip) = process. Omnitech = right SKU, wrong price. Aero 80–300× = watch de-rate |
-| Specialty materials | Himadri, GFL / GFCL EV, Neogen Ionics, PCBL, Graphite India | Himadri is the materials sleeve |
-| Electronics & sensors | Varroc, Merritronix, Centum, Astra, Data Patterns, BEL, Apollo, Paras, Syrma, Kaynes, Rishabh, Avana, Sasken | Varroc = liquid inflection. Merritronix = sized credential. Avana = no exit |
-| Forgings & castings | Bharat Forge, Happy Forgings, Ramkrishna, Metalic, PTC | No low-CAGR forge on a story |
-| Connectors / cables / harness | MSWIL, SAMIL, Dhoot, Precision Wires, Vidya Wires, Uno Minda | MSWIL is the quality shovel |
-| Batteries | Himadri LFP, GFL, Neogen, Exide, Amara | Policy + utilisation first |
-| Tooling / MIM | Indo-MIM, Jyoti CNC | Indo-MIM queued for full stack |
-| Testing & MRO | Almost no clean listed pure-play | Do not invent a ticker |
-| T&D / power block | GE T&D, TRIL, Yash HV, Atlanta, TD Power, Vilas, Schneider | GE T&D / TRIL / Yash > Vilas / Avana |
-| Utility ballast | NLC, NTPC | NLC is MOS + quality |
+Bull already paid 25–80× for India-as-AI-supply-chain. A wash sets price to **scare PE × bear EPS**.
 
----
-
-## Aero component capex tracker (context, not a buy list)
-
-| Pipe | Scale | Note |
-|------|-------|------|
-| MoD capital FY27 | ₹2.19 lakh Cr (~+22%) | 75% domestic acquisition |
-| Aircraft + aero engines FY27 | ₹63,733 Cr | Pulls parts |
-| HAL book | ~₹2.55 lakh Cr | 97× LCA Mk1A + helis |
-| Aequs | Book ~₹8,500 Cr; ₹1,900 Cr TN + ₹2,856 Cr KA | Engine/LG FY28+ |
-| Azad | Book ~₹6,500 Cr | Hot-section MHI; PE rich |
-| Dynamatic | A220 doors 2→10 shipsets/mo by CY28 | Structures T1 |
-| PTC / Aerolloy | Melt-to-cast Ti + superalloy | Lucknow |
-| Raghu Vamsi (unlisted) | ₹600 Cr Ni-superalloy, COD Jan 2028 | Alloy bottleneck |
-| Jeh (unlisted) | $50 Mn / 3 yrs, 50→150 CNC | Hyderabad |
-
-Capex is real. Listed aero names **already discount it at 55–300×**. Use this sheet to time a de-rate, not to chase Azad.
+| Type | Fair PE after wash | Scare floor PE |
+|------|--------------------|----------------|
+| PSU utility / holding O2C | 10–13× / SOTP mid | 8–9× / SOTP trough |
+| T&D / process industrial | 16–22× | 12–15× |
+| Precision mix-shift | 20–28× | 14–18× |
+| Scarce export SKU | 28–36× | 18–24× |
+| SME ESDM / EMS | 16–22× | 10–14× |
+| Software / DC-design (bits) | 16–22× | 12–15× |
+| HV bushings (real atom, bull PE) | 22–30× | 16–20× |
 
 ---
 
-## Fair value / working bands (31 Aug 2026)
+## Six-name overlay (requested 31 Aug)
 
-| Name | CMP | Working FV | Base FV | Stance |
-|------|-----|------------|---------|--------|
-| NLC India | ₹269 | ₹250–320 | ₹280–390 | **ADD** ₹250–270 |
-| Varroc | ~₹844 | cheap vs 40× club (~23× FY28) | theme inflection | **ADD** on dips |
-| MSWIL | — | below 40× ancillary club | harness 2× EV content | **ADD** quality shovel |
-| Pitti Engg | ₹1,121 | ₹1,050–1,260 | ₹940–1,410 | **HOLD**; add ≤₹1,050 |
-| Himadri | — | materials sleeve | LFP option =₹0 until print | HOLD / add planned dips |
-| Kilburn | — | process specialty | walk-the-talk | HOLD / add dips |
-| GE T&D | — | liquid T&D | — | HOLD theme |
-| ISGEC | ₹755–789 | ₹620–780 | ₹520–820 | HOLD; add ₹620–680 |
-| Asahi Songwon | ₹367 | ₹320–420 | ₹280–490 | HOLD if Q2 OPM holds |
-| INOX Wind | ₹72 | ₹72–88 | ₹67–96 | LOTTERY 0.3–0.5% |
-| Omnitech | ₹553–566 | ₹360–460 | ₹335–500 | **TRIM / no add** |
-| Vilas Transcore | ₹345–361 | ₹300–360 | ₹260–395 | **no add** above ₹360 |
-| Avana | ₹150 | ₹125–155 | ₹120–195 | **no add**; illiquid |
-| Technocrats Plasma | ₹255 | ₹155–195 | ₹140–210 | **no add** |
-| Sona Comstar | ~₹824 | 49× FY28 | robotics =₹0 | WATCH only |
-| PAR Drugs | ₹101 | ₹95–125 | ₹105–160 | HOLD boring cash |
+| Name | CMP | Scare floor | Working / MOS add | Fair | Stance |
+|------|-----|-------------|-------------------|------|--------|
+| **Reliance Industries** | **₹1,287** | **₹1,050–1,150** | **₹1,180–1,280** | **₹1,320–1,480** | **ADD small ₹1,250–1,280** |
+| **Aurionpro** | **₹708** | **₹520–580** | **₹650–720** | **₹740–850** | **HOLD**; add only **₹680–700** if WC turns |
+| **Merritronix** | **~₹303** (book 2000 @321) | **₹180–220** | **₹280–370** | **₹372–530** | **HOLD sized**; add ≤₹280 |
+| **Yash Highvoltage** | **₹986** | **₹450–550** | **₹620–750** | **₹780–920** | **NO ADD** at 68–76× |
+| **Aimtron Electronics** | **~₹1,610** | **~60% down on 25× PAT** | none at 74× | EMS mid-20s PE | **KILL / no add** |
+| **Vivid Electromech** | **~₹1,612** | **₹990–1,160** | **₹1,050–1,200** | **₹1,250–1,400** | **NO ADD** at 45× / 23× PB |
 
 ---
 
-## MOS add list (priority)
+## Reliance Industries — special audit
 
-MOS = buy under working FV with liquidity and a kill switch.
+**CMP ₹1,287** | 52W **₹1,250–1,612** | MCap **~₹17.4 lakh Cr** | ~**1,353 Cr** sh  
+FY26 EPS **~₹53** | FY27E **₹58–60** | Consol PE **~22× FY26 / ~21–22× FY27** | P/B ~**1.9×** post treasury optics | YTD **~-18%**
 
-| Priority | Name | Add zone | Kill switch | Size |
-|----------|------|----------|-------------|------|
-| 1 | **NLC India** | ₹250–270 | FY27 PAT collapse under ₹10k Cr capex | Core 1.0–1.5% |
-| 2 | **Varroc** | dips vs ~23× FY28 | NWC + 8.5% EBITDA fail | Theme 0.8–1.2% |
-| 3 | **MSWIL** | dips vs 40× club | 2W EV policy / content miss | Theme 0.8–1.2% |
-| 4 | **Pitti** | ₹940–1,050 | high-VA tons stall; EBITDA % <16 | Core precision |
-| 5 | **Himadri** | planned dips | LFP sample / WC blowout | Materials |
-| 6 | **ISGEC** | ₹620–680 | PH loss widens; standalone/consol gap | Industrial |
-| 7 | **Yash HV / TRIL / GE T&D** | sector dips | book conversion | T&D sleeve |
-| 8 | **Merritronix** | only if still under working FV; existing 2000 sh @321 | book / WC | SME sized |
-| 9 | **INOX** | ₹72 floor only | H2 guide miss | 0.3–0.5% |
+RIL is not a precision SME. It is the **holding company for Indian atoms + Indian bits**.
 
-Do **not** add as MOS: Omnitech above ₹500, Vilas above ₹360, Avana at ₹150, Plasma at ₹255, Azad/PTC/MTAR/Unimech at 80–300×, SKF/Timken/NRB humanoid tape, Metalic-as-EV.
+| Slice | What it is | Bull broker | Desk (correction) |
+|-------|------------|-------------|-------------------|
+| O2C + E&P | GRM, petchem, oil | ~₹590–800/sh EV-rich | **₹450–550** mid-cycle GRM |
+| Jio / JPL | Digital / 5G / IPO option | ~₹470–525 net | **₹380–480** (8–10×, IPO haircut) |
+| Retail RRVL | Stores | ~₹500 | **₹350–450** |
+| New energy | Giga / solar / battery | ~₹174 | **₹80–120** until EBITDA |
+| FMCG + JioStar | Option | ~₹65 | **₹50–70** |
+| Net debt | | ~(₹116) | ~(₹100–120) |
+| **SOTP** | Motilal-type **₹1,550–1,655** | | **Desk ₹1,180–1,480** |
 
----
+**Why CMP ₹1,287 is already a first MOS zone**  
+52W low is **₹1,250**. The bull high **₹1,612** priced peak GRM + JPL IPO + new-energy slide. That premium is **half-off**. You are not early. You are **late-bull / early-correction**.
 
-## Queue for next full stacks (expansion, not replacements)
+| Zone | Action |
+|------|--------|
+| ₹1,480–1,612 | Trim — JPL + NE in the price |
+| ₹1,320–1,420 | Hold |
+| **₹1,250–1,280** | **Add** (you are here) |
+| ₹1,180–1,220 | Size |
+| **₹1,050–1,150** | Crisis floor — GRM trough + Jio IPO fail |
 
-1. Indo-MIM  
-2. Centum Electronics  
-3. Astra / Data Patterns (only if PE is not HAL-like)  
-4. GFL (GFCL EV slice) / Neogen Ionics  
-5. Precision Wires  
-6. Harsha (only mid-20s PE)  
-7. Goodluck India (cheap metal, not aero romance)
+Kill switches: O2C GRM structural break; JPL IPO at a stub that breaks the SOTP; net-debt spike from new-energy capex with no EBITDA.
 
----
-
-## R/R board (31 Aug)
-
-| Rank | Name | Why |
-|------|------|-----|
-| 1 | NLC ₹269 | Best *risk-adjusted* MOS + quality + liquidity |
-| 2 | Varroc | Best *theme* R/R (electronics layer vs 40× club) |
-| 3 | MSWIL | Best harness shovel |
-| 4 | Pitti ₹1,121 | Best *business* in precision — fair, not cheap |
-| 5 | Himadri | Materials layer |
-
-Pitti is not a bargain at ₹1,121. Omnitech is the worst precision ticket (negative MOS).
+RIL is the **AI-power + digital + molecule** conglomerate. It is **not** a 12× PSU. Fair premium is **SOTP mid**, not 25× consol forever.
 
 ---
 
-## Pitti margin note (do not forget)
+## Aurionpro — bits, already washed
 
-Company EBITDA is a **16.8–17.2%** band. Expansion is **₹/ton mix**, not 25% consol.
+CMP **₹708** | 52W **₹680–1,335** | PE **~19–22×** | MCap **~₹3,900 Cr** | below 50/200 DMA (**₹765 / ₹910**)
 
-- Loose lams: ₹15–18k EBITDA/t  
-- High-VA assemblies: ₹30–60k/t  
-- Machining cell full: 25–28% **on that asset**, 1.2× turn  
+Product path (banking + DC design) can be real. In a risk-off tape it trades **like duration**, not like a bushing plant.
 
-Watch high-VA + integrated **share of tons**.
+- Floor **₹520–580** (12–15× scare)  
+- Add only **₹680–700** if operating cash turns  
+- ₹1,335 was the bull. Do not average that high.
 
 ---
 
-## Refresh cadence
+## Merritronix — sized ESDM / CERN stamp
 
-- Prices / bands: on each Q print and on 10%+ tape moves  
-- Aero capex: quarterly HAL/BEL book + Aequs/Azad COD  
-- This file supersedes the 23 Aug conviction ranks **for MOS action**. Historical watchlist ranks remain in `watchlist.md` as a log.
+Existing **2,000 sh @ ₹321**. CMP last stack **~₹303**.  
+Working FV **₹280–370** inside base **₹372–530**.  
+Floor **₹180–220**.  
+**Hold the lot. Add only ≤₹280.** Liquidity is SME. CERN =₹0 until billed.
+
+---
+
+## Yash Highvoltage — real T&D atom, bull PE
+
+CMP **₹986** | MCap **~₹2,950 Cr** | FY26 sales **₹235 Cr** (+57%) | TTM PE **~76×** | FY27E EPS ~₹14.5 | FY28E ~₹22
+
+Bushings are the right layer (grid + AI load). **68× FY27 is not MOS.**
+
+- Fair if you give 28–36× FY28 EPS: **₷610–790**  
+- Working add **₹620–750**  
+- Floor **₹450–550**  
+- CMP **₹986 = no add**. Prefer GE T&D / TRIL until Yash gives 25–30%.
+
+---
+
+## Aimtron — EMS at 74×
+
+CMP **~₹1,610** | MCap **~₹3,400 Cr** | FY26 sales **₹301** / PAT **₹46** | PE **~75×**
+
+Crowded EMS. No scarce SKU vs Kaynes/Syrma, and those are already expensive.
+
+**Kill / no add.** Floor is a 25–30× PAT world (~half to two-thirds off).
+
+---
+
+## Vivid Electromech — defence electro, 45× / 23× PB
+
+CMP **~₹1,612** | MCap **~₹1,430 Cr** | EPS **~₹45** | RoE **~73%** | 52W **₹556–1,679**
+
+Quality score can be high. **P/B 23× is the bull.**  
+Floor **₹990–1,160** (22–26×). Add only **&lt;₹1,200**. Governance transition stays a watch.
+
+---
+
+## MOS add list (priority, 31 Aug rev 2)
+
+| # | Name | Add zone | Kill |
+|---|------|----------|------|
+| 1 | NLC | ₹250–270 | FY27 PAT collapse |
+| 2 | **RIL** | **₹1,250–1,280** | GRM break + JPL stub fail |
+| 3 | Varroc | dips vs 23× FY28 | NWC + 8.5% EBITDA |
+| 4 | MSWIL | dips vs 40× club | 2W policy |
+| 5 | Pitti | ≤₹1,050 | high-VA stall |
+| 6 | Aurionpro | ₹680–700 only | WC stays cash-burn |
+| 7 | Merritronix | ≤₹280 | book / WC |
+| 8 | ISGEC | ₹620–680 | PH loss widens |
+| 9 | Yash HV | **≤₹750**, not ₹986 | growth miss |
+| 10 | INOX | ₹72 sized | H2 miss |
+
+No add: Aimtron, Vivid @1612, Omnitech, Vilas @361, Avana @150, Plasma, aero 80×.
+
+---
+
+## Layer map / aero tracker / Pitti margin
+
+Unchanged from rev 1. See prior sections in git history if needed. Short:
+
+- Aero capex is real; listed aero PE is not MOS.  
+- Pitti EBITDA stays **16.8–17.2%**; expansion is ₹/ton mix.  
+- Queue: Indo-MIM, Centum, Astra, GFL/Neogen, Precision Wires, Harsha mid-20s, Goodluck.
