@@ -1,14 +1,12 @@
 # Curiosity Stack Watchlist
 
-**Last Updated**: 1 September 2026 (rev 4)  
+**Last Updated**: 1 September 2026 (rev 5)  
 **Action source**: `THESIS-supply-chain-MOS.md`  
 **Modules**: J-Curve v1.2 + Fair Value v2.1
 
-MOS = gap under the **working FV band** + liquidity + a kill switch.  
-23 Aug conviction ranks are a **log only**.
+MOS = gap under the **working FV band** + liquidity + a kill switch.
 
-Batch of 1 Sep (full stack): OBSCP, Millworks, Vivid, Avana, Metalic, CFF, Omni, DIACABS, KMEW, SETL, BLEL, Marine, Shree Ref.  
-**None cleared MOS Add at last tape.**
+Rev 5: **Clean Max Enviro Energy Solutions** (`CLEANMAX`) added after full stack. Real C&I RE IPP. **No MOS at ~₹1,247.** Value on EV / run-rate EBITDA, not headline PE.
 
 ---
 
@@ -40,13 +38,14 @@ Batch of 1 Sep (full stack): OBSCP, Millworks, Vivid, Avana, Metalic, CFF, Omni,
 | **Kilburn** | process | Add dips |
 | **Yash HV** ~₹986 | fair ₹780–920; add ≤₹750 | Real atom, bull PE |
 | **GE T&D / TRIL** | liquid T&D | Prefer vs Yash |
+| **CleanMax** | ₹1,247 (31 Aug) | C&I RE IPP. Work ₹1,050–1,400 on 12–15× RR EBITDA; floor ₹740–850; **add only ≤₹1,050 (IPO)**. FII 29.8%→11.2% Mar–Jun. Not MOS. |
 | **Devson Catalyst** | ₹259.5 (25 Aug SME) | Work ₹190–240; add only ≤₹200 |
-| **BLEL** (Behari Lal Engg) | ₹441 (31 Aug) | Fresh list 19 Aug. FY26 PAT ₹65 Cr / sales ₹533. Work ₹300–360; add ≤₹320. Steel-engg, not T&D OEM. |
-| **Metalic Technoforge** | ₹138 (31 Aug) | Forging SME. FY26 PAT ₹12.4 / sales ₹96. Work ₹90–120; add ≤₹105. Do not treat as EV P&L. |
-| **Marine Electricals** | ₹396–407 (28–31 Aug) | Naval electricals. Aug squeeze from ~₹266. Hold after the run; no MOS. |
-| **Shree Refrigerations** | ₹413 (31 Aug) | Defence HVAC / MDL adjacency. Work ₹280–360; add ≤₹300. |
-| **KMEW** | ₹3,052 (28 Aug) | Dredge / marine works. ~55× TTM. Liquid vs SME junk. Hold; add only a wash toward ₹2,200–2,400. |
-| **CFF Fluid Controls** | ₹1,042 (31 Aug) | Defence fluid. ~55×. Hold / no add at 52W. |
+| **BLEL** | ₹441 | Work ₹300–360; add ≤₹320 |
+| **Metalic Technoforge** | ₹138 | Work ₹90–120; add ≤₹105. Not EV P&L. |
+| **Marine Electricals** | ₹396–407 | Hold after Aug squeeze |
+| **Shree Refrigerations** | ₹413 | Work ₹280–360; add ≤₹300 |
+| **KMEW** | ₹3,052 | Hold; wash ₹2,200–2,400 |
+| **CFF Fluid Controls** | ₹1,042 | ~55×. No add at 52W |
 
 ---
 
@@ -54,28 +53,23 @@ Batch of 1 Sep (full stack): OBSCP, Millworks, Vivid, Avana, Metalic, CFF, Omni,
 
 | Company | Why |
 |---------|-----|
-| **OBSCP** (OBSC Perfection) @~₹870 | Precision auto, ~72–79×, 52W ₹270–921. Real atom, bull PE. Wait ≤₹480 (~40×). |
-| **Millworks** @~₹914 | SME springs after Hindustan Spring slump sale. Sales 22→149 one year. ~43× + aero tape. Wait ≤₹650. |
-| **Vivid Electromech** @~₹1,550–1,620 | Still ~45× club. Add only &lt;₹1,200. |
-| **Avana Electrosystems** @~₹150 | ~29× + 4–10k vol. Dead SME tape. |
-| **Omnitech Engg** @~₹540–565 | Desk work was ₹360–460. Now ~64–70× / MCap ~₹7,000 Cr. No add. |
-| **DIACABS** (Diamond Power) @~₹347 | Cables, ~98×, **negative book**, CIRP history. Rally ≠ clean stub. |
-| **SETL** (Standard Engg / glass lining) @~₹370 | New 52W high, ~86×, MCap ~₹7,370 Cr. Pharma-capex multiple, no MOS. |
-| **Yash HV @ ₹986** | ~76× — wait ≤₹750 |
-| **Aimtron @ ~₹1,610** | EMS ~75× |
-| **Vilas / Plasma / Sona / aero 55–300× / bearings / metalic-as-EV** | Unchanged |
+| **CleanMax @ ~₹1,247** | Inside work mid, not under it. ~88–94× TTM PAT. FII exit. Wait IPO ₹1,053. |
+| **OBSCP** @~₹870 | ~72–79×. Wait ≤₹480 |
+| **Millworks** @~₹914 | ~43× + slump-sale sales. Wait ≤₹650 |
+| **Vivid Electromech** | Add only &lt;₹1,200 |
+| **Avana** @~₹150 | Dead SME tape |
+| **Omnitech** @~₹540–565 | Work was ₹360–460 |
+| **DIACABS** @~₹347 | ~98×, negative book, CIRP |
+| **SETL** @~₹370 | ~86× new 52W |
+| **Yash HV / Aimtron / aero club / bearings / metalic-as-EV** | Unchanged |
 
 ---
 
 ## Queue
 
-Indo-MIM · Centum · Astra / Data Patterns · GFL / Neogen · Precision Wires · Harsha mid-20s · Goodluck  
-**BLEL ≤₹320** · **Metalic ≤₹105** · **Shree Ref ≤₹300** · **Devson ≤₹200** · OBSCP ≤₹480 · Millworks ≤₹650 · CFF wash · KMEW wash · Marine post-squeeze only
+Indo-MIM · Centum · Astra / Data Patterns · GFL / Neogen · Precision Wires · Harsha · Goodluck  
+**CleanMax ≤₹1,050** · BLEL ≤₹320 · Metalic ≤₹105 · Shree Ref ≤₹300 · Devson ≤₹200 · OBSCP ≤₹480 · Millworks ≤₹650
 
 ---
-
-## 23 Aug ranked log
-
-Unchanged. Do not use those conviction scores as MOS.
 
 **Actively traded MOS set**: NLC, RIL ₹1,250–1,280, Varroc, MSWIL, Pitti ≤₹1,050, Aurionpro ≤₹700 (WC), Merritronix ≤₹280, Himadri, ISGEC ≤₹680, INOX tiny.

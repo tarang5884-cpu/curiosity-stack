@@ -17,7 +17,8 @@ default_output:
 notes: |
   2026-09-01 session: L0 semiconductor; Semicon 2.0 map; morning-brief locked to MOS list.
   Tracking GE Vernova T&D tape (GVT&D) as liquid T&D hold vs Yash HV.
-  Devson Catalyst added to Hold/Queue (work 190-240; add only <=200). Not MOS Add.
+  Devson Catalyst Hold/Queue (work 190-240; add only <=200).
+  CleanMax Hold (work 1050-1400 RR-EBITDA; add only <=1050 IPO). FII 29.8->11.2 Mar-Jun.
   Setup questionnaire not completed.
 
 # ── Decomposition Library ─────────────────────────────
@@ -119,4 +120,26 @@ watchlist_topics:
         last_fired: null
       - layer: L0
         condition: Print trades at or below Rs 200 on the BSE SME tape, or volume dries under 20,000 shares for a week
+        last_fired: null
+
+  - name: Clean Max Enviro Energy Solutions
+    added: 2026-09-01
+    last_status: NSE CLEANMAX. Hold. Last Rs 1247 on 31 Aug. Work 1050-1400 on 12-15x run-rate EBITDA; floor 740-850; add only <=1050 IPO. FII 29.8 to 11.2 Mar-Jun 2026.
+    signal_priorities:
+      - earnings
+      - news
+      - orders
+      - regulatory
+    triggers:
+      - layer: L3
+        condition: Quarterly run-rate EBITDA print below Rs 1,700 Cr or project debt cost back above 9%
+        last_fired: null
+      - layer: L4
+        condition: Envision 1,550 MW WTG term sheet converts to a firm supply + commissioning schedule, or Bikaner-2 curtailment print worsens from ~30%
+        last_fired: null
+      - layer: L5
+        condition: Named hyperscale / Data-and-AI PPA disclosed in GW terms (segment already 42% of contracted book)
+        last_fired: null
+      - layer: L0
+        condition: Print trades at or below IPO Rs 1,053, or FII holding prints another 300 bps down in a quarter
         last_fired: null
