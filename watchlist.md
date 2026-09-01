@@ -1,6 +1,6 @@
 # Curiosity Stack Watchlist
 
-**Last Updated**: 31 August 2026 (rev 2)  
+**Last Updated**: 1 September 2026 (rev 3)  
 **Action source**: `THESIS-supply-chain-MOS.md`  
 **Modules**: J-Curve v1.2 + Fair Value v2.1
 
@@ -9,7 +9,7 @@ MOS = gap under the **working FV band** + liquidity + a kill switch.
 
 ---
 
-## ADD (MOS) — 31 Aug 2026 rev 2
+## ADD (MOS) — 31 Aug 2026 rev 2 (unchanged)
 
 | Rank | Company | Theme | Working / floor | Add zone | Kill switch |
 |------|---------|-------|-----------------|----------|-------------|
@@ -37,6 +37,7 @@ MOS = gap under the **working FV band** + liquidity + a kill switch.
 | **Kilburn** | process | Add dips |
 | **Yash HV** ₹986 | fair ₹780–920; add ≤₹750 | **Real atom, bull PE — hold wishlist, no add** |
 | **GE T&D / TRIL** | liquid T&D | Prefer vs Yash at 76× |
+| **Devson Catalyst** | last ₹259.5 (25 Aug, BSE SME 544823) | Process catalyst / adsorbent / ceramic ball. Work ₹190–240; floor ₹150–170; **add only ≤₹200**. Real atom, SME tape, no MOS at CMP. |
 
 ---
 
@@ -46,7 +47,7 @@ MOS = gap under the **working FV band** + liquidity + a kill switch.
 |---------|-----|
 | **Yash Highvoltage @ ₹986** | ~76× TTM / ~45× FY28e — wait ≤₹750 |
 | **Aimtron @ ~₹1,610** | EMS ~75× on ₹46 Cr PAT |
-| **Vivid Electromech @ ~₹1,612** | 45× / 23× PB; add only &lt;₹1,200 |
+| **Vivid Electromech @ ~₹1,612** | 45× / 23× PB; add only <₹1,200 |
 | **Omnitech** | vs work ₹360–460 |
 | **Vilas @ ₹361** | guide vs Q1; dead tape |
 | **Avana @ ₹150** | 29× + 10k vol |
@@ -55,12 +56,13 @@ MOS = gap under the **working FV band** + liquidity + a kill switch.
 | **Aero 55–300× club** | Azad / PTC / MTAR / Unimech / Dynamatic / Aequs / Sika / Rossell |
 | **Humanoid bearings** | SKF / Timken / NRB |
 | **Metalic-as-EV** | Not the P&L |
+| **Devson Catalyst @ ~₹260** | ~28× post-issue FY26 EPS; SME lot 1,200; **no add at CMP** |
 
 ---
 
 ## Queue
 
-Indo-MIM · Centum · Astra / Data Patterns · GFL / Neogen · Precision Wires · Harsha mid-20s · Goodluck
+Indo-MIM · Centum · Astra / Data Patterns · GFL / Neogen · Precision Wires · Harsha mid-20s · Goodluck · **Devson Catalyst (SME process; dip ≤₹200)**
 
 ---
 
@@ -69,3 +71,5 @@ Indo-MIM · Centum · Astra / Data Patterns · GFL / Neogen · Precision Wires �
 Unchanged. See previous commit. Do not use those conviction scores as MOS.
 
 **Actively traded MOS set**: NLC, **RIL ₹1,250–1,280**, Varroc, MSWIL, Pitti ≤₹1,050, Aurionpro ≤₹700 (WC), Merritronix ≤₹280, Himadri, ISGEC ≤₹680, INOX tiny.
+
+**Rev 3 note (1 Sep)**: Devson Catalyst added after IPA + FV pass. Not MOS Add. Hold / queue only.
