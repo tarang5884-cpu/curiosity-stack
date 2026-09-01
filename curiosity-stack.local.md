@@ -17,6 +17,7 @@ default_output:
 notes: |
   2026-09-01 session: L0 semiconductor; Semicon 2.0 map; morning-brief locked to MOS list.
   Tracking GE Vernova T&D tape (GVT&D) as liquid T&D hold vs Yash HV.
+  Devson Catalyst added to Hold/Queue (work 190-240; add only <=200). Not MOS Add.
   Setup questionnaire not completed.
 
 # ── Decomposition Library ─────────────────────────────
@@ -96,4 +97,26 @@ watchlist_topics:
         last_fired: null
       - layer: L5
         condition: Semiconductor-fab or data-centre transformer order disclosed (Q1 already had a 155 MVA / 245 kV semiconductor customer print)
+        last_fired: null
+
+  - name: Devson Catalyst
+    added: 2026-09-01
+    last_status: BSE SME 544823. Hold / queue. Last Rs 259.5 on 25 Aug. Work 190-240; floor 150-170; add only <=200. No MOS at CMP.
+    signal_priorities:
+      - earnings
+      - news
+      - orders
+      - regulatory
+    triggers:
+      - layer: L4
+        condition: Gujarat expansion COD or first utilisation print on the new catalyst/adsorbent lines (target 2545 to 7633 MTPA)
+        last_fired: null
+      - layer: L3
+        condition: Quarterly sales run-rate holds above Rs 14 Cr or PAT margin prints below 15%
+        last_fired: null
+      - layer: L5
+        condition: Named refinery, fertilizer, steel, or petrochemical qualification / repeat order disclosed
+        last_fired: null
+      - layer: L0
+        condition: Print trades at or below Rs 200 on the BSE SME tape, or volume dries under 20,000 shares for a week
         last_fired: null

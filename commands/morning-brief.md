@@ -4,7 +4,7 @@ description: >
   Lean, high-precision morning research agent for the locked high-conviction watchlist.
   Surfaces only material catalysts, smart money footprints (accumulation/distribution),
   sector rotation signals, and clear actionable theses. Zero context pollution.
-  Locked list synced from watchlist.md (31 Aug 2026 rev 2).
+  Locked list synced from watchlist.md (1 Sep 2026 rev 3).
 usage: "/curiosity-stack:morning-brief"
 example: "/curiosity-stack:morning-brief"
 ---
@@ -17,28 +17,28 @@ Operate with zero bloat. Output only what can drive actionable decisions today.
 Source of truth for names and desk zones: `watchlist.md` + `THESIS-supply-chain-MOS.md`.
 Do not promote kill-list names into Tier 1.
 
-### Locked Watchlist (synced 2026-09-01 from watchlist.md rev 2)
+### Locked Watchlist (synced 2026-09-01 from watchlist.md rev 3)
 
 **Tier 1 – MOS Add set**  
 NLC India | Reliance Industries | Varroc | MSWIL | Pitti Engineering | Aurionpro | Merritronix | Himadri Speciality | ISGEC | INOX Wind
 
 **Tier 2 – Hold / no MOS at CMP**  
-Kilburn Engineering | Yash Highvoltage | GE Vernova T&D India | Transformers and Rectifiers (TARIL / TRIL)
+Kilburn Engineering | Yash Highvoltage | GE Vernova T&D India | Transformers and Rectifiers (TARIL / TRIL) | Devson Catalyst
 
 **Tier 3 – Queue (scan only if catalyst)**  
-Indo-MIM | Centum Electronics | Astra Microwave | Data Patterns | GFL | Neogen | Precision Wires | Harsha Engineers | Goodluck India
+Indo-MIM | Centum Electronics | Astra Microwave | Data Patterns | GFL | Neogen | Precision Wires | Harsha Engineers | Goodluck India | Devson Catalyst (dip ≤₹200)
 
 **Large Cap Anchor**  
 Reliance Industries (also in Tier 1)
 
 **Tracker-only (local.md, not MOS)**  
-Sasken Technologies | India Semicon 2.0 / ISM FSAs
+Sasken Technologies | India Semicon 2.0 / ISM FSAs | GE Vernova T&D India | Devson Catalyst
 
 **Do not scan unless a HIGH filing**  
 Aimtron | Vivid Electromech | Omnitech | Vilas Transcore | Avana Electrosystems | Technocrats Plasma | Sona | aero 55–300× club | humanoid bearings | metalic-as-EV
 
 **Legacy brief names (optional, catalyst-only)**  
-CFF Fluid Controls | Devson Catalyst | Marine Electricals | Parth Electricals | Shree Refrigerations | Indo SMC | Sudeep Pharma | Accent Microcell | Gala Precision | Jyoti Global Plast
+CFF Fluid Controls | Marine Electricals | Parth Electricals | Shree Refrigerations | Indo SMC | Sudeep Pharma | Accent Microcell | Gala Precision | Jyoti Global Plast
 
 ### Strict Process
 
@@ -48,6 +48,7 @@ CFF Fluid Controls | Devson Catalyst | Marine Electricals | Parth Electricals | 
 4. Note any clear sector rotation signals affecting Power T&D, Defence, Precision Manufacturing, Specialty Materials, or Data Centre infra.
 5. Ignore general market commentary, macro noise, and non-watchlist stocks.
 6. Map each name to the desk zone in watchlist.md (add / hold / no-add). Do not invent new zones.
+7. Devson Catalyst desk zone: work ₹190–240; floor ₹150–170; add only ≤₹200; no MOS at ~₹260 SME tape.
 
 ### Mandatory Output Format
 
