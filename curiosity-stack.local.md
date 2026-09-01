@@ -15,8 +15,9 @@ deprioritise:
 default_output:
   text_size: comfortable
 notes: |
-  2026-09-01 session: L0 on global semiconductor supply-chain dynamics;
-  India Proxy + Semicon 2.0 policy map. Setup questionnaire not completed.
+  2026-09-01 session: L0 semiconductor; Semicon 2.0 map; morning-brief locked to MOS list.
+  Tracking GE Vernova T&D tape (GVT&D) as liquid T&D hold vs Yash HV.
+  Setup questionnaire not completed.
 
 # ── Decomposition Library ─────────────────────────────
 
@@ -75,86 +76,24 @@ watchlist_topics:
         condition: Advanced packaging (2.5D/3D/WLCSP) project approved in India, or silicon 300mm fab FSA beyond Tata Dholera
         last_fired: null
 
-  - name:
-    added:
-    last_status:
+  - name: GE Vernova T&D India
+    added: 2026-09-01
+    last_status: Hold / liquid T&D vs Yash HV. Close 31 Aug 2026 Rs 4445. Q1 FY27 execution strong, order intake -30% YoY.
     signal_priorities:
+      - earnings
+      - orders
       - news
       - regulatory
-      - new_entrants
-      - funding
     triggers:
-      - layer:
-        condition:
-        last_fired:
-
-# ── Source Credibility ────────────────────────────
-
-source_rating_enabled: true
-source_auto_accept_suggestions: false
-
-sources:
-  - name:
-    type:
-    sectors:
-      -
-    layers:
-      -
-    rating:
-    rated_by:
-    times_cited: 0
-    notes:
-    last_cited:
-
-# Domain knowledge — per-sector company intelligence
-# Used by the India Proxy Agent to surface non-obvious companies
-# Add companies you know via /curiosity-stack:knowledge
-
-domain_knowledge:
-  cybersecurity:
-    []
-  ai_data:
-    []
-  fintech:
-    []
-  ev_batteries:
-    []
-  pharma:
-    []
-  green_energy:
-    []
-  space:
-    []
-  semiconductor:
-    - name: Kaynes Technology
-      segment: ATMP / OSAT (power and multi-chip modules)
-      note: Kaynes Semicon Sanand commercial 31 Mar 2026. Direct ISM 1.0 shipping actor. Listed parent.
-      source: discovered
-      added: 2026-09-01
-    - name: CG Power and Industrial Solutions
-      segment: ATMP / OSAT + design (Axiro)
-      note: CG Semi JV with Renesas and Stars Microelectronics. Sanand commercial 4 Jul 2026. Direct ISM 1.0. Electricals parent.
-      source: discovered
-      added: 2026-09-01
-    - name: Archean Chemical Industries
-      segment: Compound fab / SiC + materials
-      note: SiCSem + Neun Infra FSA with ISM 11 May 2026. Odisha SiC MOSFET/diode fab+ATMP. Chemicals parent, not CMOS foundry.
-      source: discovered
-      added: 2026-09-01
-    - name: MosChip Technologies
-      segment: Fabless design / ASIC SoC / DLI-shaped
-      note: Listed fabless design house. Closest listed product-design name for Semicon 2.0 pillar 1.
-      source: discovered
-      added: 2026-09-01
-    - name: RIR Power Electronics
-      segment: SiC epitaxy / discrete power
-      note: Odisha SiC path with state subsidy. Confirm ISM vs state-only aid before treating as scheme vehicle.
-      source: discovered
-      added: 2026-09-01
-    - name: SPEL Semiconductor
-      segment: Legacy OSAT
-      note: Oldest India OSAT (Chennai). Execution and scale flag versus new Sanand lines. BSE listed.
-      source: discovered
-      added: 2026-09-01
-  general:
-    - Sasken Technologies: 35+ year Bengaluru-based product engineering services company (Chip-to-Cognition). Strong in automotive electronics, semiconductor design/verification, embedded systems. Acquired Borqs IoT/ODM business in Apr 2025. Key India semiconductor + auto theme play. Also listed under domain_knowledge.semiconductor via Sasken Silicon (analog/mixed-signal, RF, PMIC).
+      - layer: L3
+        condition: Quarterly order inflow returns above Rs 2,000 Cr or US data-centre / pending export package is booked into the order book
+        last_fired: null
+      - layer: L4
+        condition: HVDC developer award (Lakadia restart, Begunia path, or new Khavda-class HVDC) names GVT&D as equipment supplier
+        last_fired: null
+      - layer: L0
+        condition: Print breaks Rs 4,000 on volume or retests Rs 5,650 52W high; or FII/DII shareholding swing greater than 150 bps in a quarter
+        last_fired: null
+      - layer: L5
+        condition: Semiconductor-fab or data-centre transformer order disclosed (Q1 already had a 155 MVA / 245 kV semiconductor customer print)
+        last_fired: null
