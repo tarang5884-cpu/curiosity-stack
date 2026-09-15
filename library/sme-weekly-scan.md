@@ -1,22 +1,37 @@
-# SME weekly X-scan protocol
+# SME weekly scan stack (Monday IST)
 
-Run every Monday 08:30 IST (automation: `SME weekly X scan`).
-SPJ bulk scan runs 08:45 IST the same morning (automation: `SPJ weekly bulk scan`).
+| Time | Automation | File |
+|---|---|---|
+| 08:30 | `SME weekly X scan` | Vihaan + Suresh + champions |
+| 08:35 | `SME investor weekly scan` | Layer B HNIs + Layer C anchors |
+| 08:45 | `SPJ weekly bulk scan` | Sanjay Popatlal Jain only |
 
-## Handles
+Roster: `library/sme-investor-scan-roster.md`.
+Tracker: `library/sme-tracker.md`.
+SPJ tape: `library/sanjay-popatlal-jain-tracker.md`.
 
-1. `from:Vihaan_001_` last 7 days — posts + replies with Added / portfolio / IPO / ticker.
-2. `from:SureshKBN` last 7 days — only if SME / low-float / named smallcap.
-3. Optional champions (do not treat as SEBI): search `SME IPO added` on X; keep a name only if **two** handles mention it independently.
-4. **Sanjay Popatlal Jain bulk** — see `library/sanjay-popatlal-jain-tracker.md`. NSE/BSE bulk last 7 days. Tag SIT / FLIP / EXIT. Do not auto-Live.
+## Handles (08:30)
+
+1. `from:Vihaan_001_` last 7 days — Added / portfolio / IPO / ticker.
+2. `from:SureshKBN` last 7 days — only SME / low-float / named smallcap.
+3. Optional: `ent_wala`, `stockscansin` — keep a name only if **two** handles mention it independently.
+
+## Investor layer (08:35)
+
+Exact vehicles: Kacholia + Bengal Finance + Lucky; Nasser; Mukul / Param; Abakkus; Dolly Khanna; Porinju; Kedia; Upadhyaya; Parikh; Kela / MK Ventures.
+SME IPOs this week: log only if **Abakkus or Kacholia/Bengal** in the anchor. Rajasthan Global / Vikasa / Shine Star alone = IGNORE.
+Skip Microcurves / Irage / NK Securities flips.
+
+## SPJ (08:45)
+
+Exact string `SANJAY POPATLAL JAIN` / `JAIN SANJAY POPATLAL` only. Tag SIT / FLIP / EXIT.
 
 ## Output (paste into sme-tracker.md Log + tables)
 
 - New names (max 10). Tag: Added / Watch / Sold / Circuit.
-- His add-price vs last close if available.
+- Add-price vs last close if available.
 - CSK: stalk / ignore / support-zone. Never Live on UC week.
 - Promotions to Board-E 99 only if user confirms.
 - One-line file.
-- Append SPJ SIT names as Watch only.
 
 Cues not buys.
