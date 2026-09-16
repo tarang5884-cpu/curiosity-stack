@@ -2,7 +2,8 @@
 
 **Embedded:** 15 Sep 2026  
 **Runs in:** CSK daily scan (`automation c587c14c`) every weekday 08:15 IST  
-**Sits with:** StockScans 50-DMA rest after a run · Gemini-bee DEP (10/20 EMA) · pillars 1–9 then 10
+**Sits with:** StockScans 50-DMA rest after a run · Gemini-bee DEP (10/20 EMA) · pillars 1–9 then 10  
+**After:** `library/nse-filing-first.md` — filing before X, then tag the tape
 
 ## The market fact
 
@@ -14,6 +15,8 @@ A reckless up-move **without a prior 2–4 week base** usually means:
 That first leg can last. It is **not** the entry if you missed it.
 
 When allocation is done, price typically **falls back to the 10-DMA, then 20-DMA, then 50-DMA** and tries to **build a base**. That coil is the research window.
+
+Confirm the catalyst on NSE announcements **before** you accept an X thread as the why.
 
 ## Tags (every daily scan)
 
@@ -41,6 +44,7 @@ A close back above the DMA on **rising** volume after a dry coil is the *trigger
 - SME circuits after a gap = SPIKE until a multi-week rest. 0.3–0.75% still applies later.
 - Pillar 10 still requires MOS. A beautiful 50-DMA base at 55× is CAP.
 - Compute sleeve (ESDS / E2E / Netweb): SPIKE first; MEAN-REV does not override the AI-slowdown no-add unless invoice-quality cash appears.
+- No filing + vertical tape = SPIKE + H/F. Do not invent an order story from X.
 
 ## Daily output stub
 

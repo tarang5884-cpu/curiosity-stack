@@ -1,14 +1,14 @@
 ---
 name: morning-brief
 description: >
-  Lean morning research agent. Locked list from watchlist.md (rev 6) + spike-to-DMA rule.
+  Lean morning research agent. Locked list from watchlist.md (rev 6) + spike-to-DMA rule + NSE filing first.
 usage: "/curiosity-stack:morning-brief"
 example: "/curiosity-stack:morning-brief"
 ---
 
 # India Daily Edge – Master Morning Brief
 
-Source of truth: `watchlist.md` + `THESIS-supply-chain-MOS.md` + `library/spike-dma-base-rule.md`.
+Source of truth: `watchlist.md` + `THESIS-supply-chain-MOS.md` + `library/spike-dma-base-rule.md` + `library/nse-filing-first.md`.
 Do not promote kill-list names into Tier 1.
 
 ### Locked Watchlist (synced 2026-09-13 rev 6)
@@ -35,16 +35,17 @@ OBSCP at ~₹870 | Millworks | Vivid | Avana | Omnitech | DIACABS | SETL | Aimtr
 ### Strict Process
 1. Last 16–20 hours only.
 2. Material items on the locked list only.
-3. Flag block/bulk, delivery, volume+price.
-4. Pulse: Power T&D, C&I RE / data-centre offtake, Defence + marine, Precision / forging, Specialty materials.
-5. Map to watchlist.md zones. Do not invent new zones.
-6. **Spike rule:** if a locked name went vertical with no base, tag SPIKE. Do not upgrade Tier. Put it on MEAN-REV WATCH for 10 then 20 then 50 DMA. Only BASE READY + MOS can change action.
+3. **NSE filing first:** for any locked name that moved, open NSE → Corporate Filings → Announcements (https://www.nseindia.com/companies-listing/corporate-filings-announcements) before X or news. F&O included. SME = BSE announcements. Tag ORDER / AGREEMENT / PROJECT / REG-30 / REGULATORY / DEAL / RESULT / NOTHING. No A/B bucket without a dated PDF.
+4. Flag block/bulk, delivery, volume+price.
+5. Pulse: Power T&D, C&I RE / data-centre offtake, Defence + marine, Precision / forging, Specialty materials.
+6. Map to watchlist.md zones. Do not invent new zones.
+7. **Spike rule:** if a locked name went vertical with no base, tag SPIKE. Do not upgrade Tier. Put it on MEAN-REV WATCH for 10 then 20 then 50 DMA. Only BASE READY + MOS can change action.
 
 ### Output
 **India Daily Edge | [Date]**  
 **Market Bias**: one line
 
-1. High-Impact Catalysts
+1. High-Impact Catalysts (filing subject + time first)
 2. Smart Money / Institutional Footprints
 3. Tier 1 notes
 4. Tier 2 / Queue notes (only if material)

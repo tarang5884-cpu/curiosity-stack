@@ -34,7 +34,10 @@ Crunchbase, CB Insights, G2 / Capterra, LinkedIn company search
 Tracxn (most comprehensive), Inc42, NASSCOM Emerge50, VCCircle, YourStory
 
 ### L6 — Research Landscape — Listed India
-Screener.in, Trendlyne, Tijori Finance, BSE/NSE annual reports, concall transcripts
+**Why did it move today?** NSE → Corporate Filings → Announcements first  
+https://www.nseindia.com/companies-listing/corporate-filings-announcements  
+(F&O included. SME / BSE-only: BSE announcements.) See `library/nse-filing-first.md`.  
+Then: Screener.in, Trendlyne, Tijori Finance, BSE/NSE annual reports, concall transcripts. X only after NOTHING on the exchange.
 
 ### L6 — Research Landscape — Unlisted / Pre-IPO India
 Unlisted Arena, Planify, AngelList India, LetsVenture
@@ -43,7 +46,7 @@ Unlisted Arena, Planify, AngelList India, LetsVenture
 
 ## Building a Personal Signal System
 
-**Daily (15–20 mins):** HackerNews front page, 2–3 domain subreddits, one newsletter
+**Daily (15–20 mins):** NSE announcements on movers, HackerNews front page, 2–3 domain subreddits, one newsletter
 
 **Weekly (1–2 hours):** One deep-dive, one earnings call or conference talk, review notes
 
