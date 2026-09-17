@@ -1,15 +1,34 @@
 ---
 name: morning-brief
 description: >
-  Lean morning research agent. Locked list from watchlist.md (rev 6) + spike-to-DMA rule + NSE filing first.
+  Lean morning brief. Runs the ONE CSK momentum scan, then overlays the locked watchlist.
 usage: "/curiosity-stack:morning-brief"
 example: "/curiosity-stack:morning-brief"
 ---
 
-# India Daily Edge – Master Morning Brief
+# India Daily Edge — Master Morning Brief
 
-Source of truth: `watchlist.md` + `THESIS-supply-chain-MOS.md` + `library/spike-dma-base-rule.md` + `library/nse-filing-first.md`.
-Do not promote kill-list names into Tier 1.
+**One scan only.** Source of truth:
+- `library/csk-momentum-scan.md` (the screen)
+- `watchlist.md`
+- `library/nse-filing-first.md`
+- `library/spike-dma-base-rule.md`
+- `THESIS-supply-chain-MOS.md`
+
+Do not run a second winners-forensics pass. Do not dump Board-99 as a separate product.
+Do not promote kill-list names into Tier 1 or 8-slot.
+
+### Screen (mandatory first block)
+
+```
+Close > 20 DMA
+AND 20 DMA > 50 DMA
+AND Dist from 52W high < 15%
+ORDER BY 3-month return DESC
+Default: mcap > ₹2,000 Cr
+```
+
+Watchlist / SME-core names that fail the mcap gate may appear in an appendix if they still pass the DMA + 52W test.
 
 ### Locked Watchlist (synced 2026-09-13 rev 6)
 
@@ -22,38 +41,29 @@ Kilburn | Yash Highvoltage | GE Vernova T&D | TARIL / TRIL | **CleanMax** | Devs
 **Tier 3 – Queue / dip only**  
 Indo-MIM | Centum | Astra | Data Patterns | GFL | Neogen | Precision Wires | Harsha | Goodluck | **CleanMax ≤₹1,050** | BLEL ≤₹320 | Metalic ≤₹105 | Shree Ref ≤₹300 | Devson ≤₹200 | OBSCP ≤₹480 | Millworks ≤₹650 | Yash HV ≤₹750
 
-**Tracker-only**  
-Sasken | India Semicon 2.0 / ISM FSAs | GE Vernova T&D | Devson Catalyst | CleanMax | AI/DC roster A–F
-
 **Do not scan unless HIGH filing**  
-OBSCP at ~₹870 | Millworks | Vivid | Avana | Omnitech | DIACABS | SETL | Aimtron | aero 55–300× | humanoid bearings | metalic-as-EV | ESDS circuits
-
-### Desk zones (do not rewrite)
-- CleanMax: work ₹1,050–1,400; add only ≤₹1,050
-- BLEL ≤₹320 | Metalic ≤₹105 | Shree Ref ≤₹300 | Devson ≤₹200 | CFF no add at ~₹1,040 | KMEW wash ₹2,200–2,400 | Yash add ≤₹750
+OBSCP at ~₹870 | Millworks | Vivid | Avana | Omnitech | DIACABS | SETL | Aimtron | aero 55–300× | ESDS circuits
 
 ### Strict Process
-1. Last 16–20 hours only.
-2. Material items on the locked list only.
-3. **NSE filing first:** for any locked name that moved, open NSE → Corporate Filings → Announcements (https://www.nseindia.com/companies-listing/corporate-filings-announcements) before X or news. F&O included. SME = BSE announcements. Tag ORDER / AGREEMENT / PROJECT / REG-30 / REGULATORY / DEAL / RESULT / NOTHING. No A/B bucket without a dated PDF.
-4. Flag block/bulk, delivery, volume+price.
-5. Pulse: Power T&D, C&I RE / data-centre offtake, Defence + marine, Precision / forging, Specialty materials.
-6. Map to watchlist.md zones. Do not invent new zones.
-7. **Spike rule:** if a locked name went vertical with no base, tag SPIKE. Do not upgrade Tier. Put it on MEAN-REV WATCH for 10 then 20 then 50 DMA. Only BASE READY + MOS can change action.
+1. Latest completed cash session only.
+2. Run the momentum screen. Cap pass-list at 25.
+3. NSE filing first on every passer and every locked name that moved ±3%.
+4. Spike / MEAN-REV / BASE READY tag. 8-slot only BASE READY or MOS add-zone.
+5. Overlay Tier 1–3: which locked names *also* passed the screen vs which failed 20>50 or are >15% off high.
+6. Pulse one line: Power T&D, C&I RE, Defence, Precision, Specialty materials.
 
 ### Output
 **India Daily Edge | [Date]**  
 **Market Bias**: one line
 
-1. High-Impact Catalysts (filing subject + time first)
-2. Smart Money / Institutional Footprints
-3. Tier 1 notes
-4. Tier 2 / Queue notes (only if material)
-5. Spike → DMA watch (names that ran without a base; which DMA they are falling toward)
-6. Sector Rotation Pulse
-7. Action Summary (max 4 lines)
+1. Momentum pass list (table)
+2. 8-slot
+3. Locked-list overlay (passed / failed screen)
+4. Filing table
+5. Mean-rev / spike watch
+6. Action Summary (max 4 lines)
 
 ### Hard Rules
-≤ 400 words. Primary sources. Research framing only — not SEBI advice, not a recommendation to buy, sell, or hold.
+≤ 500 words after tables. Primary sources. Research framing only — not SEBI advice.
 
 Generate today’s brief now.

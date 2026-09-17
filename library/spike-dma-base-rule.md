@@ -1,9 +1,10 @@
 # Spike → DMA base rule
 
 **Embedded:** 15 Sep 2026  
-**Runs in:** CSK daily scan (`automation c587c14c`) every weekday 08:15 IST  
-**Sits with:** StockScans 50-DMA rest after a run · Gemini-bee DEP (10/20 EMA) · pillars 1–9 then 10  
-**After:** `library/nse-filing-first.md` — filing before X, then tag the tape
+**Updated:** 17 Sep 2026 — runs only inside the ONE daily scan  
+**Runs in:** CSK One Daily Scan (`c587c14c`) weekday 08:15 IST  
+**Sits with:** Momentum screen (Close > 20 > 50, Dist 52W < 15%) · pillars 1–9 then 10  
+**After:** `library/nse-filing-first.md`
 
 ## The market fact
 
@@ -32,10 +33,18 @@ Confirm the catalyst on NSE announcements **before** you accept an X thread as t
 Homework starts at the **first** mean-reversion, not the last.
 
 1. **10-DMA** — earliest, often noisy. Size = zero unless already MOS and delivery is dry.
-2. **20-DMA** — standard first institutional rest (also Gemini DEP).
-3. **50-DMA** — StockScans window. Best for “missed the move” names that still have duration.
+2. **20-DMA** — standard first institutional rest.
+3. **50-DMA** — best for missed-the-move names that still have duration.
 
 A close back above the DMA on **rising** volume after a dry coil is the *trigger to finish homework*, not a market order.
+
+## Interaction with the momentum screen
+
+The live screen requires Close > 20-DMA > 50-DMA. So:
+
+- FAILED BASE names **drop off** the pass list. Put them in Mean-rev watch if they were on yesterday's list.
+- Near-52W + no 2–4 week base = still **SPIKE** even if the three inequalities hold. Do not 8-slot.
+- Dist 52W < 15% + tight 8–20 day coil on rising 20 = **BASE READY** candidate.
 
 ## Hard stops vs other rules
 

@@ -1,7 +1,8 @@
 # NSE filing first — why is this stock moving?
 
 **Embedded:** 16 Sep 2026  
-**Runs in:** CSK daily scan (`c587c14c`) and Daily winners forensics (`b614c787`) every weekday 08:15 IST  
+**Updated:** 17 Sep 2026 — runs only inside the ONE daily scan  
+**Runs in:** CSK One Daily Scan (`c587c14c`) weekday 08:15 IST  
 **Sits before:** X / Suresh / news tabs / spike tags
 
 ## The rule
