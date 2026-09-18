@@ -1,6 +1,6 @@
 # SME Watchlist
 
-**Last Updated**: 18 September 2026 (rev 1)  
+**Last Updated**: 18 September 2026 (rev 2 — CFF migrated)  
 **Board:** NSE Emerge / BSE SME only  
 **Mainboard names live in** [`watchlist.md`](watchlist.md) — do not duplicate them here.  
 **Filter:** [`library/FILTER-structural-quality.md`](library/FILTER-structural-quality.md)
@@ -29,7 +29,7 @@ This is the only SME research file. Old `library/sme-best-core.md`, `sme-tracker
 | **Influx Healthtech** | Biotech CDMO | SME CDMO, 22% EBITDA | — | Capex util | Util miss | File |
 | **Remus Pharma** | Biotech | US/EU formulation | — | Mix print | Export miss | File |
 
-Live at CMP: **none**. Cap = 2.
+Live at CMP: **none**. Cap = 1 (post CFF move).
 
 ---
 
@@ -38,7 +38,6 @@ Live at CMP: **none**. Cap = 2.
 | Name | Theme | Add only | Note |
 |------|-------|----------|------|
 | **Yash Highvoltage** | Power / bushings | **≤₹750** | Fair ₹780–920. CMP ~₹946 = Cap |
-| **CFF Fluid Control** | Defence fluid | not at 52W | ~55× |
 | **OBSCP Perfection** | Precision forge | **≤₹480** | Extended 3× |
 | **Vivid Electromech** | Defence electro | **<₹1,200** | 45× / 23× PB |
 | **Shree Refrigerations** | Marine HVAC | **≤₹300** | Work ₹280–360. DC is FY28 |
@@ -56,7 +55,7 @@ Qualiance (apparel) · Kwick Forensic · Sacheerome · Sotefin · FlySBS · Aege
 
 ## Not SME — belong on watchlist.md
 
-Kanohar · TARIL · Laser Power · Welspun · Himadri · Azad · Cyient DLM · Steamhouse (cut) · Pitti · RIL · NLC
+Kanohar · TARIL · Laser Power · Welspun · Himadri · Azad · Cyient DLM · Steamhouse (cut) · Pitti · RIL · NLC · **CFF Fluid Control** (migrated mainboard 16 Sep 2026)
 
 ---
 
@@ -74,5 +73,5 @@ Kanohar · TARIL · Laser Power · Welspun · Himadri · Azad · Cyient DLM · S
 
 | Week of | Verdict |
 |---|---|
-| 2026-09-18 | File created. Folded Best Core + tracker + SME-25 survivors. |
+| 2026-09-18 | File created. Folded Best Core + tracker + SME-25 survivors. CFF moved to main. |
 | 2026-09-21 | First Monday filter run writes here. |
