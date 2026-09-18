@@ -20,19 +20,21 @@ Cap / no-chase: Shree Refrigerations · Yash HV · CFF Fluid · Omni Tech.
 
 ## Active (Vihaan tape — not all are Core)
 
-| Ticker / name | His add | Last note (as of 2026-09-10) | CSK tag | Overlap |
+| Ticker / name | His add | Last note | CSK tag | Overlap |
 |---|---|---|---|---|
 | Hy-Tech Engineers (`HTEL`) | 75 | 10 Sep UC | Chase — no add | — |
 | Shanti Inorganic | ~160 | COD slipped Q2 FY28 | Stalk | **Core** |
 | MV Electrosystems | 520 | +80% by 8 Sep | Chase / CAP | SPJ flipped |
 | Kwick Forensic | 144 | 120 debtor days | Stalk + cash | **Core**; SPJ 3 Sep |
 | Ashutosh Fiber | 145 | One-liner | Watch | — |
-| Devson Catalyst | — | Tata Steel ammonia-decomp | Stalk | **Core** |
+| Devson Catalyst | — | Tata Steel ammonia-decomp; work ₹190–240 add ≤₹200 | Stalk | **Core** + watchlist HOLD |
 | Susan Electrical | 182 | “2x” | Chase | — |
 | Shree Refrigerations | ~400 | 68×; DC FY28 | CAP | Cap sleeve |
 | Monolithisch | 372 | sold some | Trim | — |
 | OBSCP Perfection | — | sold some after 3× | Trim | **Core** |
 | Yash Highvoltage | 395 | sold some | Trim / SKU real | Cap sleeve |
+| Qualiance International | — | Listed 11 Sep ₹225 → ₹202. Work ₹110–160 add ≤₹150 | Stalk | **Core** + watchlist HOLD |
+| Merritronix | — | Work ₹280–370 add ≤₹280 | Hold sized | **Core** + MOS add |
 
 ## CSK gates before Live
 
@@ -49,3 +51,4 @@ Cap / no-chase: Shree Refrigerations · Yash HV · CFF Fluid · Omni Tech.
 |---|---|
 | 2026-09-10 | File created from Vihaan scrape. |
 | 2026-09-15 | SPJ standalone bulk job dropped. Best Core list + SPJ SIT folded into Monday 08:35 SME weekly scan. |
+| 2026-09-18 | Qualiance full-stack locked. Devson / Merritronix / Qualiance copied onto watchlist.md rev 7. |
