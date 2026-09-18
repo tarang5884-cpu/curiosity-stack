@@ -4,7 +4,8 @@ Filter first: `library/FILTER-structural-quality.md`.
 
 | Time | Automation | What |
 |---|---|---|
-| 08:30 | `SME weekly X scan` | Vihaan + Suresh. Keep only if theme + quality pass. |
+| **08:20** | `Weekly structural-quality sector filter` | Theme + quality prune. Push lists. |
+| 08:30 | `SME weekly X scan` | Vihaan + Suresh. Keep only if filter already passed. |
 | 08:35 | `SME weekly scan` | Best Core tape + Layer B + SPJ SIT |
 
 ## Best Core (mandatory table every 08:35)

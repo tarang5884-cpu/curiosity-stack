@@ -1,11 +1,26 @@
 # Filter — structural runway + business quality
 
 **As of:** 18 September 2026  
+**Cadence:** Monday **08:20 IST** automation `Weekly structural-quality sector filter` (task `d382d2ab-a21e-4a35-b6a2-9890f8fb9dde`)  
+**Runs before:** SME X scan 08:30 · SME Best Core 08:35  
 **Applies to:** `watchlist.md` · `MOAT-list.md` · `library/sme-best-core.md` · `library/sme-tracker.md` · `library/sme-25-study-docket.md`
 
 A name stays on an *action* list only if it clears **both** gates.
 
+Next scheduled run: **Monday 21 Sep 2026, 08:20 IST**.
+
 ---
+
+## 0. Weekly job
+
+Each Monday the automation:
+1. Re-reads this file + the five lists.
+2. Applies theme + quality gates to every name, including new flow from the prior 7 days.
+3. Cuts / restores / tags NO-ADD.
+4. Pushes a dated log block here and bumps `watchlist.md` rev if the set changed.
+5. Sends Tarang a one-page delta.
+
+Restore a cut name **only** if a filing changed the SKU. Listing pop is not a restore.
 
 ## 1. Theme gate — structural runway (2026–30)
 
@@ -43,7 +58,7 @@ Valuation CAP is **not** an automatic delete from the *universe*. It is a delete
 | `sme-tracker.md` | Flow log. Chase names are **not** Core |
 | `CUT-log` below | Deleted names + reason |
 
-## 4. CUT log — 18 Sep 2026
+## 4. CUT log — 18 Sep 2026 (seed run)
 
 Deleted from action lists (watchlist ADD/HOLD/queue + Best Core). Archive only if needed for tape memory.
 
@@ -58,3 +73,10 @@ ISGEC (process EPC) · Kilburn · BLEL · KMEW (marine infra, not four-theme ato
 
 ### Kept as universe / no-chase (theme + quality shop, PE is CAP)
 Azad · Apollo Micro · Cyient DLM · Acutaas · CFF · Yash HV · OBSCP · Vivid · E2E · Netweb · Kanohar · Dhoot · Divgi — **no ADD**, not deleted from memory
+
+## 5. Week log
+
+| Week of | Cuts | Restores | Notes |
+|---|---|---|---|
+| 2026-09-18 | seed prune (~45) | — | Filter created. Automation armed. |
+| 2026-09-21 | *(automation)* | | First scheduled run. |
