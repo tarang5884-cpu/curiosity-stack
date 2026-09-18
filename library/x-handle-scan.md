@@ -8,7 +8,7 @@ Handles are idea-finders. Desk still owns theme + quality + FV.
 
 ---
 
-## Scan — 18 Sep 2026 (seed, last ~14 days)
+## Scan — 18 Sep 2026 (last ~14 days, since 2026-09-04)
 
 ### Handle notes
 
@@ -16,7 +16,7 @@ Handles are idea-finders. Desk still owns theme + quality + FV.
 |---|---|---|
 | @sushilpathiyar | Themes not tickers: EMS / water / hospitals. Named IKIO, KMCSHIL | Thin on add-prices |
 | @RupakRoyC | Deep notes: Antelopus Selan, JG Chemicals, Timex | Process + vendor-moat. Energy E&P is **outside** four-theme filter |
-| @Vihaan_001_ | SME add-tape. Shree 370/400, Anondita 1120, Shanti 160, Ashutosh 145, Kwick 144 | Best price log. Many names already **cut** |
+| @Vihaan_001_ | SME add-tape. Shree added (₹370/400 zone), Anondita, IPO performance log (Devson/Metallic/Shanti etc) | Best price log. Many names already **cut** |
 | @srir54 | IPO notes: Jindal Supreme ₹93, Spectra A, NSE ₹1,785, Beezaasan energetics, ESDS exit | Useful IPO maths. ESDS already cut |
 | @dwivedmanish | Maharaja & Speedex list +40%, Taurian book ₹84 Cr, Anondita FY27 ₹250 Cr, Amtech Esters 11× | Good RHP reads. Drinkware / Taurian fail filter |
 | @TheScooper7 | **CFF migrated to mainboard.** Digilogic event. NPST / UPI MDR | Hygiene print on CFF |
@@ -26,19 +26,19 @@ Handles are idea-finders. Desk still owns theme + quality + FV.
 
 ### Master name table
 
-| Name | Board | Handle | Their level | SKU | Filter | Desk tag |
+| Name | Board | Handle(s) | Their add ₹ | SKU | Filter | Desk tag |
 |---|---|---|---|---|---|---|
 | **STL Tech** | Main | Suresh | prefer vs other OFC | Preform + OFC / DC glass | **Pass** | Already on watchlist HOLD |
 | **HFCL** | Main | Suresh | history hold | OFC | **Pass** | Already HOLD |
 | **CFF Fluid** | **Main now** | Scooper, amurfalcon | migrate + P75i | Defence fluid | **Pass theme** | **MOVE to watchlist.md.** Still CAP ~55× |
-| **Merritronix** | SME | amurfalcon, Vihaan list | holding / next in line | ESDM | **Pass** | Already SME Core. Add ≤₹280 |
+| **Merritronix** | SME | amurfalcon, Vihaan | holding / next in line | ESDM | **Pass** | Already SME Core. Add ≤₹280 |
 | **Devson Catalyst** | SME | Vihaan | Tata NH3 order | Catalyst | **Pass** | Already SME Core. Add ≤₹200 |
 | **Metallic Technoforge** | SME | Vihaan | +50% from IPO | Forging | **Pass** | Already SME Core. Add ≤₹105 |
 | **Shree Refrigerations** | SME | Vihaan | Added **₹400** then **₹370** | Marine HVAC | **Pass theme** | Already Cap. Desk add ≤₹300. His add is **above** desk |
 | **Influx / Remus / CDMO sleeve** | mix | Suresh | sector safest | CDMO | **Pass theme** | File on SME Core. No new ticker printed |
 | **TechEra Engineering** | SME | Varghese | ₹7.51 Cr defence orders | Aero structure / LCA | **Pass theme** | **File candidate** — not on list |
 | **Neetu Yoshi** | SME | Varghese | RDSO friction wedge | Rail safety parts | Borderline (rail infra, not defence atom) | File only if RDSO book prints |
-| **Titagarh / BHEL** | Main | Varghese | VB sleeper 35-yr Jv | Rail OEM | Power-adj / cap-goods | Watch order. Not MOS |
+| **Titagarh / BHEL** | Main | Varghese | VB sleeper 35-yr JV | Rail OEM | Power-adj / cap-goods | Watch order. Not MOS |
 | **Saatvik Green** | Main | Varghese | SECI ₹1,042 Cr + ₹476 Cr | Solar modules | Power / RE | File vs Emmvee sleeve. Not auto-add |
 | **Diamond Power** | Main | Varghese | ₹179 Cr Adani UG cable; book ₹3,688 Cr | Cables | **Pass theme** | Quality flag = NCLT exit / ₹22k Cr cap. **No-add** until cash prints |
 | **JG Chemicals** | Main | Rupak | tyre-zinc vendor, 30% share | Spec chem | Borderline materials | File. Not four-theme core |
@@ -69,9 +69,9 @@ Handles are idea-finders. Desk still owns theme + quality + FV.
 - Taurian — dwived + amurfalcon — still **cut**
 - STL — Suresh only this window, already on main list
 
-### List actions from this seed
+### List actions from this scan
 
-1. Move **CFF Fluid Control** from `SMEwatchlist.md` Cap → `watchlist.md` NO-ADD (mainboard, still 55×).
+1. Move **CFF Fluid Control** from `SMEwatchlist.md` Cap → `watchlist.md` NO-ADD (mainboard, still ~55×).
 2. Open a **File** card on **TechEra Engineering** (defence aero orders). Do not Core yet.
 3. Do not restore Anondita, Taurian, LT Elevator, Millworks, Kwick, Qualiance.
 4. No new MOS adds from this window. Vihaan’s Shree ₹370 is still above desk ≤₹300.
