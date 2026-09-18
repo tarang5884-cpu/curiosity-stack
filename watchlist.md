@@ -1,9 +1,10 @@
 # Curiosity Stack Watchlist
 
-**Last Updated**: 18 September 2026 (rev 10 — CFF added post-migration)  
+**Last Updated**: 18 September 2026 (rev 11 — Goldman AI overlay pointer)  
 **Board:** NSE / BSE **mainboard only**  
 **SME names live in** [`SMEwatchlist.md`](SMEwatchlist.md) — do not duplicate them here.  
-**Filter:** [`library/FILTER-structural-quality.md`](library/FILTER-structural-quality.md)
+**Filter:** [`library/FILTER-structural-quality.md`](library/FILTER-structural-quality.md)  
+**GS AI screen overlay:** [`library/GOLDMAN-AI-watchlist.md`](library/GOLDMAN-AI-watchlist.md) — 42 names, overlap + MOS. Not a third live book.
 
 Themes: Defence · Power / T&D · Technology manufacturing · Biotech + energy materials.  
 MOS = gap under working FV + liquidity + kill switch.
@@ -18,6 +19,8 @@ MOS = gap under working FV + liquidity + kill switch.
 | **SMEwatchlist.md** | NSE Emerge / BSE SME only. Core / Cap / File / Cut. Max 2 Live |
 
 A name is on **exactly one** list. If it migrates off SME, move the row here and delete it there.
+
+Goldman’s 42 AI Enablers live in `library/GOLDMAN-AI-watchlist.md`. Only names that already pass FILTER stay actionable here.
 
 ---
 
@@ -82,6 +85,7 @@ SME MOS (Merritronix ≤₹280) lives on `SMEwatchlist.md`.
 | **ABB as DC proxy** | Power mix. Jefferies UW |
 | **CleanMax @ ~₹1,247** | Inside work mid |
 | **CFF Fluid Control** | Defence fluid. Migrated mainboard. Still ~55×; P75i is next trigger. Cap until multiple compresses |
+| **Kaynes / Syrma (GS AI sleeve)** | EMS 80–100×. See `library/GOLDMAN-AI-watchlist.md`. Add only ≤₹2,200 / ≤₹1,050 |
 
 ---
 
