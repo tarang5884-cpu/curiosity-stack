@@ -1,6 +1,6 @@
 # Curiosity Stack Watchlist
 
-**Last Updated**: 18 September 2026 (rev 9)  
+**Last Updated**: 18 September 2026 (rev 10 — CFF added post-migration)  
 **Board:** NSE / BSE **mainboard only**  
 **SME names live in** [`SMEwatchlist.md`](SMEwatchlist.md) — do not duplicate them here.  
 **Filter:** [`library/FILTER-structural-quality.md`](library/FILTER-structural-quality.md)
@@ -23,7 +23,7 @@ A name is on **exactly one** list. If it migrates off SME, move the row here and
 
 ## Theme map (mainboard)
 
-**Defence:** Marine Electricals · Astra / Data Patterns · MTAR · Azad (no-chase) · Apollo Micro (no-chase)
+**Defence:** Marine Electricals · Astra / Data Patterns · MTAR · Azad (no-chase) · Apollo Micro (no-chase) · **CFF Fluid Control** (migrated)
 
 **Power / T&D / cables / grid:** GE Vernova T&D · Hitachi Energy · Siemens Energy · CG Power · Quality Power · TARIL · Kanohar (no-add @ ₹817) · TD Power · Cummins · Polycab · RR Kabel · Finolex · Laser Power · Welspun Corp · KSH · Dynamic Cables · Universal Cable · NLC · CleanMax · INOX · Emmvee · Schneider / SEIL · Siemens India  
 *Yash HV is still SME platform → `SMEwatchlist.md`.*
@@ -81,6 +81,7 @@ SME MOS (Merritronix ≤₹280) lives on `SMEwatchlist.md`.
 | **E2E / Netweb** | Tech beta, peak multiple |
 | **ABB as DC proxy** | Power mix. Jefferies UW |
 | **CleanMax @ ~₹1,247** | Inside work mid |
+| **CFF Fluid Control** | Defence fluid. Migrated mainboard. Still ~55×; P75i is next trigger. Cap until multiple compresses |
 
 ---
 
