@@ -1,18 +1,12 @@
 # SME weekly scan stack (Monday IST)
 
-Filter first: `library/FILTER-structural-quality.md`.
+Two watchlists only: `watchlist.md` (main) · `SMEwatchlist.md` (SME).
 
-| Time | Automation | What |
+| Time | Automation | Writes |
 |---|---|---|
-| **08:20** | `Weekly structural-quality sector filter` | Theme + quality prune. Push lists. |
-| 08:30 | `SME weekly X scan` | Vihaan + Suresh. Keep only if filter already passed. |
-| 08:35 | `SME weekly scan` | Best Core tape + Layer B + SPJ SIT |
+| **08:20** | Weekly structural-quality sector filter | Both lists + FILTER log |
+| 08:30 | SME weekly X scan | Cues only. Promote onto `SMEwatchlist.md` Core only if filter passes |
+| 08:35 | SME weekly scan | Score `SMEwatchlist.md` Core table |
 
-## Best Core (mandatory table every 08:35)
-
-Devson Catalyst, Merritronix, Metallic Technoforge, Concord Control, Apsis Aerocom, Influx Healthtech, Remus Pharma.
-Cap sleeve: CFF, Yash HV, OBSCP, Vivid, Shree Ref, Accord TX.
-
-Ignore unless filing: Qualiance, Kwick, Hy-Tech, Susan, Ashutosh, Monolithisch, Goldstar, Aegeus, Anawil, Millworks, Shanti, Aimtron, Prizor, FlySBS, Sotefin, Plasma, Systematic, Taurian.
-
-Anchors: Abakkus or Kacholia/Bengal only. Vikasa/Rajasthan Global alone = IGNORE.
+Best Core = the Core table inside `SMEwatchlist.md`.  
+Do not recreate `sme-best-core.md` content.

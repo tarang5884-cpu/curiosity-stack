@@ -1,11 +1,11 @@
 # Filter — structural runway + business quality
 
 **As of:** 18 September 2026  
-**Cadence:** Monday **08:20 IST** automation `Weekly structural-quality sector filter` (task `d382d2ab-a21e-4a35-b6a2-9890f8fb9dde`)  
-**Runs before:** SME X scan 08:30 · SME Best Core 08:35  
-**Applies to:** `watchlist.md` · `MOAT-list.md` · `library/sme-best-core.md` · `library/sme-tracker.md` · `library/sme-25-study-docket.md`
+**Cadence:** Monday **08:20 IST** automation `Weekly structural-quality sector filter`  
+**Lists it owns:** [`watchlist.md`](../watchlist.md) (mainboard) · [`SMEwatchlist.md`](../SMEwatchlist.md) (SME)  
+**There are no other watchlists.** `library/sme-*.md` files are stubs.
 
-A name stays on an *action* list only if it clears **both** gates.
+A name stays on an *action* list only if it clears **both** gates. A name sits on **exactly one** of the two lists.
 
 Next scheduled run: **Monday 21 Sep 2026, 08:20 IST**.
 
@@ -14,69 +14,52 @@ Next scheduled run: **Monday 21 Sep 2026, 08:20 IST**.
 ## 0. Weekly job
 
 Each Monday the automation:
-1. Re-reads this file + the five lists.
-2. Applies theme + quality gates to every name, including new flow from the prior 7 days.
-3. Cuts / restores / tags NO-ADD.
-4. Pushes a dated log block here and bumps `watchlist.md` rev if the set changed.
-5. Sends Tarang a one-page delta.
+1. Reads this file + `watchlist.md` + `SMEwatchlist.md`.
+2. Applies theme + quality gates.
+3. Moves a name between the two files if it listed up / stayed SME.
+4. Cuts / restores / tags NO-ADD.
+5. Pushes a dated log block here.
+6. Sends Tarang a one-page delta.
 
-Restore a cut name **only** if a filing changed the SKU. Listing pop is not a restore.
+Restore a cut name **only** if a filing changed the SKU.
 
 ## 1. Theme gate — structural runway (2026–30)
 
-Keep only if the SKU sits in one of these India clocks:
-
 | Theme | What counts | What does not |
 |---|---|---|
-| **Defence** | Qualified parts, fluid, electro, aero machining, sensors with a named OEM / MoD book | “Defence” caption, charter aviation, forensic kits |
-| **Power** | T&D OEM, HV SKU, cables, line-pipe, genset, grid cooling, funded RE cell/IPP | Listing-week boiler shops, coal-steam with RPT |
-| **Technology manufacturing** | EMS / ESDM, precision electronics, OFC invoice glass, DC design with cash | GPU-rental lottery, colo IPO narrative, CCTV vs China |
-| **Biotech / spec life-science + energy materials** | CDMO / formulation with export proof; carbon / catalyst that feeds steel, LFP, H2 | Fragrance, hospital roll-up, device one-liner |
+| **Defence** | Qualified parts, fluid, electro, aero, sensors with named OEM / MoD book | Caption, charter aviation, forensic kits |
+| **Power** | T&D OEM, HV SKU, cables, line-pipe, genset, grid cooling, funded RE | Listing-week boiler, coal-steam with RPT |
+| **Technology manufacturing** | EMS / ESDM, precision electronics, OFC invoice glass, DC design with cash | GPU-rental lottery, colo IPO, CCTV vs China |
+| **Biotech / energy materials** | CDMO / formulation with export proof; carbon / catalyst for steel, LFP, H2 | Fragrance, hospital roll-up, device one-liner |
 
-Precision auto (stator, harness, forged ring, MIM) stays only if the shop is **quality** and the part is hard to skip. Generic auto ancillary is out.
+Precision auto stays only if the shop is quality and the part is hard to skip.
 
-## 2. Quality gate — fail any one = delete from action lists
+## 2. Quality gate
 
-- No scarce SKU or switching cost  
-- Top-10 customers ~100% with no second geography  
-- RPT / group sales unexplained >15%  
-- CIRP, pledge circus, or Ketan-list  
-- SME with no exit (≤₹3 Cr ADV) **and** no work-FV MOS  
-- Peak-margin + peak-PE on a mid-cycle industrial  
+- No scarce SKU  
+- Top-10 ~100% and no second geography  
+- Unexplained RPT >15%  
+- CIRP / pledge circus  
+- SME with no exit and no work-FV MOS  
+- Peak-margin + peak-PE as the only story (NO-ADD, not auto-delete from universe)  
 - Book <0.5× sales while targeting 3×  
-- Theme is policy-toy or listing flow (parking, private jet, apparel export shop)
+- Policy-toy or listing flow
 
-Valuation CAP is **not** an automatic delete from the *universe*. It is a delete from ADD. Universe can hold Azad / Cyient DLM / Yash as **no-chase**. Action lists cannot.
+## 3. Which file
 
-## 3. File roles after the cut
-
-| File | Role |
+| If | Then |
 |---|---|
-| `watchlist.md` | Only names that pass both gates |
-| `MOAT-list.md` | Research universe inside the four themes |
-| `sme-best-core.md` | SME that pass both gates. Max 2 Live |
-| `sme-tracker.md` | Flow log. Chase names are **not** Core |
-| `CUT-log` below | Deleted names + reason |
+| NSE / BSE mainboard | `watchlist.md` |
+| NSE Emerge / BSE SME | `SMEwatchlist.md` |
+| Migrates off SME | Move the row. Do not copy. |
 
-## 4. CUT log — 18 Sep 2026 (seed run)
+## 4. CUT log — 18 Sep 2026 (seed)
 
-Deleted from action lists (watchlist ADD/HOLD/queue + Best Core). Archive only if needed for tape memory.
-
-### No structural India theme
-Qualiance International (EU technical apparel) · Sacheerome (fragrance) · Sotefin Bharat (parking) · FlySBS Aviation (charter) · Kwick Forensic (govt kits) · Aye Finance (NBFC) · Freshara Agro · L.T. Elevator · Afcom Holdings · Unihealth Hospitals · ABS Marine (satellite boat, not defence atom)
-
-### Theme maybe, quality fail
-Steamhouse India (RPT / coal-steam) · DIACABS (CIRP) · ESDS Software (narrative colo IPO) · Aimtron Electronics (book ₹98 Cr vs ₹900 Cr dream) · Prizor Viztech (CCTV vs China) · Goldstar Power (SPJ sit only) · Aegeus Technologies (no SKU file) · Anawil Wire (one-liner) · Millworks (slump-sale sales) · Shanti Inorganic (COD FY28) · Hy-Tech Engineers · Susan Electrical · Ashutosh Fiber · Monolithisch · Vegorama · MV Electrosystems (SPJ flip / chase) · Omni Tech · Technocrats Plasma · Systematic Industries · Taurian MPS · Avience Biomedicals · Anondita Medicare · Accent Microcell · Aptus Pharma · Prime Cable · Vmarc · Goodluck (cyclical steel, not scarce SKU)
-
-### Demoted off MOS ADD (theme ok, not the quality compounder)
-ISGEC (process EPC) · Kilburn · BLEL · KMEW (marine infra, not four-theme atom) · Aeroflex (BOM hose) · Rolex Rings stays HOLD only if forged-ring quality print holds — auto cycle, not core theme
-
-### Kept as universe / no-chase (theme + quality shop, PE is CAP)
-Azad · Apollo Micro · Cyient DLM · Acutaas · CFF · Yash HV · OBSCP · Vivid · E2E · Netweb · Kanohar · Dhoot · Divgi — **no ADD**, not deleted from memory
+See git history of rev 8 for the full prune. Apparel / forensic / fragrance / parking / charter / one-liner flow stay cut.
 
 ## 5. Week log
 
 | Week of | Cuts | Restores | Notes |
 |---|---|---|---|
-| 2026-09-18 | seed prune (~45) | — | Filter created. Automation armed. |
+| 2026-09-18 | seed prune (~45) | — | Two-list split. |
 | 2026-09-21 | *(automation)* | | First scheduled run. |
