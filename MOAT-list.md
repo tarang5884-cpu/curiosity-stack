@@ -1,85 +1,78 @@
-# MOAT List – Curiosity Stack
+# MOAT List — Curiosity Stack
 
-**Last Updated:** 19 August 2026  
-**Purpose:** High-potential research universe for deep-dive analysis under Curiosity Framework (6-layer audit, J-Curve, Fair Value, India Proxy).  
-**Filter Philosophy:** Prefer real business growth, sector tailwinds (defence, power, electronics/EMS, precision engineering, specialty chemicals/pharma), and structural positioning over pure narrative or low-float stories.
+**Last Updated:** 18 September 2026 (rev 2)  
+**Filter:** `library/FILTER-structural-quality.md`  
+Universe for deep-dive only. Not a buy list.
 
 ---
 
-## Core MOAT Universe (Deduplicated)
-
-### Defence / Aerospace / Precision Engineering
-- Azad Engineering
+## Defence / aerospace / qualified parts
+- Azad Engineering (no-chase PE)
 - MTAR Technologies
-- Apollo Micro Systems
+- Apollo Micro Systems (no-chase PE)
 - Krishna Defence
 - Apsis Aerocom
-- Sigma Advanced Systems
-- Digilogic Systems
-- CFF Fluid Control
+- CFF Fluid Control (CAP)
+- Concord Control Systems
+- Vivid Electromech (no-chase PE)
+- Marine Electricals
 - DEE Development Engineers
 - Patil Automation
 - Poojaa Precision Engineering
-- Omnitech Engineering
-- FlySBS Aviation
+- Data Patterns / Astra Microwave (queue)
 
-### Power / Electrical / Transformers / Energy
+## Power / T&D / cables / energy infra
 - Yash Highvoltage
 - TD Power Systems
-- Transformers & Rectifiers India
+- Transformers & Rectifiers India (TARIL)
+- Kanohar Electricals (no-add @ listing-week PE)
 - Quality Power
-- Danish Power
-- Fujiyama Power
-- Atlanta Electricals
-- Avana Electrosystems
-- Vivid Electromech
-- Kernex Microsystems
-
-### Electronics / EMS / Semicon-adjacent
-- Aimtron Electronics
-- Concord Control Systems
-- Sedemac Mechatronics
-- Prizor Viztech
-- Millworks Technologies
-
-### Specialty Manufacturing / Materials / Wires
-- Vidya Wires
-- Precision Wires India
-- Indo-MIM
-- Shaily Engineering Plastics
+- GE Vernova T&D / Hitachi Energy / Siemens Energy
+- CG Power
+- Laser Power & Infra
+- Polycab / RR Kabel / Finolex
+- Welspun Corp
 - KSH International
-- OBSC Perfection
-- Systematic Industries
-- Taurian MPS
+- Dynamic Cables / Universal Cable
+- Cummins India
+- CleanMax / Emmvee / INOX / NLC
 
-### Pharma / Healthcare / Life Sciences
-- Anondita Medicare
-- Remus Pharmaceuticals
-- Accent Microcell
-- Beta Drugs
-- Aptus Pharma
-- Influx Healthtech
-- Unihealth Hospitals
-
-### Others / Emerging
-- Aequs
-- Afcom Holdings
-- Freshara Agro
-- Sacheerome
-- Shree Refrigerations
-- Alpex Solar
-- L. T. Elevator
+## Technology manufacturing / EMS / ESDM / glass
 - Merritronix
+- Pitti Engineering
+- Varroc / MSWIL
+- Centum Electronics
+- Indo-MIM
+- Precision Wires India
+- Sterlite Tech / HFCL
+- KRN Heat Exchanger
+- Cyient DLM (no-chase PE)
+- Aurionpro
+- Sedemac Mechatronics
+- Vidya Wires
+- Shaily Engineering Plastics
+
+## Biotech / spec chem / energy materials
+- Himadri Speciality
+- Devson Catalyst
+- Acutaas Chemicals (no-chase PE)
+- Beta Drugs
+- Remus Pharmaceuticals
+- Influx Healthtech
+- Anlon Healthcare
+- GFL / Neogen
+
+## Holding overlay
+- Reliance Industries
 
 ---
 
-## Notes for Analysis Priority
-1. **High Priority (already partially analysed or strong prior context):** Yash Highvoltage, Aimtron Electronics, CFF Fluid Control, DEE Development Engineers, Merritronix, Vidya Wires, MTAR Technologies, Azad Engineering, Apollo Micro Systems.
-2. **Defence & Power cluster** – strongest structural tailwinds currently.
-3. **Avoid pure low-float narrative plays** without demonstrated double-digit sales CAGR or clear order visibility.
-4. Run full 6-layer + J-Curve + Fair Value only on names that clear basic growth and governance screens.
+## Removed from MOAT (18 Sep)
+Qualiance, Steamhouse, FlySBS, Sotefin, Kwick, Sacheerome, Aimtron, Prizor, Freshara, LT Elevator, Afcom, Unihealth, Anondita, Accent Microcell, Aptus, Alpex-as-core, Fujiyama, Atlanta Electricals, Avana, Danish Power, Sigma Advanced, Digilogic, Omnitech, Millworks, Systematic, Taurian, Plasma, Kernex (re-file only if book prints).
 
 ---
 
-## Change Log
-- 2026-08-19: Initial MOAT list created from user-provided universe (duplicates removed, thematically grouped).
+## Analysis priority
+1. Already stacked: Yash, Merritronix, Devson, Kanohar, TARIL, Laser, Himadri, Pitti, CFF.
+2. Next files: Concord, Apsis, Influx, Remus, Centum, Indo-MIM, QPower book print.
+3. Do not reopen retired names without a SKU change in a filing.

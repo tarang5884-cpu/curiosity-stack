@@ -1,54 +1,45 @@
 # SME Tracker
 
-**Status:** radar / cues — not a buy list. Not SEBI advice.
-**Best Core weekly file:** `library/sme-best-core.md` (Monday 08:35).
-**Rules:** low-float OK at 0.3–0.75%. No add on UC / 52W-high day. Work FV + delivery volume on a down day. Max 2 live SME names. 2-q kill if product tonnes / book do not print.
+**Status:** radar / cues.  
+**Filter:** `library/FILTER-structural-quality.md`  
+**Best Core:** `library/sme-best-core.md`  
+Max 2 live SME. No add on UC / 52W-high day.
 
-## Source handles (weekly scan)
+## Source handles
 
-| Source | Role | Weight |
-|---|---|---|
-| [@Vihaan_001_](https://x.com/Vihaan_001_) | SME add-prices + IPO | Flow |
-| [@SureshKBN](https://x.com/SureshKBN) | Process | Override on MOS |
-| Layer B HNIs | Kacholia/Bengal, Nasser, Abakkus, Mukul, Dolly, Porinju, Kedia, Kela | Quality sit |
-| SPJ | Bulk **SIT only** (no standalone job) | Flow |
+| Source | Role |
+|---|---|
+| @Vihaan_001_ | Flow only. Never size. |
+| @SureshKBN | Process override |
+| Layer B HNIs | Quality sit |
+| SPJ | SIT only |
 
-## Best Core (score every Monday)
+## Best Core (Monday score)
 
-Devson Catalyst · Kwick Forensic · Aegeus · Merritronix · OBSCP Perfection · Anawil · Metallic Technoforge · Millworks · Shanti Inorganic · Goldstar Power · Qualiance.
-Cap / no-chase: Shree Refrigerations · Yash HV · CFF Fluid · Omni Tech.
+Devson Catalyst · Merritronix · Metallic Technoforge · Concord Control · Apsis Aerocom · Influx Healthtech · Remus Pharma
 
-## Active (Vihaan tape — not all are Core)
+Cap / no-chase: CFF · Yash HV · OBSCP · Vivid · Shree Ref · Accord TX
 
-| Ticker / name | His add | Last note | CSK tag | Overlap |
-|---|---|---|---|---|
-| Hy-Tech Engineers (`HTEL`) | 75 | 10 Sep UC | Chase — no add | — |
-| Shanti Inorganic | ~160 | COD slipped Q2 FY28 | Stalk | **Core** |
-| MV Electrosystems | 520 | +80% by 8 Sep | Chase / CAP | SPJ flipped |
-| Kwick Forensic | 144 | 120 debtor days | Stalk + cash | **Core**; SPJ 3 Sep |
-| Ashutosh Fiber | 145 | One-liner | Watch | — |
-| Devson Catalyst | — | Tata Steel ammonia-decomp; work ₹190–240 add ≤₹200 | Stalk | **Core** + watchlist HOLD |
-| Susan Electrical | 182 | “2x” | Chase | — |
-| Shree Refrigerations | ~400 | 68×; DC FY28 | CAP | Cap sleeve |
-| Monolithisch | 372 | sold some | Trim | — |
-| OBSCP Perfection | — | sold some after 3× | Trim | **Core** |
-| Yash Highvoltage | 395 | sold some | Trim / SKU real | Cap sleeve |
-| Qualiance International | — | Listed 11 Sep ₹225 → ₹202. Work ₹110–160 add ≤₹150 | Stalk | **Core** + watchlist HOLD |
-| Merritronix | — | Work ₹280–370 add ≤₹280 | Hold sized | **Core** + MOS add |
+## Flow tape — do not promote without filter pass
+
+Vihaan / SPJ names that **failed** the 18 Sep filter stay off Core: Hy-Tech, Susan Electrical, Ashutosh Fiber, Monolithisch, Vegorama, MV Electro, Kwick Forensic, Qualiance, Goldstar, Aegeus, Anawil, Millworks, Shanti Inorganic, Aimtron, Prizor, FlySBS, Sotefin.
+
+Tag them **IGNORE** unless a filing changes the SKU.
 
 ## CSK gates before Live
 
-1. Sales CAGR ≥10% or 2-q inflection in filings.
-2. Work FV ≥25% above add. SME 40–60× is CAP.
-3. Exit half the ticket in one session without an 8% hole.
-4. Debtor days <150 unless booked as WC risk.
-5. Circuit / UC week = wait.
-6. SPJ FLIP is not a ticket. SPJ SIT still needs work FV.
+1. Theme is Defence / Power / Tech-mfg / Biotech-materials.
+2. Sales CAGR ≥10% or 2-q inflection.
+3. Work FV ≥25% above add.
+4. Exit half without an 8% hole.
+5. Debtor days <150 unless contract-backed.
+6. Circuit week = wait.
+7. SPJ FLIP is not a ticket.
 
 ## Log
 
 | Date | Action |
 |---|---|
 | 2026-09-10 | File created from Vihaan scrape. |
-| 2026-09-15 | SPJ standalone bulk job dropped. Best Core list + SPJ SIT folded into Monday 08:35 SME weekly scan. |
-| 2026-09-18 | Qualiance full-stack locked. Devson / Merritronix / Qualiance copied onto watchlist.md rev 7. |
+| 2026-09-15 | SPJ standalone bulk job dropped. |
+| 2026-09-18 | Structural-quality filter. Flow names that fail theme/quality removed from Core. |

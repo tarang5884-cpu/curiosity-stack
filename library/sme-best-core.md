@@ -1,40 +1,38 @@
 # SME Best Core — weekly track list
 
-**Status:** radar. Max 2 Live. Not SEBI advice.
-**Scan:** Monday 08:35 `SME weekly scan` (investors + SPJ SIT + this list).
-**Rules:** no add on UC / 52W-high day. 0.3–0.75%. Work FV + BASE READY. 2-q kill if tonnes / book miss.
+**Status:** radar. Max 2 Live.  
+**Filter:** `library/FILTER-structural-quality.md`  
+**Scan:** Monday 08:35
+
+Rev 18 Sep: cut apparel / forensic / fragrance / parking / charter / one-liner flow.
 
 ## Core (score every week)
 
-| Name | Why on list | Stance seed (18 Sep 2026) | Tape |
+| Name | Theme | Why it survived | Stance |
 |---|---|---|---|
-| Devson Catalyst | CSK run; Tata Steel ammonia-decomp | Stalk / queue. Work ₹190–240. Add only ≤₹200 | Full stack 16 Sep |
-| Kwick Forensic | CSK run; govt kits; 120 debtor days | Stalk + cash tripwire | SPJ bulk 3 Sep |
-| Aegeus Technologies | CSK Q3 / peers | Stalk | SPJ bulk 11 Aug |
-| Merritronix | AR + CSK | Hold sized. Work ₹280–370. Add ≤₹280 | On MOS table |
-| OBSCP Perfection | CSK; already extended | Trim / MEAN-REV. Wait ≤₹480 | — |
-| Anawil Wire | CSK | Stalk | — |
-| Metallic Technoforge | CSK / forging adjacent | Stalk. Add ≤₹105 | — |
-| Millworks | CSK | CAP. Wait ≤₹650 | — |
-| Shanti Inorganic | Capex real; COD FY28 | Stalk | — |
-| Goldstar Power | Only SPJ 4.5% SHP sit | Watch SHP | SIT |
-| Qualiance International | SPJ 11 Sep bulk SIT + CSK full stack 18 Sep | Stalk. Work ₹110–160. Add ≤₹150. Kill if Swiss book slips | Listed 11 Sep ₹225 → ₹202 |
+| Devson Catalyst | Energy materials | Ammonia-decomp / steel-H2 SKU | Stalk. Work ₹190–240. Add ≤₹200 |
+| Merritronix | Tech / ESDM | Precision electronics shop | Hold sized. Work ₹280–370. Add ≤₹280 |
+| Metallic Technoforge | Precision | Forging adjacent to mobility / defence | Stalk. Add ≤₹105 |
+| Concord Control | Defence-adj | Rail / defence controls | File / stalk on book |
+| Apsis Aerocom | Defence | Aero cert + book | File |
+| Influx Healthtech | Biotech CDMO | SME CDMO, 22% EBITDA | File. Capex util gate |
+| Remus Pharma | Biotech | US/EU formulation | File |
 
-## Cap / no-chase (still score tape)
+## Cap / no-chase (theme + shop, PE is CAP)
 
-Shree Refrigerations · Yash Highvoltage · CFF Fluid Control · Omni Tech Engineering
+CFF Fluid Control · Yash Highvoltage · OBSCP Perfection · Vivid Electromech · Shree Refrigerations · Accord Transformer
 
-## Not core (chase / one-liner — ignore unless filing)
+## Cut from Core (18 Sep)
 
-Hy-Tech Engineers · Susan Electrical · Ashutosh Fiber · Monolithisch · Vegorama
+Qualiance · Kwick Forensic · Aegeus · Anawil · Millworks · Shanti Inorganic · Goldstar Power · Sacheerome · Sotefin · FlySBS · Aimtron · Prizor · Plasma · Systematic · Taurian · Avience · Hy-Tech · Susan · Ashutosh · Monolithisch · Vegorama · MV Electro · Omni Tech
 
 ## Not SME — do not score here
 
-Kanohar Electricals (mainboard TX) · Steamhouse India (mainboard process) · Laser Power (mainboard cable)
+Kanohar · TARIL · Steamhouse · Laser Power · Welspun · Himadri · Azad · Cyient DLM
 
 ## Week log
 
 | Week of | Verdict |
 |---|---|
-| 2026-09-15 | List created. First scored week is 21 Sep automation run. |
-| 2026-09-18 | Qualiance / Devson / Merritronix bands locked from desk full-stack. |
+| 2026-09-15 | List created. |
+| 2026-09-18 | Structural-quality filter. Core cut to 7 + cap sleeve. |

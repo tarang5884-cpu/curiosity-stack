@@ -1,26 +1,17 @@
 # SME weekly scan stack (Monday IST)
 
-SPJ standalone bulk job **deleted** (overlap). SIT-only prints live inside 08:35.
+Filter first: `library/FILTER-structural-quality.md`.
 
 | Time | Automation | What |
 |---|---|---|
-| 08:30 | `SME weekly X scan` | Vihaan + Suresh. Flag Best Core mentions. |
-| 08:35 | `SME weekly scan` | **Best Core tape** + Layer B investors + SPJ **SIT only** + quality anchors |
-
-Files: `sme-best-core.md` · `sme-tracker.md` · `sme-investor-scan-roster.md`.
+| 08:30 | `SME weekly X scan` | Vihaan + Suresh. Keep only if theme + quality pass. |
+| 08:35 | `SME weekly scan` | Best Core tape + Layer B + SPJ SIT |
 
 ## Best Core (mandatory table every 08:35)
 
-Devson Catalyst, Kwick Forensic, Aegeus, Merritronix, OBSCP, Anawil, Metallic Technoforge, Millworks, Shanti Inorganic, Goldstar Power, Qualiance.
-Cap sleeve: Shree Ref, Yash HV, CFF Fluid, Omni Tech.
+Devson Catalyst, Merritronix, Metallic Technoforge, Concord Control, Apsis Aerocom, Influx Healthtech, Remus Pharma.
+Cap sleeve: CFF, Yash HV, OBSCP, Vivid, Shree Ref, Accord TX.
 
-## Investors (08:35)
+Ignore unless filing: Qualiance, Kwick, Hy-Tech, Susan, Ashutosh, Monolithisch, Goldstar, Aegeus, Anawil, Millworks, Shanti, Aimtron, Prizor, FlySBS, Sotefin, Plasma, Systematic, Taurian.
 
-Kacholia/Bengal/Lucky · Nasser · Mukul/Param · Abakkus · Dolly · Porinju · Kedia · Upadhyaya · Parikh · Kela.
-SPJ / JAIN SANJAY POPATLAL **only if SIT**. Skip same-week buy/sell.
 Anchors: Abakkus or Kacholia/Bengal only. Vikasa/Rajasthan Global alone = IGNORE.
-
-## Output
-
-Best Core table → investor SIT/ADD/TRIM → max 5 tickets → adds/trims/kills vs last week.
-Never Live on UC week. Cues not buys.
